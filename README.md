@@ -14,6 +14,14 @@ Research Analyst @ US-Saudi Business Council
 
 [Predicting Election Outcomes with Decision Trees](http://www.realclearpolitics.com)
 
+[Dynamic Pricing Optimization in Python](http://www.google.com/)
+
+_________
+
+A few suggestions: 
+- Simple links as above. Can be short write-ups *or* just links to Kaggle notebooks or hosted Jupyter notebooks. I would suggest something like Chris Khan's [hosted notebooks](https://chriskhanhtran.github.io/minimal-portfolio/projects/ames-house-price.html).
+
+
 A few more Markdown review points.
 
 Astericks can be *used* (1 *) for **emphasis** (2 **) and other formatting ~~choices~~ (2 ~~)
