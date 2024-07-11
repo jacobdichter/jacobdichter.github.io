@@ -1,20 +1,31 @@
 <img src="https://storage.googleapis.com/algodailyrandomassets/curriculum/Data_Science/Getting%20to%20Know%20Decision%20Trees/decision_tree.png" width=200/>
-Jacob Dichter Portfolio Site
 
 # Data Scientist
 
 ### Education
-Masters, Computer Science
-Bachelors, Political Science
+Masters, Computer Science | University of Bridgeport <br>
+Bachelors, Political Science | George Washington University
 
 ### Work Experience
 Research Analyst @ US-Saudi Business Council
 
+<br>
+
 ### Projects
 
 [Predicting Election Outcomes with Decision Trees](http://www.realclearpolitics.com)
+<br>```Python``` ```SQL``` ```Power BI```
+> Analysis of outcomes using statistical methods
 
 [Dynamic Pricing Optimization in Python](http://www.google.com/)
+
+<br>
+
+### Articles
+
+[Connecting SQL Server to a Power BI Visualization](http://www.google.com/)
+
+[How Adapative Momentum Optimizes Learning Rate for Neural Networks](http://www.google.com/)
 
 _________
 
