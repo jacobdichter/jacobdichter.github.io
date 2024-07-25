@@ -13,10 +13,12 @@ Research Analyst @ US-Saudi Business Council
 
 ### Projects
 
+#### Data Mining
 [Predicting Election Outcomes with Decision Trees](http://www.realclearpolitics.com)
 <br>```Python``` ```SQL``` ```Power BI```
 > Analysis of outcomes using statistical methods
 
+##### Techniques
 [Dynamic Pricing Optimization in Python](http://www.google.com/)
 
 <br>
