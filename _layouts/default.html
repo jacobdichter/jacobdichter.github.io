@@ -8,7 +8,11 @@
 
 <!-- Highlight.js JavaScript -->
 <script src="{{ '/assets/js/highlight.min.js' | relative_url }}"></script>
-<script>hljs.highlightAll();</script>
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+  hljs.highlightAll();
+  });
+</script>
 </head>
 <body>
   <header>
