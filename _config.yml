@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Jacob Dichter
 description: Portfolio site
-markdown: kramdown
 collections:
   posts:
     output: true
