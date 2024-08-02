@@ -7,7 +7,8 @@ Masters, Computer Science | University of Bridgeport <br>
 Bachelors, Political Science | George Washington University
 
 ### Work Experience
-Research Analyst @ US-Saudi Business Council
+Graduate Teaching Assistant @ University of Bridgeport (2022-2023)
+Research Analyst @ US-Saudi Business Council (2019-2022)
 
 <br>
 
