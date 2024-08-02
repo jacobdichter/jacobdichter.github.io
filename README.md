@@ -1,18 +1,19 @@
 <p style="text-align: center;">
-    <img src="https://storage.googleapis.com/algodailyrandomassets/curriculum/Data_Science/Getting%20to%20Know%20Decision%20Trees/decision_tree.png" width="200" alt="Decision Tree">
+    <img src="https://storage.googleapis.com/algodailyrandomassets/curriculum/Data_Science/Getting%20to%20Know%20Decision%20Trees/decision_tree.png" width="250" alt="Decision Tree">
 </p>
 
+# Resume 
 
 ### Education
 Masters, Computer Science | University of Bridgeport <br>
 
 Bachelors, Political Science | George Washington University
-
+<br>
 ### Work Experience
 Graduate Teaching Assistant | University of Bridgeport (2022-2023) <br>
 
 Research Analyst | US-Saudi Business Council (2019-2022)
-
+<br>
 ### Projects
 
 #### Data Mining
