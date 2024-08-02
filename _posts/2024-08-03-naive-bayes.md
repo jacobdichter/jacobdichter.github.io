@@ -27,7 +27,7 @@ def compute_gaussian(x, mean, var):
 
 def main(): 
     ##---Load in the Iris dataset using Pandas read.csv
-    df = pd.read_csv("C:/Users/jacob/Documents/M.S. COMPUTER SCIENCE/Spring 2023/Data Mining/Assignment 2/iris.csv") 
+    df = pd.read_csv("iris.csv") 
     
     #---Randomize data and assign randomized data into dfrandom
     #--.sample shuffles ourdata
