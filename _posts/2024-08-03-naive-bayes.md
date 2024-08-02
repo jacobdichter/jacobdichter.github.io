@@ -9,4 +9,5 @@ I am going to spend some time review Data Mining assignments including the Naive
 
 ```python
     ##---Load in the Iris dataset using Pandas read.csv
-    df = pd.read_csv("C:/Users/jacob/Documents/M.S. COMPUTER SCIENCE/Spring 2023/Data Mining/Assignment 2/iris.csv") ```
+    df = pd.read_csv("C:/Users/jacob/Documents/M.S. COMPUTER SCIENCE/Spring 2023/Data Mining/Assignment 2/iris.csv")
+```
