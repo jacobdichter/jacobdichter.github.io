@@ -1,6 +1,7 @@
-<img src="https://storage.googleapis.com/algodailyrandomassets/curriculum/Data_Science/Getting%20to%20Know%20Decision%20Trees/decision_tree.png" width=200/>
+<p style="text-align: center;">
+    <img src="https://storage.googleapis.com/algodailyrandomassets/curriculum/Data_Science/Getting%20to%20Know%20Decision%20Trees/decision_tree.png" width="200" alt="Decision Tree">
+</p>
 
-# Data Scientist
 
 ### Education
 Masters, Computer Science | University of Bridgeport <br>
