@@ -4,13 +4,13 @@
 
 ### Education
 Masters, Computer Science | University of Bridgeport <br>
+
 Bachelors, Political Science | George Washington University
 
 ### Work Experience
-Graduate Teaching Assistant @ University of Bridgeport (2022-2023)
-Research Analyst @ US-Saudi Business Council (2019-2022)
+Graduate Teaching Assistant | University of Bridgeport (2022-2023) <br>
 
-<br>
+Research Analyst | US-Saudi Business Council (2019-2022)
 
 ### Projects
 
@@ -36,7 +36,7 @@ A few suggestions:
 - Simple links as above. Can be short write-ups *or* just links to Kaggle notebooks or hosted Jupyter notebooks. I would suggest something like Chris Khan's [hosted notebooks](https://chriskhanhtran.github.io/minimal-portfolio/projects/ames-house-price.html).
 
 
-A few more Markdown review points.
+A few more Markdown notes:
 
 Astericks can be *used* (1 *) for **emphasis** (2 **) and other formatting ~~choices~~ (2 ~~)
 
