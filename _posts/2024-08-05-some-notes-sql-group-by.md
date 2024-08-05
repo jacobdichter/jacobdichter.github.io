@@ -5,7 +5,7 @@ date: 2024-08-05 07:04:00 +0000
 categories: [blog]
 ---
 
-I was reviewing some ```easy``` StrataScratch SQL questions and found I still lacked a good intuition for writing SQL even though logically parsing
+I was reviewing some ```StrataScratch [easy]``` SQL questions and found I still lacked a good intuition for writing SQL even though logically parsing
 someone else's written SQL statements seemed straightforward.
 
 ```sql
