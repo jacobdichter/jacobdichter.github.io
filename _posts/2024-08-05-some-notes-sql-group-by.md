@@ -2,6 +2,7 @@
 layout: post
 title: "Some notes on the SQL GROUP BY statement"
 date: 2024-08-05 07:04:00 +0000
+author: Jacob Dichter
 categories: [blog]
 ---
 
