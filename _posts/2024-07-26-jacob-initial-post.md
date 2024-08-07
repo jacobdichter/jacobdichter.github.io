@@ -2,6 +2,7 @@
 layout: post
 title: "Jacob Initial Post"
 date: 2024-07-26 09:50:00 +0000
+author: Jacob Dichter
 categories: [blog]
 ---
 
