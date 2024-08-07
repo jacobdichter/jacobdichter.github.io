@@ -2,6 +2,7 @@
 layout: post
 title: "Developing REST API in Python and Consuming it in a Flask Web Application"
 date: 2024-08-07 07:04:00 +0000
+author: Zendaya
 categories: [blog]
 ---
 
