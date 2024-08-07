@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Implementing the Naive Bayes Classifier on the Iris Dataset"
+author: Jacob Dichter
 date: 2024-08-02 07:04:00 +0000
 categories: [blog]
 ---
