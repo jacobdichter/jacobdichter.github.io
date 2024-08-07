@@ -10,11 +10,13 @@ Masters, Computer Science | University of Bridgeport <br>
 
 Bachelors, Political Science | George Washington University
 <br>
+
 ### Work Experience
 Graduate Teaching Assistant | University of Bridgeport (2022-2023) <br>
 
 Research Analyst | US-Saudi Business Council (2019-2022)
 <br>
+
 ### Projects
 
 #### Data Mining
