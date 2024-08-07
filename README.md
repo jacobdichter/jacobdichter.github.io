@@ -3,6 +3,7 @@
 </p>
 
 ## Resume 
+_________
 
 ### Education
 Masters, Computer Science | University of Bridgeport <br>
