@@ -28,6 +28,7 @@ Research Analyst | US-Saudi Business Council (2019-2022)
 [Dynamic Pricing Optimization in Python](http://www.google.com/)
 
 <br>
+<br>
 
 ### Articles
 
