@@ -1,83 +1,36 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Papers | David Puelz</title>
-    <link rel="stylesheet" href="/assets/css/style.css?v=8104b26f0dbe48b93ca27b1e395b9b25dea0d06e">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .wrapper {
-            display: flex;
-            flex-direction: column;
-            height: 100vh;
-        }
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-        section {
-            display: flex;
-            flex: 1;
-        }
-        .left-column, .right-column {
-            flex: 1;
-            padding: 20px;
-            overflow-y: auto;
-        }
-        .left-column {
-            background-color: #f9f9f9; /* Light background for left column */
-        }
-        .right-column {
-            background-color: #ffffff; /* White background for right column */
-        }
-        h2 {
-            border-bottom: 2px solid #000;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+ <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+ <link rel="stylesheet" href="{{ "/assets/css/styles/stackoverflow-light.css" | relative_url }}">
+
+<!-- Highlight.js JavaScript -->
+<script src="{{ '/assets/js/highlight.min.js' | relative_url }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+  hljs.highlightAll();
+  });
+</script>
 </head>
 <body>
-    <div class="wrapper">
-        <header>
-            <h1><b><a class="classhead" href="https://www.davidpuelz.com/">David Puelz &emsp; <img align="middle" src="causal.png" width="70" height="70" /></a></b></h1>
-            <img src="/Puelz8.jpg" alt="Logo" width="150" height="150" />
-            <p>
-                <a href="./index.html">Research</a> | <a href="./teaching.html">Teaching</a> <br />
-                <a href="davidpuelzCV_Jun2024.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=TZGqbWcAAAAJ&hl=en&oi=ao">Google Scholar</a>
-            </p>
-            <p>Welcome to my website! I am a statistician and professor at UT Austin and The University of Austin (UATX). My research develops computational methods for applied data analysis, especially in economics + social + behavioral sciences.<br /><br />My identical twin is an Assistant Professor at Baylor College of Medicine. His website can be found <a href="https://cpuelz.github.io/">here</a>.</p>
-        </header>
-        <section>
-            <div class="left-column">
-                <h2 id="papers">Papers</h2>
-                <hr />
-                <h3 id="causal-inference-and-randomizations">Causal inference and randomizations</h3>
-                <p><a href="https://arxiv.org/pdf/2408.07765">A Bayesian Classification Trees Approach to Treatment Effect Variation with Noncompliance</a>, with J Fisher and S Deshpande, <em>submitted</em> (2024).</p>
-                <p><a href="https://arxiv.org/pdf/1910.10862.pdf">A Graph-Theoretic Approach to Randomization Tests of Causal Effects Under General Interference</a>, with G Basse, A Feller, and P Toulis, <em>Journal of the Royal Statistical Society, Series B</em> (2022).</p>
-                <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4929341">Financial Literacy and Financial Well-being</a>, with M Doh and R Puelz, <em>submitted</em> (2024).</p>
-                <!-- Add more paper entries as needed -->
-            </div>
-            <div class="right-column">
-                <h2 id="talks">Talks</h2>
-                <hr />
-                <p><a href="/jobtalk.pdf">Randomization, Machine Learning, and Everything in Between</a>. The University of Austin (2024) - New College of Florida (2024).</p>
-                <p>Randomization Tests of Causal Effects Under General Interference (<a href="/lunch_seminar.pdf">slides</a> + <a href="https://www.youtube.com/watch?v=hLmAXgVdQlc&amp;t=899s">video</a>). Salem Center Causal Inference Seminar - UT Austin (2022).</p>
-                <!-- Add more talk entries as needed -->
-            </div>
-        </section>
-    </div>
+  <header>
+    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+    <nav>
+      <ul>
+        <li><a href="{{ "/" | relative_url }}">Home</a></li>
+        <li><a href="{{ "/blog/" | relative_url }}">Blog</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </footer>
 </body>
 </html>
