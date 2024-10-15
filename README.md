@@ -20,38 +20,37 @@ Research Analyst | US-Saudi Business Council (2019-2022)
 ### Projects
 
 #### Data Mining
-#### [Interactive Global Trade Insights Dashboard in Power BI](http://www.realclearpolitics.com)<br>
+### [Interactive Global Trade Insights Dashboard in Power BI](http://www.realclearpolitics.com)<br>
 Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions.
+<br><br>
+<img src="https://media.licdn.com/dms/image/D4D12AQFT8r_SJAEU9A/article-cover_image-shrink_600_2000/0/1674317643138?e=2147483647&v=beta&t=Ak3YiO_4YuLRid3W90LWE-bghDGzm430vqMwhiilqAE" width=300>
 
-<img src="https://media.licdn.com/dms/image/D4D12AQFT8r_SJAEU9A/article-cover_image-shrink_600_2000/0/1674317643138?e=2147483647&v=beta&t=Ak3YiO_4YuLRid3W90LWE-bghDGzm430vqMwhiilqAE" width=300><br>
 Skills: ```Power BI``` ```SQL``` ```Dashboarding```
 <br><br>
 
-[Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
+### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
 Developed a geospatial locality recommendation system utilizing cosine similarity and k-means clustering in Python. Designed algorithm to analyze spatial data and user preferences, enhancing Connecticut town recommendations based on feature similarity.
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d8b7b3eabff3c4f1954d802/1607545456838-94PRD1R6ML2KPP0HHI63/Rent.PNG" width=300><br>
+<img src="https://images.squarespace-cdn.com/content/v1/5d8b7b3eabff3c4f1954d802/1607545456838-94PRD1R6ML2KPP0HHI63/Rent.PNG" width=300> <br>
 Skills: ```Python``` ```k-means clustering``` ```cosine similarity```
 <br><br>
 
-[Forecasting for the Litchfield Road Race Using Predictive Modeling](http://www.google.com/)<br>
+### [Forecasting for the Litchfield Road Race Using Predictive Modeling](http://www.google.com/)<br>
 Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data.
 
 <img src="https://www.worldclimateservice.com/wp-content/uploads/2020/08/CRPSS_Skill.png" width=300><br>
 Skills: ```Python``` ```sci-kit learn``` ```SQLite```
 
-
-##### Techniques
-[Dynamic Pricing Optimization in Python](http://www.google.com/)
-
-<br>
-<br>
+<br><br><br>
 
 ### Articles
 
 [Connecting SQL Server to a Power BI Visualization](http://www.google.com/)
 
 [How Adapative Momentum Optimizes Learning Rate for Neural Networks](http://www.google.com/)
+
+##### Techniques
+[Dynamic Pricing Optimization in Python](http://www.google.com/)
 
 _________
 
