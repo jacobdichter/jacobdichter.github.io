@@ -10,7 +10,6 @@ I was reviewing some ```StrataScratch [easy]``` SQL questions and found I still 
 someone else's written SQL statements seemed straightforward.
 
 ```sql
-
 SELECT 
     user_id,
     ROUND(SUM(listen_duration) / 60) AS total_listen_duration,
