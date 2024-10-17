@@ -5,3 +5,4 @@ markdown: kramdown
 collections:
   posts:
     output: true
+    tags: false
