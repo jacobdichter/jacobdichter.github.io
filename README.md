@@ -52,6 +52,8 @@ Skills: ```Python``` ```sci-kit learn``` ```SQLite```
 ##### Techniques
 [Dynamic Pricing Optimization in Python](http://www.google.com/)
 
+[Daniel and Jacob: Conversation Analysis](https://jacobdichter.github.io/assets/notebooks/kaggleNB_d-j-text-analysis.html)
+
 _________
 
 A few suggestions: 
