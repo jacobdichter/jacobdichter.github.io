@@ -7508,7 +7508,33 @@ a.anchor-link {
   }
 </style>
 <!-- End of mermaid configuration --></head>
-<body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
+
+    <style>
+        * {
+            box-sizing: border-box; /* Ensures padding and borders are included in the total width and height */
+            margin: 0; /* Resets default margins */
+            padding: 0; /* Resets default padding */
+        }
+        body {
+            display: flex; /* Use flexbox for centering */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            height: 100vh; /* Full viewport height */
+            background-color: #f0f0f0; /* Optional: background color */
+        }
+        .jcontent {
+            text-align: center; /* Center text within the content */
+            padding: 20px; /* Optional: add padding for spacing */
+            width: 80%; /* Adjust the width as needed */
+            max-width: 600px; /* Optional: set a maximum width */
+            background-color: #fff; /* Optional: background color for the content */
+            border-radius: 8px; /* Optional: rounded corners */
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
+        }
+
+
+
+<body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light"><div class="jcontent">
 <main><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -8658,5 +8684,6 @@ memory usage: 3.0+ MB
 </div>
 </div>
 </main>
+</div>>
 </body>
 </html>
