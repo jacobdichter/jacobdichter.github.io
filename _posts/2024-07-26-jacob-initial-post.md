@@ -62,5 +62,5 @@ mv assets/style/* ./
 
 The below chart shows the number of messages sent by Daniel and me over the decade preceding 2023. We can observe a low period when we lived together 2016 into 2017, moving to a max around when we were working full-time in office or remote. Finally, the chart declines when we both met our girlfriends and began relationships.
 
-<iframe src="/assets/dj_chart.html" width="500" height="300" frameborder="0"></iframe>
+<iframe src="/assets/dj_chart.html" width="700" height="500" frameborder="0"></iframe>
 <br>
