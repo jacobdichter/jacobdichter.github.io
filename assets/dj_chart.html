@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-f8fa4840e4f628c2dcefd4fe010b919b"}, "mark": {"type": "bar", "size": 15}, "encoding": {"color": {"field": "creator", "scale": {"domain": ["Jacob Dichter", "Daniel Dichter"], "range": ["#9AE3D1", "#00B4D8"]}, "type": "nominal"}, "tooltip": [{"field": "year", "title": "Year", "type": "ordinal"}, {"field": "message_count", "format": ",", "title": "Message Count", "type": "quantitative"}, {"field": "creator", "title": "Creator", "type": "nominal"}], "x": {"axis": {"labelAngle": -45, "titlePadding": 10}, "field": "year", "title": "Year", "type": "ordinal"}, "xOffset": {"field": "creator", "type": "nominal"}, "y": {"axis": {"titlePadding": 10}, "field": "message_count", "title": "Message Count", "type": "quantitative"}}, "height": 300, "title": "Count of Records by Year", "width": 500, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-f8fa4840e4f628c2dcefd4fe010b919b": [{"year": 2013, "creator": "Daniel Dichter", "message_count": 1410}, {"year": 2013, "creator": "Jacob Dichter", "message_count": 1337}, {"year": 2014, "creator": "Daniel Dichter", "message_count": 1390}, {"year": 2014, "creator": "Jacob Dichter", "message_count": 1124}, {"year": 2015, "creator": "Daniel Dichter", "message_count": 355}, {"year": 2015, "creator": "Jacob Dichter", "message_count": 274}, {"year": 2016, "creator": "Daniel Dichter", "message_count": 140}, {"year": 2016, "creator": "Jacob Dichter", "message_count": 143}, {"year": 2017, "creator": "Daniel Dichter", "message_count": 1203}, {"year": 2017, "creator": "Jacob Dichter", "message_count": 1187}, {"year": 2018, "creator": "Daniel Dichter", "message_count": 2139}, {"year": 2018, "creator": "Jacob Dichter", "message_count": 1955}, {"year": 2019, "creator": "Daniel Dichter", "message_count": 3301}, {"year": 2019, "creator": "Jacob Dichter", "message_count": 3488}, {"year": 2020, "creator": "Daniel Dichter", "message_count": 4328}, {"year": 2020, "creator": "Jacob Dichter", "message_count": 3679}, {"year": 2021, "creator": "Daniel Dichter", "message_count": 5463}, {"year": 2021, "creator": "Jacob Dichter", "message_count": 4404}, {"year": 2022, "creator": "Daniel Dichter", "message_count": 3311}, {"year": 2022, "creator": "Jacob Dichter", "message_count": 2554}, {"year": 2023, "creator": "Daniel Dichter", "message_count": 185}, {"year": 2023, "creator": "Jacob Dichter", "message_count": 153}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
