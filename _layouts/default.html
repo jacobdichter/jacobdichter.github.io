@@ -5,6 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+   <link rel="stylesheet" href="{{ "/assets/css/styles/base16/rebecca.css" | relative_url }}">
+
+<!-- Highlight.js JavaScript -->
+<script src="{{ '/assets/js/highlight.min.js' | relative_url }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+  hljs.highlightAll();
+  });
+</script>
+  
 </head>
 <body>
   <div class="container">
@@ -18,15 +29,23 @@
           <li><a href="{{ '/teaching' | relative_url }}">Teaching</a></li>
           <li><a href="{{ site.cv_url }}">CV</a></li>
           <li><a href="https://scholar.google.com">Google Scholar</a></li>
+          <li><a href="{{ "/" | relative_url }}">Home</a></li>
+          <li><a href="{{ "/articles/" | relative_url }}">Articles</a></li>
+          <li><a href="{{ "/assets/JacobDichter_2024Resume.pdf" | relative_url }}">Resume</a></li>
         </ul>
       </nav>
       <p>Welcome to my website! Brief bio or welcome text here.</p>
     </div>
     
     <!-- Main Content (Scrolls Independently) -->
+    <main>
     <div class="content">
       {{ content }}
     </div>
+    </main>
   </div>
+<footer>
+  <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+</footer>
 </body>
 </html>
