@@ -39,15 +39,11 @@ body, html {
 }
 
 .content {
-  /* Change to use flex instead of margin for separation */
-  margin-left: 0; /* Remove margin */
+  /* Remove relative positioning */
+  flex: 1;  /* Allow content to take remaining space */
+  min-width: 0;  /* Prevent flex item from overflowing */
+  margin-left: 250px;  /* Match sidebar width */
   padding: 20px;
   overflow-y: auto;
-  /* Position relative to container */
-  position: relative;
-  /* Start content after sidebar */
-  left: 250px;
-  /* Adjust width calculation */
-  width: calc(100% - 250px);
   height: 100vh;
 }
