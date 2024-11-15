@@ -30,9 +30,6 @@ body, html {
   /* Ensure sidebar is flush with viewport */
   left: 0;
   top: 0;
-}
-
-.sidebar h1 {
   text-align: center;
 }
 
@@ -44,7 +41,6 @@ body, html {
 .sidebar nav ul {
   list-style: none;
   padding: 0;
-  display: inline;
 }
 
 .sidebar nav ul li {
@@ -54,7 +50,6 @@ body, html {
 .sidebar nav ul li a {
   text-decoration: none;
   color: #007acc;
-  text-align: center;
 }
 
 .content {
