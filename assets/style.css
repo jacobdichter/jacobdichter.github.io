@@ -32,15 +32,19 @@ body, html {
   top: 0;
 }
 
+.sidebar h1 {
+  text-align: center;
+}
+
 .sidebar h1 a {
   text-decoration: none;
   color: #333;
-  text-align: center;
 }
 
 .sidebar nav ul {
   list-style: none;
   padding: 0;
+  display: inline;
 }
 
 .sidebar nav ul li {
