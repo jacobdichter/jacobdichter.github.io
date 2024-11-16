@@ -74,10 +74,21 @@ LaTeX testing:
 Block math formatting:
 $$
 E = mc^2
-$$
-<br>
-Inline math formatting:
-$ 2+2=4 $
+$$<br>
 
+Linear regression
+$$
+y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \dots + \beta_p x_p + \epsilon
+$$<br>
+
+Normal distribution
+$$
+f(x \mid \mu, \sigma^2) = \frac{1}{\sqrt{2 \pi \sigma^2}} \exp\left(-\frac{(x - \mu)^2}{2 \sigma^2}\right)
+$$<br>
+
+Gaussian Mixture Model
+$$
+p(x) = \sum_{k=1}^K \pi_k \cdot \mathcal{N}(x \mid \mu_k, \Sigma_k)
+$$<br>
 
 
