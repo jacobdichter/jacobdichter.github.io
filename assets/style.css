@@ -61,3 +61,21 @@ body, html {
   overflow-y: auto;
   height: 100vh;
 }
+
+pre {
+    background-color: #f6f8fa;  /* GitHub-like background color */
+    border-radius: 6px;         /* Rounded corners */
+    padding: 16px;             /* Some breathing room */
+    overflow: auto;            /* Scrollbar if code is too wide */
+}
+
+code {
+    font-family: monospace;
+}
+
+/* For inline code */
+p code {
+    background-color: #f6f8fa;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
