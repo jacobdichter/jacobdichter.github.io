@@ -69,6 +69,15 @@ data = pd.DataFrame({'Brand': ['Maruti', 'Hyundai', 'Tata',
                      'Mileage': [28, 27, 25, 32, 26]})
 ```
 
+LaTeX testing:
+
+Block math formatting:
+$$
+E = mc^2
+$$
+<br>
+Inline math formatting:
+$ 2+2=4 $
 
 
 
