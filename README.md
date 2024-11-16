@@ -7,7 +7,7 @@ Built a dynamic global trade dashboard in Power BI using DAX expressions and Pow
 <br><br>
 <img src="https://media.licdn.com/dms/image/D4D12AQFT8r_SJAEU9A/article-cover_image-shrink_600_2000/0/1674317643138?e=2147483647&v=beta&t=Ak3YiO_4YuLRid3W90LWE-bghDGzm430vqMwhiilqAE" width=300>
 
-```Power BI``` | ```SQL``` | ```Dashboarding```
+```Power BI``` ```SQL``` ```Dashboarding```
 <br><br>
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
@@ -21,7 +21,7 @@ Skills: ```Python``` ```k-means clustering``` ```cosine similarity```
 Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data.
 
 <img src="https://www.worldclimateservice.com/wp-content/uploads/2020/08/CRPSS_Skill.png" width=300><br>
-Skills: ```Python``` ```sci-kit learn``` ```SQLite```
+Skills: ```Python``` ```scikit-learn``` ```SQLite```
 
 <br><br><br>
 
