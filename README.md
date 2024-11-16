@@ -1,7 +1,3 @@
----
-title: "Jacob Dichter | Data Analyst"
----
-
 ## Projects 
 _________
 
