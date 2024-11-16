@@ -1,3 +1,8 @@
+---
+title: "Jacob Dichter | Data Analyst"
+layout: default
+---
+
 ## Projects 
 _________
 
