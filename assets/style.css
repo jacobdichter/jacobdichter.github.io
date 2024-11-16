@@ -63,7 +63,7 @@ body, html {
 }
 
 pre {
-    background-color: #dfe2e6;  /* GitHub-like background color */
+    background-color: #edf0f2;  /* GitHub-like background color */
     border-radius: 6px;         /* Rounded corners */
     padding: 16px;             /* Some breathing room */
     overflow: auto;            /* Scrollbar if code is too wide */
@@ -75,7 +75,7 @@ code {
 
 /* For inline code */
 p code {
-    background-color: #dfe2e6;
+    background-color: #edf0f2;
     padding: 0.2em 0.4em;
     border-radius: 3px;
 }
