@@ -1,6 +1,5 @@
 ---
 title: "Jacob Dichter | Data Analyst"
-layout: default
 ---
 
 ## Projects 
@@ -8,11 +7,11 @@ _________
 
 #### Data Mining
 #### [Interactive Global Trade Insights Dashboard in Power BI](http://www.realclearpolitics.com)<br>
+```Power BI``` ```SQL``` ```Dashboarding```<br>
 Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions.
 <br><br>
 <img src="https://media.licdn.com/dms/image/D4D12AQFT8r_SJAEU9A/article-cover_image-shrink_600_2000/0/1674317643138?e=2147483647&v=beta&t=Ak3YiO_4YuLRid3W90LWE-bghDGzm430vqMwhiilqAE" width=300>
 
-```Power BI``` ```SQL``` ```Dashboarding```
 <br><br>
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
