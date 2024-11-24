@@ -56,7 +56,7 @@ body, html {
   /* Remove relative positioning */
   flex: 1;  /* Allow content to take remaining space */
   min-width: 0;  /* Prevent flex item from overflowing */
-  margin-left: 300px;  /* Match sidebar width */
+  margin-left: 400px;  /* Match sidebar width */
   margin-right: 100px;
   padding: 20px;
   overflow-y: auto;
