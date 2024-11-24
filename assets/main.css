@@ -52,6 +52,12 @@ a:hover {
   text-decoration: underline;
 }
 
+ul {
+  list-style-type: none; /* Removes bullet points */
+  padding: 0; /* Removes default padding */
+  margin: 0; /* Adjusts margin for better alignment */
+}
+
 .date {
   color: gray;
   margin-left: 10px;
