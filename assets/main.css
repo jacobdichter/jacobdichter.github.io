@@ -58,6 +58,10 @@ ul {
   margin: 0; /* Adjusts margin for better alignment */
 }
 
+ul li {
+  margin-bottom: 5px; /* Adds spacing below each list item */
+}
+
 .date {
   color: gray;
   margin-left: 10px;
