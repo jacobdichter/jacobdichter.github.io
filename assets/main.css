@@ -68,4 +68,5 @@ ul li {
   margin-left: 10px;
   font-size: 0.85em;
   font-family: 'Roboto', sans-serif;
+  white-space: pre;
 }
