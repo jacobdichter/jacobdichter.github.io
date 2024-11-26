@@ -4,6 +4,7 @@ body, html {
   font-family: Arial, sans-serif;
   /* Ensure no margins/padding are affecting the layout */
   box-sizing: border-box;
+  height: 100%;
 }
 
 /* Make sure all elements inherit box-sizing */
@@ -25,7 +26,7 @@ body, html {
   padding: 20px;
   background-color: #f4f4f4;
   position: fixed;
-  height: 100vh; /* Change to vh units to match container */
+  height: 100%; /* Change to vh units to match container */
   overflow-y: auto;
   /* Ensure sidebar is flush with viewport */
   left: 0;
@@ -53,6 +54,12 @@ body, html {
 }
 
 .content {
+  margin-left: 300px; /* Space for sidebar */
+  padding: 20px;
+  height: 100vh; /* Full viewport height */
+  overflow-y: scroll; /* Make content section scrollable */
+}
+  /*
   /* Remove relative positioning */
   flex: 1;  /* Allow content to take remaining space */
   min-width: 0;  /* Prevent flex item from overflowing */
@@ -61,6 +68,7 @@ body, html {
   padding: 20px;
   overflow-y: auto;
   height: 100vh;
+  */
 }
 
 pre {
