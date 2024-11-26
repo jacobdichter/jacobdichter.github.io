@@ -16,7 +16,7 @@ body, html {
   display: flex;
   flex-direction: row; /* Horizontal layout for sidebar and content */
   min-height: 100vh;
-  overflow: hidden;
+  /*overflow: hidden;*/
   /* Remove any potential margin/padding */
   margin: 0;
   padding: 0;
