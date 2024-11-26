@@ -80,19 +80,3 @@ p code {
     padding: 0.2em 0.4em;
     border-radius: 3px;
 }
-
-/* Code blocks with syntax highlighting by Highlight.js */
-pre code[class*="language-"] {
-    background-color: transparent; /* Allow Highlight.js to handle the background */
-    padding: 0;                    /* Remove padding to avoid conflicts */
-    border-radius: 0;              /* Let Highlight.js manage corners */
-    font-family: monospace;        /* Use consistent font for readability */
-    color: inherit;                /* Preserve Highlight.js colors */
-}
-
-/* To ensure Highlight.js styles are respected */
-pre[class*="language-"] {
-    background-color: transparent; /* Ensure no conflicts with custom <pre> styles */
-    border-radius: 0;              /* Neutralize custom corners */
-    padding: 0;                    /* Remove custom padding */
-}
