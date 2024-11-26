@@ -62,7 +62,7 @@ body, html {
   overflow-y: auto;
   height: 100vh;
 }
-
+/*
 pre {
     background-color: #edf0f2;  /* GitHub-like background color */
     border-radius: 6px;         /* Rounded corners */
@@ -80,3 +80,4 @@ p code {
     padding: 0.2em 0.4em;
     border-radius: 3px;
 }
+*/
