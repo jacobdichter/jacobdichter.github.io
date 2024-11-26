@@ -20,6 +20,7 @@ I will implement a simple step-by-step outline of a basic ETL project where we w
 
 - Library dependencies (requests, pandas)
 - Approach to query string loop
+  
 ```python
 url = "https://api.census.gov/data/timeseries/intltrade/exports/statehs?get=STATE,CTY_NAME,CTY_CODE,E_COMMODITY,E_COMMODITY_SDESC,ALL_VAL_MO,ALL_VAL_YR&COMM_LVL=HS4&time=2022-12&STATE="
 
