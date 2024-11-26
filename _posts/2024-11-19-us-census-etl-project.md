@@ -29,7 +29,8 @@ state_codes = [
     "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", 
     "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", 
     "WI", "WY"
-]```
+]
+```
 
 - Execution of ```requests.get(url)```, HTTP status code, pandas DataFrame operations
 - Execution of data extraction loop
@@ -47,7 +48,7 @@ for i in state_codes:
     else:
         print(f"Error: {response.status.code} for {i}")
 ```
-- **Screenshot of .csv population
+- **Screenshot of .csv population**
 
 # 3. Validation of Data Extraction (?)
 
