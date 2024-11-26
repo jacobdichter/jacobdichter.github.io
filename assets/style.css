@@ -26,7 +26,7 @@ body, html {
   padding: 20px;
   background-color: #f4f4f4;
   position: fixed;
-  height: 100%; /* Change to vh units to match container */
+  height: 100vh; /* Change to vh units to match container */
   overflow-y: auto;
   /* Ensure sidebar is flush with viewport */
   left: 0;
