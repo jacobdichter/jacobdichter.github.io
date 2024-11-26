@@ -55,7 +55,8 @@ body, html {
 }
 
 .content {
-  margin-left: 300px; /* Space for sidebar */
+  margin-left: 400px; /* Space for sidebar */
+  margin-right: 100px;
   padding: 20px;
   height: 100vh; /* Full viewport height */
   overflow-y: scroll; /* Make content section scrollable */
