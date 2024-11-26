@@ -72,9 +72,9 @@ code {
 }
 
 code.language-plaintext {
-    background-color: #edf0f2;  /* GitHub-like background color */
-    border-radius: 6px;         /* Rounded corners */
-    padding: 16px;             /* Some breathing room */
+    background-color: #edf0f2;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
 }
 
 /*
