@@ -34,6 +34,7 @@ state_codes = [
 
 - Execution of ```requests.get(url)```, HTTP status code, pandas DataFrame operations
 - Execution of data extraction loop
+  
 ```python
 for i in state_codes:
     new_url = url + i
@@ -48,6 +49,7 @@ for i in state_codes:
     else:
         print(f"Error: {response.status.code} for {i}")
 ```
+
 - **Screenshot of .csv population**
 
 # 3. Validation of Data Extraction (?)
