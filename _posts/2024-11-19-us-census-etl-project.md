@@ -22,7 +22,7 @@ I will implement a simple step-by-step outline of a basic ETL project where we w
 - Approach to query string loop
   
 ```python
-url = "https://api.census.gov/data/timeseries/intltrade/OUR_QUERY_STRING
+url = "https://api.census.gov/data/timeseries/intltrade/exports/statehs?get=OUR_QUERY_STRING"
 
 state_codes = [
     "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", 
@@ -33,7 +33,7 @@ state_codes = [
 ]
 ```
 
-```url = "https://api.census.gov/data/timeseries/intltrade/exports/statehs?get=STATE,CTY_NAME,CTY_CODE,E_COMMODITY,E_COMMODITY_SDESC,ALL_VAL_MO,ALL_VAL_YR&COMM_LVL=HS4&time=2022-12&STATE="```
+Query string: ```STATE,CTY_NAME,CTY_CODE,E_COMMODITY,E_COMMODITY_SDESC,ALL_VAL_MO,ALL_VAL_YR&COMM_LVL=HS4&time=2022-12&STATE="```
 
 - Execution of ```requests.get(url)```, HTTP status code, pandas DataFrame operations
 - Execution of data extraction loop
