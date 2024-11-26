@@ -67,14 +67,14 @@ pre {
     overflow: visible; 
 }
 
-pre.language-plaintext {
+code {
+    font-family: monospace;
+}
+
+code.language-plaintext {
     background-color: #edf0f2;  /* GitHub-like background color */
     border-radius: 6px;         /* Rounded corners */
     padding: 16px;             /* Some breathing room */
-}
-
-code {
-    font-family: monospace;
 }
 
 /*
