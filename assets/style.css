@@ -62,12 +62,35 @@ body, html {
   overflow-y: auto;
   height: 100vh;
 }
+
+/* Grey background for triple backticks with no language specified */
+pre:not([class]) code:not([class]) {
+    background-color: #edf0f2;  /* GitHub-like grey background */
+    border-radius: 6px;         /* Rounded corners */
+    padding: 16px;              /* Padding for readability */
+    overflow: auto;             /* Enable scrolling for wide content */
+    display: block;             /* Ensure block display */
+    font-family: monospace;     /* Monospaced font for code */
+    color: #333;                /* Neutral text color */
+}
+/* Grey background for triple backticks with no language specified */
+pre:not([class]) code:not([class]) {
+    background-color: #edf0f2;  /* GitHub-like grey background */
+    border-radius: 6px;         /* Rounded corners */
+    padding: 16px;              /* Padding for readability */
+    overflow: auto;             /* Enable scrolling for wide content */
+    display: block;             /* Ensure block display */
+    font-family: monospace;     /* Monospaced font for code */
+    color: #333;                /* Neutral text color */
+}
+
+
 /*
 pre {
+    overflow: visible; 
     background-color: #edf0f2;  /* GitHub-like background color */
     border-radius: 6px;         /* Rounded corners */
     padding: 16px;             /* Some breathing room */
-    overflow: auto;            /* Scrollbar if code is too wide */
 }
 
 code {
