@@ -75,14 +75,11 @@ pre {
     overflow: visible; 
 }
 
-code {
-    font-family: monospace;
-}
-
 code.language-plaintext {
     background-color: #edf0f2;
     padding: 0.2em 0.4em;
     border-radius: 3px;
+    font-family: monospace;
 }
 
 /*
