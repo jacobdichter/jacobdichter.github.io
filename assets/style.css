@@ -13,8 +13,8 @@ body, html {
 }
 
 .container {
-  /* display: flex;
-  flex-direction: row; /* Horizontal layout for sidebar and content */ */
+  display: flex;
+  /* flex-direction: row; /* Horizontal layout for sidebar and content */ */
   min-height: 100vh;
   /*overflow: hidden;*/
   /* Remove any potential margin/padding */
