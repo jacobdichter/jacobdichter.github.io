@@ -20,7 +20,7 @@ body, html {
   /* Remove any potential margin/padding */
   margin: 0;
   padding: 0;
-  overflow-y: scroll; /* Make content section scrollable */
+  /* overflow-y: scroll; /* Make content section scrollable */ */
 
 }
 
