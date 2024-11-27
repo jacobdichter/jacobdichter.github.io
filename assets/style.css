@@ -62,18 +62,11 @@ body, html {
   padding: 20px;
   height: 100vh; /* Full viewport height */
   overflow-y: scroll; /* Make content section scrollable */
-}
-  /*
-  /* Remove relative positioning */
-  flex: 1;  /* Allow content to take remaining space */
-  min-width: 0;  /* Prevent flex item from overflowing */
-  margin-left: 400px;  /* Match sidebar width */
-  margin-right: 100px;
-  padding: 20px;
-  overflow-y: auto;
   scrollbar-width: none;
-  height: 100vh;
-  */
+}
+
+.content::-webkit-scrollbar {
+  display: none; /* Hide scrollbar in Chrome, Edge, and Safari */
 }
 
 pre {
