@@ -69,26 +69,22 @@ body, html {
   display: none; /* Hide scrollbar in Chrome, Edge, and Safari */
 }
 
-.content title {
-  font-size: 36px;
+.content h1 {
+  font-size: 32px;
   color: #0564a3;
 }
 
-.content h1, .content h2, .content h3 {
-  color: #303030; /* Blue for headers */
+.content h2, .content h3 {
+  color: #383838; /* Blue for headers */
   font-weight: bold; /* Bold headers */
 }
 
-.content h1 {
-  font-size: 22px; /* Slightly smaller for the main title */
-}
-
 .content h2 {
-  font-size: 18px; /* Slightly smaller subheaders */
+  font-size: 22px; /* Slightly smaller subheaders */
 }
 
 .content h3 {
-  font-size: 16px; /* Smaller tertiary headers */
+  font-size: 18px; /* Smaller tertiary headers */
 }
 
 pre {
