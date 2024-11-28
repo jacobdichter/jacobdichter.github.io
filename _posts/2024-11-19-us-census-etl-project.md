@@ -10,6 +10,12 @@ I will implement a simple step-by-step outline of a basic ETL project where we w
 
 # 1. Review the US. Census API Documentation
 
+## Performing Robust ETL Procedure
+
+### Sampling Bias
+
+Here is a discussion section of sampling bias. Above title is h3 btw.
+
 - Basics (API key not needed for <50 requests, JSON format, etc.)
 - Understanding the query string
 - Selecting the applicable endpoint
