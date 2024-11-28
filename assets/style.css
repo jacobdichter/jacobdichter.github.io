@@ -106,7 +106,7 @@ p.view {
   font-size: 0.85em;
   font-family: 'Roboto', sans-serif;
   white-space: pre;
-  visibility: hidden;
+  display: none;
 }
 /*
 /* For inline code */
