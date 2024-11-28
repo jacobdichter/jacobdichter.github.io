@@ -70,12 +70,12 @@ body, html {
 }
 
 .content h1 {
-  font-size: 32px;
-  color: #0564a3;
+  font-size: 28px;
+  color: #0564a3; /* Blue for title */
 }
 
 .content h2, .content h3 {
-  color: #383838; /* Blue for headers */
+  color: #424242; /* Lighter black for headers */
   font-weight: bold; /* Bold headers */
 }
 
@@ -98,7 +98,7 @@ code.language-plaintext {
     font-family: monospace;
 }
 
-p.view, div small {
+p.view {
   font-style: italic;
   color: #A0A0A0;
   margin-left: 10px;
