@@ -8,7 +8,7 @@ categories: [blog]
 
 I will implement a simple step-by-step outline of a basic ETL project where we will load a CSV into Python, clean, then load the data into SQLite where it can be queried.
 
-# 1. Review the US. Census API Documentation
+# Review the US. Census API Documentation
 
 ## Performing Robust ETL Procedure
 
@@ -22,7 +22,7 @@ Here is a discussion section of sampling bias. Above title is h3 btw.
 - Deciding the constraints of our data request
 - "State exports (all states) of HS-4 to all countries"
 
-# 2. Python ETL Process
+# Python ETL Process
 
 - Library dependencies (requests, pandas)
 - Approach to query string loop
@@ -60,10 +60,10 @@ for i in state_codes:
 
 - **Screenshot of .csv population**
 
-# 3. Validation of Data Extraction (?)
+# Validation of Data Extraction (?)
 
 
-# 4. Loading the Data into Postgres Database
+# Loading the Data into Postgres Database
 
 - Docker container for postgres process
 - psycopg2 library
