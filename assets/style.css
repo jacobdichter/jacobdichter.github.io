@@ -69,8 +69,11 @@ body, html {
   display: none; /* Hide scrollbar in Chrome, Edge, and Safari */
 }
 
+.content title {
+  font-size: 32px;
+
 .content h1, .content h2, .content h3 {
-  color: #0033aa; /* Slightly darker blue for headers */
+  color: #428bca; /* Slightly darker blue for headers */
   font-weight: bold; /* Bold headers */
 }
 
