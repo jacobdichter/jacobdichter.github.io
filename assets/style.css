@@ -68,7 +68,6 @@ body, html {
   overflow-y: scroll; /* Make content section scrollable */
   scrollbar-width: none;
 /*   flex-grow: 1; */
-  background-color: purple;
 }
 
 .content::-webkit-scrollbar {
