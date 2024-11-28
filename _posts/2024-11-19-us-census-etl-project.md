@@ -5,11 +5,9 @@ date: 2024-11-19 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
-<title>Querying Census Date with Python</title>
-<br>
 I will implement a simple step-by-step outline of a basic ETL project where we will load a CSV into Python, clean, then load the data into SQLite where it can be queried.
 
-# Review the US. Census API Documentation
+## Review the US. Census API Documentation
 
 - Basics (API key not needed for <50 requests, JSON format, etc.)
 - Understanding the query string
@@ -17,7 +15,7 @@ I will implement a simple step-by-step outline of a basic ETL project where we w
 - Deciding the constraints of our data request
 - "State exports (all states) of HS-4 to all countries"
 
-# Python ETL Process
+## Python ETL Process
 
 - Library dependencies (requests, pandas)
 - Approach to query string loop
@@ -55,10 +53,11 @@ for i in state_codes:
 
 - **Screenshot of .csv population**
 
-# Validation of Data Extraction (?)
+## Validation of Data Extraction (?)
 
+### This is a Subheading
 
-# Loading the Data into Postgres Database
+## Loading the Data into Postgres Database
 
 - Docker container for postgres process
 - psycopg2 library
