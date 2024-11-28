@@ -69,6 +69,23 @@ body, html {
   display: none; /* Hide scrollbar in Chrome, Edge, and Safari */
 }
 
+.content h1, .content h2, .content h3 {
+  color: #0033aa; /* Slightly darker blue for headers */
+  font-weight: bold; /* Bold headers */
+}
+
+.content h1 {
+  font-size: 24px; /* Slightly smaller for the main title */
+}
+
+.content h2 {
+  font-size: 20px; /* Slightly smaller subheaders */
+}
+
+.content h3 {
+  font-size: 18px; /* Smaller tertiary headers */
+}
+
 pre {
     overflow: visible; 
 }
