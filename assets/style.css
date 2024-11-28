@@ -70,11 +70,11 @@ body, html {
 }
 
 .content title {
-  font-size: 32px;
+  font-size: 36px;
 }
 
-.content h1, .content h2, .content h3 {
-  color: #428bca; /* Slightly darker blue for headers */
+.content title, h1, .content h2, .content h3 {
+  color: #428bca; /* Light blue for headers */
   font-weight: bold; /* Bold headers */
 }
 
