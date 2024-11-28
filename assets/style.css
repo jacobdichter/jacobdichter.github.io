@@ -57,13 +57,13 @@ body, html {
 }
 
 .content {
-/*   margin-left: 400px; /* Space for sidebar */ */
-/*   margin-right: 100px;  */
+  margin-left: 400px; /* Space for sidebar */
+  margin-right: 100px; 
 /*   width: calc(100% - 500px); */
   position: absolute; /* Makes content ignore margin space */
   top: 0; /* Aligns content at the top */
-  left: 400px; /* Align content at the left, starting from 400px */
-  right: 100px; /* Align content 100px from the right side */
+/*   left: 400px; /* Align content at the left, starting from 400px */ */
+/*   right: 100px; /* Align content 100px from the right side */ */
   padding: 20px;
   height: 100vh; /* Full viewport height */
   overflow-y: scroll; /* Make content section scrollable */
