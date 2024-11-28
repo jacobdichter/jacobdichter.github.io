@@ -9,6 +9,8 @@ I will implement a simple step-by-step outline of a basic ETL project where we w
 
 ## Review the US. Census API Documentation
 
+This project outlines a simple ETL process where we load a CSV into Python, clean the data, and then load it into SQLite for querying. We'll also review the U.S. Census API documentation, covering basics like query strings, selecting endpoints, and defining data request constraints, specifically focusing on state exports of HS-4 to all countries.
+
 - Basics (API key not needed for <50 requests, JSON format, etc.)
 - Understanding the query string
 - Selecting the applicable endpoint
