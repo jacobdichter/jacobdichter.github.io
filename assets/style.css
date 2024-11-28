@@ -58,8 +58,6 @@ body, html {
 .content {
   margin-left: 400px; /* Space for sidebar */
   margin-right: 100px;
-  padding-left: 400px;
-  padding-right: 100px;
 /*   width: calc(100% - 500px); */
 /*   position: absolute; /* Makes content ignore margin space */ */
   top: 0; /* Aligns content at the top */
@@ -70,7 +68,7 @@ body, html {
   overflow-y: scroll; /* Make content section scrollable */
   scrollbar-width: none;
 /*   flex-grow: 1; */
-  background-color: blue;
+  background-color: purple;
 }
 
 .content::-webkit-scrollbar {
