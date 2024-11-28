@@ -9,7 +9,16 @@ I will implement a simple step-by-step outline of a basic ETL project where we w
 
 ## Review the US. Census API Documentation
 
-This project outlines a simple ETL process where we load a CSV into Python, clean the data, and then load it into SQLite for querying. We'll also review the U.S. Census API documentation, covering basics like query strings, selecting endpoints, and defining data request constraints, specifically focusing on state exports of HS-4 to all countries.
+
+This project outlines a simple ETL (Extract, Transform, Load) process that begins by loading a CSV file into Python. The first step in the ETL pipeline involves using Python’s built-in capabilities or popular libraries such as pandas to clean and preprocess the data. This can include tasks such as handling missing values, standardizing date formats, and correcting data inconsistencies. After the data is cleaned, we will load it into an SQLite database, a lightweight yet powerful relational database system, where we can easily query the data for analysis.
+
+Additionally, we’ll explore the U.S. Census API, which provides access to a wealth of data for analysis, including economic, demographic, and geographic data. A key part of this project is understanding the structure of API requests, which typically involve making GET requests with query strings to access the desired data. The U.S. Census API provides data in JSON format, which makes it easy to parse and manipulate in Python. Notably, for fewer than 50 requests per day, no API key is required, making it more accessible for quick, small-scale analyses.
+
+A critical part of working with the U.S. Census API is understanding how to construct the query string to select the data you need. The query string consists of parameters that define what data you are requesting, such as the specific geographic region, data type, and time period. In this case, the goal is to gather data on state exports of HS-4 products to all countries. This involves selecting the appropriate endpoint within the API documentation, which is where the data for exports is housed.
+
+Once the correct endpoint is chosen, it’s important to set the proper constraints on the data request. This could involve specifying the states of interest, the HS-4 codes for specific products, and the export destination countries. By defining these constraints, we ensure that the data returned is relevant and manageable. In this case, the request would focus on state exports of HS-4 products to all countries, allowing for a detailed understanding of trade flows at a more granular level than national data alone.
+
+Through this process, we can combine the cleaned data from our CSV file with real-time data pulled from the U.S. Census API, storing it in SQLite for querying and further analysis. This project will provide a practical demonstration of the ETL process and offer valuable experience in working with APIs, managing data, and using relational databases for data storage and querying.
 
 - Basics (API key not needed for <50 requests, JSON format, etc.)
 - Understanding the query string
