@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jacob Initial Post"
-date: 2024-07-26 09:50:00 +0000
+title: "Quick Deployment of a Simple Machine Learning Model with Streamlit"
+date: 2024-12-27 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
