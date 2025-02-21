@@ -10,3 +10,5 @@ This post follows the quick deployment of a simple machine learning model using 
 
 A potentially useful reference:
 <a href="https://machinelearningmastery.com/how-to-quickly-deploy-machine-learning-models-streamlit/?ref=dailydev">Link</a>
+
+As soon as you complete a full model of CTSocioeconomicAscent, use Streamlit to rapidly prototype a basic version of the dashboard.
