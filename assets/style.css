@@ -56,7 +56,7 @@ p.site-title {
 /* Navigation Menu Container */
 .nav-menu {
     display: flex;
-    align-items: center; /* Align items vertically */
+    align-items: left;
     justify-content: space-between; /* Space between image and links */
     padding: 10px 20px;
 /*     background-color: #f8f8f8; */
