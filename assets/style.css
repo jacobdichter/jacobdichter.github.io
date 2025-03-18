@@ -67,6 +67,7 @@ p.site-title {
 .image-container img {
     height: 100px; /* Adjust size as needed */
     background-color: red;
+    align-items: right;
 }
 
 #nav-image {
