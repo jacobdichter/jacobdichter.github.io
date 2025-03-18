@@ -189,8 +189,8 @@ p code {
 */
 
 /*Color flavor for sidebar text*/
-.analyst {
-  color: #2979FF !important;
+.analyst-text {
+  color: #2979FF;
 }
 
 .data-scientist {
