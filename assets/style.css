@@ -59,7 +59,8 @@ p.site-title {
     align-items: center; /* Align items vertically */
     justify-content: space-between; /* Space between image and links */
     padding: 10px 20px;
-    background-color: #f8f8f8;
+/*     background-color: #f8f8f8; */
+    background-color: cyan;
 }
 
 /* Image Styling */
@@ -83,6 +84,7 @@ p.site-title {
     display: flex; /* Align links in a row */
     flex-direction: column;
     align-items: left;
+    background-color: blue;
 }
 
 /* Navigation Links */
