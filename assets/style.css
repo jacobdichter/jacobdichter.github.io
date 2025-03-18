@@ -38,7 +38,7 @@ body, html {
 
 .sidebar h1 a {
   text-decoration: none;
-  color: #333;
+  color: #4C4C4C;
 }
 
 .sidebar nav ul {
@@ -51,7 +51,7 @@ body, html {
 }
 
 .sidebar nav ul li a {
-  text-decoration: none;
+  text-decoration: underline overline;
   color: #007acc;
 }
 
