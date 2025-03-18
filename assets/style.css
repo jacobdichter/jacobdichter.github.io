@@ -139,3 +139,12 @@ p code {
     border-radius: 3px;
 }
 */
+
+/*Color flavor for sidebar text*/
+.analyst {
+  color=#2979FF
+}
+
+.data-scientist {
+  color=#874FFF
+}
