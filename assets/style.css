@@ -112,6 +112,11 @@ p.view {
   white-space: pre;
   display: none;
 }
+
+p.personal-flavor-text {
+  font-size: 12px;
+  color: #3C3C3C;
+}
 /*
 /* For inline code */
 p code {
