@@ -12,7 +12,8 @@ header {
 }
 
 header h1 {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+  margin-top: 0px;
   margin-bottom: 0px;
   color: #4C4C4C;
 }
