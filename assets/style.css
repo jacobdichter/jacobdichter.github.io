@@ -59,6 +59,14 @@ body, html {
   color: #874FFF;
 }
 
+/* Sidebar horizontal separator */
+.colored-bar {
+  width: 100%;         /* The bar will span the full width of its container */
+  height: 20px;        /* Set the height of the bar */
+  background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
+}
+
+
 .content {
   margin-left: 400px; /* Space for sidebar */
   margin-right: 100px;
