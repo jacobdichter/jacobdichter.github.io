@@ -39,6 +39,9 @@ body, html {
 .sidebar h1 a {
   text-decoration: none;
   color: #4C4C4C;
+  font-size: 0.8rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 /* New nav bar styles */
