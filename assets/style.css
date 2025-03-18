@@ -63,8 +63,8 @@ body, html {
 /* Sidebar horizontal separator */
 .sidebarline {
   width: 100%;         /* The bar will span the full width of its container */
-  height: 10px;        /* Set the height of the bar */
-  background-color: blue;  /* Set the color of the bar (e.g., blue) */
+  height: 3px;        /* Set the height of the bar */
+  background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
 }
 
 
@@ -148,9 +148,9 @@ p code {
 
 /*Color flavor for sidebar text*/
 .analyst {
-  color: #2979FF
+  color: #2979FF;
 }
 
 .data-scientist {
-  color: #874FFF
+  color: #874FFF;
 }
