@@ -114,8 +114,10 @@ p.view {
 }
 
 p.personal-flavor-text {
-  font-size: 12px;
+  font-size: 12.5px;
   color: #3C3C3C;
+  width: 100%; /* Makes the element take up the full width */
+  text-align: left; /* Aligns the text to the left */
 }
 /*
 /* For inline code */
