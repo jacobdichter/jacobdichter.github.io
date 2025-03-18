@@ -56,7 +56,7 @@ body, html {
 }
 
 .sidebar nav ul li a:hover {
-  text-decoration: underline overline;
+  text-decoration: overline;
   color: #874FFF;
 }
 
@@ -64,7 +64,7 @@ body, html {
 .colored-bar {
   width: 100%;         /* The bar will span the full width of its container */
   height: 20px;        /* Set the height of the bar */
-  background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
+  background-color: blue;  /* Set the color of the bar (e.g., blue) */
 }
 
 
