@@ -56,8 +56,15 @@ body, html {
 
 /* Image Styling */
 .image-container img {
-    height: 40px; /* Adjust size as needed */
+    height: 100px; /* Adjust size as needed */
 }
+
+#nav-image {
+/*     height: 50px; /* Adjust size as needed */
+    margin-right: 20px; /* Space between image and links */ */
+    transform: rotate(-90deg); /* Rotates image 90 degrees */
+}
+
 
 /* Remove default ul styles */
 .nav-links {
