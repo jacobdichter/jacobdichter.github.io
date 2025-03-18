@@ -36,11 +36,12 @@ body, html {
   text-align: center;
 }
 
-a.site-title {
+p.site-title {
   color: #4C4C4C;
   font-size: 1.5rem;
+  font-weight: bold;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .sidebar h1 a {
