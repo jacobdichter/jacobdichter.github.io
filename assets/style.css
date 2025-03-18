@@ -56,11 +56,11 @@ p.site-title {
 /* Navigation Menu Container */
 .nav-menu {
     display: flex;
-    align-items: flex-start;
+    align-items: flex-end;
     justify-content: space-between; /* Space between image and links */
     padding: 10px 20px;
 /*     background-color: #f8f8f8; */
-    background-color: cyan;
+    background-color: purple;
 }
 
 /* Image Styling */
