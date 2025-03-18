@@ -193,6 +193,7 @@ p.view {
 p.subtitle {
   color: #4C4C4C;
   font-weight: 600;
+  line-weight: 1.3;
 }
 
 p.personal-flavor-text {
