@@ -41,7 +41,48 @@ body, html {
   color: #4C4C4C;
 }
 
-.sidebar nav ul {
+/* New nav bar styles */
+/* Navigation Menu Container */
+.nav-menu {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Space between image and links */
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+}
+
+/* Image Styling */
+.image-container img {
+    height: 40px; /* Adjust size as needed */
+}
+
+/* Remove default ul styles */
+.nav-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Align links in a row */
+}
+
+/* Navigation Links */
+.nav-links li {
+    margin-left: 20px; /* Spacing between links */
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.nav-links a:hover {
+    color: #007acc; /* Hover effect */
+}
+
+
+/* Old sidebar nav styles */
+/* .sidebar nav ul {
   list-style: none;
   padding: 0;
 }
@@ -58,7 +99,7 @@ body, html {
 .sidebar nav ul li a:hover {
   text-decoration: overline;
   color: #874FFF;
-}
+} */
 
 /* Sidebar horizontal separator */
 .sidebarline {
