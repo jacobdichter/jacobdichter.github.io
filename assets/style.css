@@ -127,13 +127,13 @@ p.view {
 }
 
 p.subtitle {
-  color: blue;
-  font-weight: 600;
+  color: #4C4C4C;
+  font-weight: 500;
 }
 
 p.personal-flavor-text {
   font-size: 12.5px;
-  line-height: 1.15;
+  line-height: 1.3;
   color: #3C3C3C;
   text-align: justify;
 }
@@ -148,7 +148,7 @@ p code {
 
 /*Color flavor for sidebar text*/
 .analyst {
-  color: #2979FF;
+  color: #2979FF !important;
 }
 
 .data-scientist {
