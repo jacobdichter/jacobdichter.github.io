@@ -6,10 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const menuItems = document.querySelectorAll(".menu-item");
 
     const imageMap = {
-        home: "{{ '/assets/network_drawing_red.svg' | relative_url }}",
-        articles: "{{ '/assets/network_drawing_purple.svg' | relative_url }}",
-        resume: "{{ '/assets/network_drawing_jadegreen2.svg' | relative_url }}",
-        contact: "{{ '/assets/network_drawing_blue.svg' | relative_url }}"
+        home: "{{ '/assets/network_drawing_red.svg' | absolute_url }}",
+        articles: "{{ '/assets/network_drawing_purple.svg' | absolute_url }}",
+        resume: "{{ '/assets/network_drawing_jadegreen2.svg' | absolute_url }}",
+        contact: "{{ '/assets/network_drawing_blue.svg' | absolute_url }}"
     };
 
         const hoverStyles = {
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Reset image only when leaving the entire menu area
     menuContainer.addEventListener("mouseleave", function () {
-        navImage.src = "{{ '/assets/network_drawing_grey2.svg' | relative_url }}"; // Change image back
+        navImage.src = "{{ '/assets/network_drawing_grey2.svg' | absolute_url }}"; // Change image back
 
         const menuItems = document.querySelectorAll(".menu-item");
         menuItems.forEach(function (item) {
