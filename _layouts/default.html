@@ -9,25 +9,28 @@
   <link rel="stylesheet" href="{{ "/assets/css/styles/base16/rebecca.css" | relative_url }}">
   <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon-32x32.png' | relative_url }}">
 
-<!-- MathJax (LaTeX) -->
-<script type="text/javascript" id="MathJax-script" async
-        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+  <!-- MathJax (LaTeX) -->
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
 
-<!-- Highlight.js JavaScript -->
-<script src="{{ "/assets/js/highlight.min.js" | relative_url }}"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', (event) => {
-  hljs.highlightAll();
-  });
-</script>
+  <!-- Highlight.js JavaScript -->
+  <script
+      src="{{ "/assets/js/highlight.min.js" | relative_url }}">
+  </script>
   
+  <script>
+      document.addEventListener('DOMContentLoaded', (event) => {
+      hljs.highlightAll();
+      });
+  </script>
 </head>
+  
 <body>
   <div class="container">
-    <!-- Sidebar (Fixed Column) -->
+    <!-- Sidebar -->
     <div class="sidebar">
-<!--       <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1> -->
+<!--  OLD JEKYLL SITE TITLE     <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1> -->
       <p class="site-title">Jacob Dichter</p>
        <img src="{{ 'assets/jacob_photo.png' | relative_url }}" style="text-align: center; border-radius: 7px;" width="150" alt="Jacob Dichter"><br>
        <p class="subtitle" style="text-align: center;">
@@ -37,16 +40,17 @@
       <div class="sidebarline"></div>
       <nav>
         <div class="nav-menu">
-          <!-- Image container -->
+          <!-- NAV IMAGE CONTAINER -->
           <div class="image-container">
-            <img id="nav-image" src="assets/network_drawing_grey.svg" alt="Image for nav">
+              <img id="nav-image" src="assets/network_drawing_grey.svg" alt="neural network menu">
           </div>
-        <ul class="nav-links">
-          <li><a href="{{ "/" | relative_url }}" class="menu-item" id="home">Home</a></li>
-          <li><a href="{{ "/articles/" | relative_url }}" class="menu-item" id="articles">Articles</a></li>
-          <li><a href="{{ "/assets/JacobDichter_2024Resume.pdf" | relative_url }}" class="menu-item" id="resume">Resume</a></li>
-          <li><a href="#" class="menu-item" id="contact">Contact</a></li>
-        </ul>
+          <!-- NAV LINKS -->
+          <ul class="nav-links">
+            <li><a href="{{ "/" | relative_url }}" class="menu-item" id="home">Home</a></li>
+            <li><a href="{{ "/articles/" | relative_url }}" class="menu-item" id="articles">Articles</a></li>
+            <li><a href="{{ "/assets/JacobDichter_2024Resume.pdf" | relative_url }}" class="menu-item" id="resume">Resume</a></li>
+            <li><a href="#" class="menu-item" id="contact">Contact</a></li>
+          </ul>
         </div>
       </nav>
       <div class="sidebarline"></div>
