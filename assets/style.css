@@ -94,9 +94,26 @@ p.site-title {
     font-size: 16px;
 }
 
-/* .nav-links a:hover {
-    color: #874FFF;
-} */
+/* Unique hover styles for each menu item */
+#home:hover {
+    color: red;
+    background-color: rgba(255, 0, 0, 0.1); /* Light red background */
+}
+
+#articles:hover {
+    color: purple;
+    background-color: rgba(128, 0, 128, 0.1); /* Light purple background */
+}
+
+#resume:hover {
+    color: jadegreen; /* Or use hex: #00A36C */
+    background-color: rgba(0, 163, 108, 0.1); /* Light green background */
+}
+
+#contact:hover {
+    color: blue;
+    background-color: rgba(0, 0, 255, 0.1); /* Light blue background */
+}
 
 /* Old sidebar nav styles */
 /* .sidebar nav ul {
