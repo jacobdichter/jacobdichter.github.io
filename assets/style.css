@@ -96,23 +96,27 @@ p.site-title {
 
 /* Unique hover styles for each menu item */
 #home:hover {
-    color: red;
+    color: #FA5252;
     background-color: rgba(255, 0, 0, 0.1); /* Light red background */
+    font-weight: bold;
 }
 
 #articles:hover {
-    color: purple;
+    color: #874FFF;
     background-color: rgba(128, 0, 128, 0.1); /* Light purple background */
+    font-weight: bold;
 }
 
 #resume:hover {
-    color: jadegreen; /* Or use hex: #00A36C */
+    color: #19B654;
     background-color: rgba(0, 163, 108, 0.1); /* Light green background */
+    font-weight: bold;
 }
 
 #contact:hover {
-    color: blue;
+    color: #2979FF;
     background-color: rgba(0, 0, 255, 0.1); /* Light blue background */
+    font-weight: bold;
 }
 
 /* Old sidebar nav styles */
