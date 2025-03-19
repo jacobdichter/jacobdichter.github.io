@@ -52,7 +52,6 @@ p.site-title {
   margin-bottom: 0px;
 }
 
-/* New nav bar styles */
 /* Navigation Menu Container */
 .nav-menu {
     display: flex;
@@ -60,10 +59,6 @@ p.site-title {
     justify-content: center; /* Space between image and links */
     padding: 10px 20px;
     background-color: #F4F4F4;
-}
-
-.menu-item:hover ~ .image-container img {
-  content: url('assets/network_drawing_red.svg');
 }
 
 /* Image Styling */
@@ -76,24 +71,6 @@ p.site-title {
     height: 100px; /* Adjust size as needed
     margin-right: 0px; /* Space between image and links */
     transform: rotate(-90deg); /* Rotates image 90 degrees */
-}
-
-/* Change image based on hover */
-
-#home:hover ~ .image-container img {
-  content: url('assets/network_drawing_red.svg');
-}
-
-#articles:hover ~ .image-container img {
-  content: url('assets/network_drawing_purple.svg');
-}
-
-#resume:hover ~ .image-container img {
-  content: url('assets/network_drawing_jadegreen.svg');
-}
-
-#contact:hover ~ .image-container img {
-  content: url('assets/network_drawing_blue.svg');
 }
 
 /* Remove default ul styles */
