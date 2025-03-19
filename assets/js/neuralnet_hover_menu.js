@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const imageMap = {
         home: "assets/network_drawing_red.svg",
         articles: "assets/network_drawing_purple.svg",
-        resume: "assets/network_drawing_green.svg",
-        contact: "assets/network_drawing_purple.svg"
+        resume: "assets/network_drawing_jadegreen.svg",
+        contact: "assets/network_drawing_blue.svg"
     };
     // Select all menu items
     const menuItems = document.querySelectorAll(".menu-item");
