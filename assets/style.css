@@ -63,7 +63,16 @@ p.site-title {
 }
 
 /* Image Styling */
+
+.image-container {
+    height: 100px;
+    background-image: url('assets/network_drawing_purple.svg')
+    background-size: cover;
+    background-position: center;
+}
+
 .image-container img {
+    visibility: hidden;
     height: 100px; /* Adjust size as needed */
     align-items: right;
 }
