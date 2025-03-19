@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const imageMap = {
         home: "assets/network_drawing_red.svg",
         articles: "assets/network_drawing_purple.svg",
-        resume: "assets/network_drawing_jadegreen.svg",
+        resume: "assets/network_drawing_jadegreen2.svg",
         contact: "assets/network_drawing_blue.svg"
     };
 
