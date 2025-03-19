@@ -2,6 +2,9 @@
 document.addEventListener("DOMContentLoaded", function () {
     const navImage = document.getElementById("nav-image")
     const menuContainer = document.querySelector(".nav-menu")
+    // Select all menu items once
+    const menuItems = document.querySelectorAll(".menu-item");
+
     const imageMap = {
         home: "assets/network_drawing_red.svg",
         articles: "assets/network_drawing_purple.svg",
