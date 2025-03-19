@@ -1,7 +1,7 @@
 // Await full page load to run script
 document.addEventListener("DOMContentLoaded", function () {
     const navImage = document.getElementById("nav-image")
-    const menuContainer = document.querySelector(".nav-menu-links")
+    const menuContainer = document.querySelector(".nav-menu")
     const imageMap = {
         home: "assets/network_drawing_red.svg",
         articles: "assets/network_drawing_purple.svg",
