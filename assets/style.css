@@ -76,6 +76,22 @@ p.site-title {
     transform: rotate(-90deg); /* Rotates image 90 degrees */
 }
 
+/* Change image based on hover */
+#home:hover ~ .image-container img {
+  content: url('assets/network_drawing_red.svg');
+}
+
+#articles:hover ~ .image-container img {
+  content: url('assets/network_drawing_purple.svg');
+}
+
+#resume:hover ~ .image-container img {
+  content: url('assets/network_drawing_jadegreen.svg');
+}
+
+#contact:hover ~ .image-container img {
+  content: url('assets/network_drawing_blue.svg');
+}
 
 /* Remove default ul styles */
 .nav-links {
@@ -100,24 +116,8 @@ p.site-title {
 }
 
 /* .nav-links a:hover {
-    color: #874FFF; /* Hover effect */
+    color: #874FFF;
 } */
-
-/* Change image based on hover */
-#home:hover ~ .image-container img {
-  content: url('assets/network_drawing_red.svg');
-}
-
-#articles:hover ~ .image-container img {
-  content: url('assets/network_drawing_purple.svg');
-}
-
-#resume:hover ~ .image-container img {
-  content: url('assets/network_drawing_jadegreen.svg');
-
-#contact:hover ~ .image-container img {
-  content: url('assets/network_drawing_blue.svg');
-}
 
 /* Old sidebar nav styles */
 /* .sidebar nav ul {
