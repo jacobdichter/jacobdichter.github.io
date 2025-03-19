@@ -52,6 +52,13 @@ p.site-title {
   margin-bottom: 0px;
 }
 
+/* Sidebar horizontal separator */
+.sidebarline {
+  width: 100%;         /* The bar will span the full width of its container */
+  height: 3px;        /* Set the height of the bar */
+  background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
+}
+
 /* Navigation Menu Container */
 .nav-menu {
     display: flex;
@@ -93,34 +100,6 @@ p.site-title {
     color: #4C4C4C;
     font-size: 16px;
 }
-
-/* Old sidebar nav styles */
-/* .sidebar nav ul {
-  list-style: none;
-  padding: 0;
-}
-
-.sidebar nav ul li {
-  margin: 10px 0;
-}
-
-.sidebar nav ul li a {
-  text-decoration: none;
-  color: #4C4C4C;
-}
-
-.sidebar nav ul li a:hover {
-  text-decoration: overline;
-  color: #874FFF;
-} */
-
-/* Sidebar horizontal separator */
-.sidebarline {
-  width: 100%;         /* The bar will span the full width of its container */
-  height: 5px;        /* Set the height of the bar */
-  background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
-}
-
 
 .content {
   margin-left: 400px; /* Space for sidebar */
