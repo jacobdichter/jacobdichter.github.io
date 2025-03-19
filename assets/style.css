@@ -94,27 +94,25 @@ p.site-title {
     font-size: 16px;
 }
 
-/*
 #home:hover {
     color: #FA5252;
-    background-color: rgba(255, 0, 0, 0.1); /* Light red background */
+    text-decoration: overline;
 }
 
 #articles:hover {
     color: #874FFF;
-    background-color: rgba(128, 0, 128, 0.1); /* Light purple background */
+    text-decoration: overline;
 }
 
 #resume:hover {
     color: #19B654;
-    background-color: rgba(0, 163, 108, 0.1); /* Light green background */
+    text-decoration: overline;
 }
 
 #contact:hover {
     color: #2979FF;
-    background-color: rgba(0, 0, 255, 0.1); /* Light blue background */
+    text-decoration: overline;
 }
-*/
 
 /* Old sidebar nav styles */
 /* .sidebar nav ul {
