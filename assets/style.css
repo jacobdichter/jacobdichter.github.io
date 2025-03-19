@@ -62,7 +62,9 @@ p.site-title {
     background-color: #F4F4F4;
 }
 
-/* Image Styling */
+.menu-item:hover ~ .image-container img {
+  content: url('assets/network_drawing_red.svg');
+}
 
 /* Image Styling */
 .image-container img {
@@ -77,6 +79,7 @@ p.site-title {
 }
 
 /* Change image based on hover */
+
 #home:hover ~ .image-container img {
   content: url('assets/network_drawing_red.svg');
 }
