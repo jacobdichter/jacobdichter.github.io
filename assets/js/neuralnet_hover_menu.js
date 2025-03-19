@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Check if the hovered item is a menu link
         if (event.target.classList.contains("menu-item")) {
             navImage.src = imageMap[event.target.id];
+            navImage.style.color = "red";
         }
     });
 
