@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Reset image only when leaving the entire menu area
     menuContainer.addEventListener("mouseleave", function () {
-        navImage.src = "assets/network_drawing_grey.svg"; // Change image back
+        navImage.src = "assets/network_drawing_grey2.svg"; // Change image back
 
         const menuItems = document.querySelectorAll(".menu-item");
         menuItems.forEach(function (item) {
