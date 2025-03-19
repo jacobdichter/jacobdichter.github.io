@@ -18,6 +18,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Reset image only when leaving the entire menu area
     menuContainer.addEventListener("mouseleave", function () {
-        navImage.src = "assets/network_drawing_grey.svg";
+        navImage.style.transition = "opacity 0.5s ease-in-out"; // Apply transition
+        navImage.style.opacity = "0"; // Fade out
+
+        setTimeout(() => {
+            navImage.src = "assets/network_drawing_grey.svg"; // Change image
+            navImage.style.opacity = "1"; // Fade back in
+        }, 500); // Delay matches transition duration
         });
 });
