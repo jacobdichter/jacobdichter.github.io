@@ -219,7 +219,7 @@ p code {
     width: 100%;
     padding: 10px;
     margin-top: 15px;
-    background: #2979FF;
+    background: #0564a3;
     color: white;
     border: none;
     border-radius: 5px;
@@ -228,5 +228,5 @@ p code {
 }
 
 .contact-form button:hover {
-    background: #1a5fd0;
+    background: #007acc;
 }
