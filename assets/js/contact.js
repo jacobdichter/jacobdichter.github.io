@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
             if (data.ok) {
                 status.textContent = "Message sent successfully!";
                 status.style.color = "green";
+                status.style.fontWeight = "bold";
                 status.style.display = "block";
                 form.reset(); // Clear the form
             } else {
