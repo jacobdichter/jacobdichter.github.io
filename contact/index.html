@@ -7,6 +7,7 @@ title: Contact
 <h1>Contact</h1>
 <p>Feel free to reach out to me using the form below.</p>
 
+<div class="contact-container">
 <form id="contact-form" action="https://formspree.io/f/xwplvwvn" method="POST" class="contact-form">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required>
@@ -19,6 +20,8 @@ title: Contact
 
     <button type="submit">Send Message</button>
 </form>
+</div>
+
 <p id="form-status" style="display: none;"></p>
 
 <script src="{{ '/assets/js/contact.js' | relative_url }}"></script>
