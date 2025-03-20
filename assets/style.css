@@ -201,7 +201,9 @@ p code {
 
 .contact-container {
     display: flex;
-    justify-content: flex-start; /* Align left */
+    justify-content: flex-start !important; /* Align left */
+    align-items: flex-start !important;
+
 }
   
 .contact-form label {
