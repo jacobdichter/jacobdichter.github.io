@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(data => {
             if (data.ok) {
                 status.textContent = "Message sent successfully!";
-                status.style.color = "green";
+                status.style.color = "#19B654";
                 status.style.fontWeight = "bold";
                 status.style.display = "block";
                 form.reset(); // Clear the form
