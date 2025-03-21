@@ -36,14 +36,6 @@ body, html {
   text-align: center;
 }
 
-p.site-title {
-  color: #4C4C4C;
-  font-size: 1.4rem;
-  font-weight: 700;
-  margin-top: 0px;
-  margin-bottom: 10px;
-}
-
 .sidebar h1 a {
   text-decoration: none;
   color: #4C4C4C;
@@ -149,6 +141,14 @@ code.language-plaintext {
     font-family: monospace;
 }
 
+p.site-title {
+  color: #4C4C4C;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 p.view {
   font-style: italic;
   color: #A0A0A0;
@@ -163,6 +163,8 @@ p.subtitle {
   color: #4C4C4C;
   font-weight: 600;
   line-weight: 1.2;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 p.personal-flavor-text {
