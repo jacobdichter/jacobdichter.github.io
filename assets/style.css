@@ -22,6 +22,7 @@ body, html {
   margin: 0;
   padding: 0;
   overflow-y: scroll; /* Make container section scrollable */
+  background-color: blue;
 
 }
 
