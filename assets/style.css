@@ -22,6 +22,7 @@ body, html {
   margin: 0;
   padding: 0;
   overflow-y: scroll; /* Make container section scrollable */
+  position: relative;
 }
 
 .sidebar {
@@ -103,7 +104,7 @@ body, html {
 /*   padding-left: 325px; */
 /*   margin-right: 100px; */
 /*   width: calc(100% - 500px); */
-/*   position: absolute; /* Makes content ignore margin space */ */
+  position: absolute; 
   top: 0; /* Aligns content at the top */
   left: 325px; /* Align content at the left, starting from 400px */
   right: 100px; /* Align content 100px from the right side */
