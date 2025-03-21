@@ -141,6 +141,10 @@ body, html {
     font-size: 16px;
 }
 
+.nav-links a:hover {
+    text-decoration: none;
+}
+
 .content::-webkit-scrollbar {
   display: none; /* Hide scrollbar in Chrome, Edge, and Safari */
 }
