@@ -50,8 +50,8 @@ body, html {
   height: 4px;        /* Set the height of the bar */
   background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
   margin-bottom: 7px;
-  align-items: center;
-  justify-content: center;
+  margin: 0 auto 7px; /* Center horizontally */
+
 }
 
 /* Navigation Menu Container */
