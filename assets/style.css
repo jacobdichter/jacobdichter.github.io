@@ -46,8 +46,8 @@ body, html {
 
 /* Sidebar horizontal separator */
 .sidebarline {
-  width: 100%;         /* The bar will span the full width of its container */
-  height: 3px;        /* Set the height of the bar */
+  width: 85%;         /* The bar will span the full width of its container */
+  height: 5px;        /* Set the height of the bar */
   background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
 }
 
@@ -144,9 +144,9 @@ code.language-plaintext {
 p.site-title {
   color: #4C4C4C;
   font-size: 1.4rem;
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 5px;
 }
 
 p.view {
@@ -162,9 +162,9 @@ p.view {
 p.subtitle {
   color: #4C4C4C;
   font-weight: 600;
-  line-weight: 1.2;
+  line-weight: 1.1;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 p.personal-flavor-text {
