@@ -14,7 +14,7 @@ body, html {
   box-sizing: inherit;
 }
 
-.container {
+/* .container {
   /* flex-direction: row; /* Horizontal layout for sidebar and content */ */
   min-height: 100vh;
   /*overflow: hidden;*/
@@ -37,6 +37,44 @@ body, html {
   left: 0;
   top: 0;
   text-align: center;
+}
+
+.content {
+/*   margin-left: 325px; /* Space for sidebar */ */
+/*   padding-left: 325px; */
+/*   margin-right: 100px; */
+/*   width: calc(100% - 500px); */
+  position: absolute; 
+  top: 0; /* Aligns content at the top */
+  left: 325px; /* Align content at the left, starting from 400px */
+  right: 100px; /* Align content 100px from the right side */
+  padding: 0px;
+  height: 100vh; /* Full viewport height */
+  overflow-y: scroll; /* Make content section scrollable */
+  scrollbar-width: none;
+  background-color: blue;
+/*   flex-grow: 1; */
+} */
+
+.container {
+  display: flex; /* Use Flexbox for layout */
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 325px; /* Fixed width for sidebar */
+  padding: 20px;
+  background-color: #f4f4f4;
+  overflow-y: auto; /* Allow sidebar to scroll if needed */
+}
+
+.content {
+  flex: 1; /* Take up remaining space */
+  padding: 20px;
+  margin-right: 100px; /* Add spacing on the right */
+  overflow-y: scroll;
+  scrollbar-width: none;
+  background-color: blue;
 }
 
 .sidebar h1 a {
@@ -97,23 +135,6 @@ body, html {
     text-decoration: none;
     color: #4C4C4C;
     font-size: 16px;
-}
-
-.content {
-/*   margin-left: 325px; /* Space for sidebar */ */
-/*   padding-left: 325px; */
-/*   margin-right: 100px; */
-/*   width: calc(100% - 500px); */
-  position: absolute; 
-  top: 0; /* Aligns content at the top */
-  left: 325px; /* Align content at the left, starting from 400px */
-  right: 100px; /* Align content 100px from the right side */
-  padding: 0px;
-  height: 100vh; /* Full viewport height */
-  overflow-y: scroll; /* Make content section scrollable */
-  scrollbar-width: none;
-  background-color: blue;
-/*   flex-grow: 1; */
 }
 
 .content::-webkit-scrollbar {
