@@ -27,7 +27,8 @@ body, html {
 .sidebar {
   width: 325px;
   padding: 20px;
-  background-color: #f4f4f4;
+/*   background-color: #f4f4f4; */
+  background-color: purple;
   position: fixed;
   height: 100vh; /* Change to vh units to match container */
   overflow-y: auto;
