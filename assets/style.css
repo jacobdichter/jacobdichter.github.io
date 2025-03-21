@@ -70,11 +70,13 @@ body, html {
   overflow-y: auto; /* Allow sidebar to scroll if needed */
   left: 0; /* Align to the left */
   top: 0; /* Align to the top */
+  text-align: center;
+
 }
 
 .content {
   margin-left: 325px; /* Space for the fixed sidebar */
-  padding: 20px;
+  padding: 100px;
   height: 100vh;
   overflow-y: scroll; /* Make content scrollable */
   scrollbar-width: none; /* Hide scrollbar (optional) */
