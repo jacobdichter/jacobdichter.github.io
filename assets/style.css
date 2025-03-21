@@ -100,14 +100,14 @@ body, html {
 
 .content {
 /*   margin-left: 325px; /* Space for sidebar */ */
-  padding-left: 325px;
-  margin-right: 100px;
+/*   padding-left: 325px; */
+/*   margin-right: 100px; */
 /*   width: calc(100% - 500px); */
 /*   position: absolute; /* Makes content ignore margin space */ */
   top: 0; /* Aligns content at the top */
-/*   left: 400px; /* Align content at the left, starting from 400px */ */
-/*   right: 100px; /* Align content 100px from the right side */ */
-  padding: 20px;
+  left: 325px; /* Align content at the left, starting from 400px */
+  right: 100px; /* Align content 100px from the right side */
+  padding: 0px;
   height: 100vh; /* Full viewport height */
   overflow-y: scroll; /* Make content section scrollable */
   scrollbar-width: none;
