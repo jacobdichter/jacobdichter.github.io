@@ -51,9 +51,10 @@ a {
   text-decoration: none;
 }
 
-/* a:hover {
+a:hover {
   text-decoration: underline;
-} */
+  color: #2979FF;
+}
 
 ul {
   list-style-type: none; /* Removes bullet points */
