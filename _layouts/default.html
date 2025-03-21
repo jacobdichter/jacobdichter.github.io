@@ -74,16 +74,16 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 
-    // // Reset image only when leaving the entire menu area
-    // menuContainer.addEventListener("mouseleave", function () {
-    //     navImage.src = "{{ '/assets/network_drawing_grey2.svg' | absolute_url }}"; // Change image back
+    // Reset image only when leaving the entire menu area
+    menuContainer.addEventListener("mouseleave", function () {
+        navImage.src = "{{ '/assets/network_drawing_grey2.svg' | absolute_url }}"; // Change image back
 
-    //     const menuItems = document.querySelectorAll(".menu-item");
-    //     menuItems.forEach(function (item) {
-    //         item.style.color = defaultStyles[item.id].color;  // Reset to default color
-    //     });
+        const menuItems = document.querySelectorAll(".menu-item");
+        menuItems.forEach(function (item) {
+            item.style.color = defaultStyles[item.id].color;  // Reset to default color
+        });
         
-    // });
+    });
 });
   </script>
 
