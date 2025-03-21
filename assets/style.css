@@ -99,7 +99,8 @@ body, html {
 }
 
 .content {
-  margin-left: 325px; /* Space for sidebar */
+/*   margin-left: 325px; /* Space for sidebar */ */
+  padding-left: 325px;
   margin-right: 100px;
 /*   width: calc(100% - 500px); */
 /*   position: absolute; /* Makes content ignore margin space */ */
