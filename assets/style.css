@@ -49,7 +49,7 @@ body, html {
   width: 90%;         /* The bar will span the full width of its container */
   height: 4px;        /* Set the height of the bar */
   background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
-  margin-bottom: 5px;
+  margin-bottom: 7px;
   align-items: center;
   justify-content: center;
 }
@@ -146,10 +146,10 @@ code.language-plaintext {
 
 p.site-title {
   color: #4C4C4C;
-  font-size: 1.4rem;
-  font-weight: 600;
+  font-size: 1.3rem;
+  font-weight: 650;
   margin-top: 0px;
-  margin-bottom: 5px;
+  margin-bottom: 7px;
 }
 
 p.view {
@@ -165,7 +165,7 @@ p.view {
 p.subtitle {
   color: #4C4C4C;
   font-weight: 600;
-  line-weight: 1.1;
+  line-weight: 0.9;
   margin-top: 0px;
   margin-bottom: 10px;
 }
