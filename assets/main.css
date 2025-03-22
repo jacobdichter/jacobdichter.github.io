@@ -58,7 +58,8 @@ h1 {
   font-weight: 600; /* Semi-bold for headings */
   color: #2c3e50; /* Dark blue-gray for headings */
   margin-bottom: 0.5em;
-
+}
+  
 h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
   font-weight: 600; /* Semi-bold for headings */
