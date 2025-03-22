@@ -1,3 +1,8 @@
+---
+layout: default
+title: Jacob Dichter
+---
+
 # Projects 
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
