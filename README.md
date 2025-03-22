@@ -1,9 +1,17 @@
 # Projects 
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
-Developed a geospatial locality recommendation system utilizing cosine similarity and k-means clustering in Python. Designed algorithm to analyze spatial data and user preferences, enhancing Connecticut town recommendations based on feature similarity.
+<div style="overflow: auto;">
+  <p style="margin: 0;">
+    <img src="https://images.squarespace-cdn.com/content/v1/5d8b7b3eabff3c4f1954d802/1607545456838-94PRD1R6ML2KPP0HHI63/Rent.PNG" alt="CT Towns" width=300 style="float: left; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
+Developed a geospatial locality recommendation system leveraging advanced machine learning techniques, including cosine similarity and k-means clustering, to analyze spatial data and user preferences. The system was designed to enhance town recommendations across Connecticut by identifying feature similarities between localities, enabling users to discover towns that align with their socioeconomic and lifestyle preferences. This project was part of a broader initiative to model socioeconomic trends and improve decision-making for policymakers and residents.
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d8b7b3eabff3c4f1954d802/1607545456838-94PRD1R6ML2KPP0HHI63/Rent.PNG" width=300> <br>
+In addition to the recommendation system, I applied machine learning algorithms (e.g., random forest) to predict socioeconomic ascent across 884 Connecticut census tracts. By comparing machine learning outputs to traditional regression models, I demonstrated a 14% increase in R² accuracy, significantly improving the reliability of socioeconomic forecasts. The model also generated 2028 forecasts, providing actionable insights for long-term planning and resource allocation.
+
+To address the modifiable areal unit problem (MAUP), I implemented a spatial crosswalk methodology, enabling consistent inter-year analysis of census tract data. This approach ensured accurate comparisons and trend analysis over time, even as geographic boundaries evolved.
+
+As part of my M.S. Thesis, I developed a machine learning-driven geospatial prediction model for Connecticut, integrating SQL, Python, and Power BI to analyze 15+ socioeconomic dimensions. This model identified socioeconomic hotspots—areas with significant upward or downward mobility trends—providing policymakers with data-driven insights to target interventions effectively. The project showcased my ability to combine geospatial analysis, machine learning, and data visualization to solve complex, real-world problems.
+<br>
 Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```PCA```
 <br><br>
 
