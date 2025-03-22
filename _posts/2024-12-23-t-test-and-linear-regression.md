@@ -5,15 +5,9 @@ date: 2024-12-23 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
+
 <span class="date">/  {{ page.date | date: "%B %-d, %Y" }}</span>
 
----
-layout: post
-title: "Generalizing Regression: t-tests and OLS"
-date: 2024-12-23 09:50:00 +0000
-author: Jacob Dichter
-categories: [blog]
----
 
 # Generalizing Regression: t-tests and OLS
 
