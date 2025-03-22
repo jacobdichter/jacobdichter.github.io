@@ -1,5 +1,4 @@
-## Projects 
-_________
+# Projects 
 
 #### Data Mining
 #### [Interactive Global Trade Insights Dashboard in Power BI](http://www.realclearpolitics.com)<br>
