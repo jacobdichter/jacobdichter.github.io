@@ -49,7 +49,7 @@ Yes, running a t-test comparing two groups is mathematically equivalent to perfo
 ---
 
 ### The t-Test
-A t-test for two independent groups compares the means of a dependent variable (\(Y\)) between two groups (e.g., Group A and Group B). The null hypothesis is that the means of the two groups are equal $$(H_0: \mu_A = \mu_B)$$.
+A t-test for two independent groups compares the means of a dependent variable ($$Y$$) between two groups (e.g., Group A and Group B). The null hypothesis is that the means of the two groups are equal $$(H_0: \mu_A = \mu_B)$$.
 
 ---
 
@@ -69,9 +69,9 @@ where:
 ---
 
 ### Equivalence
-- The t-statistic for the slope (\(\beta_1\)) in this regression is the same as the t-statistic from the t-test comparing the two groups.
-- The regression's \(p\)-value for testing whether \(\beta_1 = 0\) is identical to the \(p\)-value from the t-test for the null hypothesis that the two group means are equal.
-- The estimated coefficients in the regression (\(\beta_0\) and \(\beta_1\)) correspond directly to the group means and the mean difference.
+- The t-statistic for the slope ($$\beta_1$$) in this regression is the same as the t-statistic from the t-test comparing the two groups.
+- The regression's $$p$$-value for testing whether $$\beta_1 = 0$$ is identical to the $$p$$-value from the t-test for the null hypothesis that the two group means are equal.
+- The estimated coefficients in the regression ($$\beta_0)$$ and $$\beta_1$$) correspond directly to the group means and the mean difference.
 
 ---
 
