@@ -76,8 +76,8 @@ body, html {
 
 .content {
   margin-left: 325px; /* Space for the fixed sidebar */
-  padding-left: 100px;
-  padding-right: 150px;
+  padding-left: 50px;
+  padding-right: 75px;
   padding-top: 15px;
   height: 100vh;
   overflow-y: scroll; /* Make content scrollable */
