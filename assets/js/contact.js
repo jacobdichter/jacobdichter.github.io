@@ -22,12 +22,13 @@ document.addEventListener("DOMContentLoaded", function () {
             if (data.ok) {
                 status.textContent = "Message sent successfully!";
                 status.style.color = "#19B654";
-                status.style.fontWeight = "bold";
+                status.style.fontWeight = "600";
                 status.style.display = "block";
                 form.reset(); // Clear the form
             } else {
-                status.textContent = "Oops! There was a problem submitting your form.";
+                status.textContent = "There was a problem submitting your form.";
                 status.style.color = "red";
+                status.style.fontWeight = "600";
                 status.style.display = "block";
             }
         })
@@ -35,6 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
             console.error("Error submitting form:", error);
             status.textContent = "Something went wrong. Please try again.";
             status.style.color = "red";
+            status.style.fontWeight = "600";
             status.style.display = "block";
         });
     });
