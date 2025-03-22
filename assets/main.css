@@ -167,7 +167,12 @@ a:hover {
   font-weight: 425;
 }
 
-h1, h2, h3, h4, h5, h6:hover {
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
   font-weight: 600;
 }
 
