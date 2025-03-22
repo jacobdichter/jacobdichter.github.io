@@ -113,12 +113,12 @@ body, html {
 
 /* Image Styling */
 .image-container img {
-    height: 90px; /* Adjust size as needed */
+    height: 96px; /* Adjust size as needed */
     align-items: right;
 }
 
 #nav-image {
-    height: 90px; /* Adjust size as needed
+    height: 96px; /* Adjust size as needed
     margin-right: 0px; /* Space between image and links */
     transform: rotate(-90deg); /* Rotates image 90 degrees */
 }
