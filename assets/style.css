@@ -104,16 +104,11 @@ body, html {
 
 /* Navigation Menu Container */
 
-nav {
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
 .nav-menu {
     display: flex;
     align-items: center;
     justify-content: center; /* Space between image and links */
-    padding: 10px 20px;
+    padding: 0;
     background-color: #F4F4F4;
 }
 
