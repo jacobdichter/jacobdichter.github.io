@@ -118,7 +118,7 @@ body, html {
 }
 
 #nav-image {
-    height: 100px; /* Adjust size as needed
+    height: 95px; /* Adjust size as needed
     margin-right: 0px; /* Space between image and links */
     transform: rotate(-90deg); /* Rotates image 90 degrees */
 }
