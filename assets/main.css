@@ -70,7 +70,7 @@ h6 { font-size: 1em; }   /* 16px */
 
 /* Paragraphs */
 p {
-  font-size: 0.9em; /* 16px */
+  font-size: 0.9em; /* 1em = 16px */
   line-height: 1.6;
   margin-bottom: 1.5em;
   color: #333;
@@ -95,15 +95,14 @@ ul, ol {
 li {
   margin-bottom: 0.75em; /* Space between list items */
   line-height: 1.6;
+  font-size: 0.9em;
 }
 
 /* Code Blocks */
 pre {
-/*   background-color: #f4f4f4; /* Light gray background */ */
-/*   padding: 15px; */
   overflow-x: auto; /* Horizontal scroll for long lines */
   font-family: monospace;
-  font-size: 0.9em; /* Slightly smaller font for code */
+  font-size: 0.9em; 
   line-height: 1.5;
   margin-bottom: 1.5em;
 }
@@ -167,13 +166,6 @@ hr {
   margin: 2em 0;
 }
 
-footer {
-  text-align: center;
-  margin-top: 40px;
-  font-size: 0.875rem;
-  color: #777;
-}
-
 a {
   color: #007acc;
   text-decoration: none;
@@ -181,7 +173,8 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #2979FF;
+  color: #874FFF;
+  font-weight: 200;
 }
 
 ul {
