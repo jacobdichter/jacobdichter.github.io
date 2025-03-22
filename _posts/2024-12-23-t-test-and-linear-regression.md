@@ -5,7 +5,7 @@ date: 2024-12-23 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
-
+<span class="date">/  {{ post.date | date: "%B %-d, %Y" }}</span>
 ### Is a t-Test Equivalent to Regression on a Group Dummy Variable?
 
 Yes, running a t-test comparing two groups is mathematically equivalent to performing a simple linear regression where the outcome variable is regressed on a single binary (dummy) variable indicating group membership. Here's why:
