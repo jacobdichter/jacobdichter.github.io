@@ -242,6 +242,10 @@ p code {
   color: #874FFF;
 }
 
+p .data-scientist {
+  margin-bottom: 0.5em;
+}
+
 /* Contact Form */
 .contact-form {
     max-width: 500px;
