@@ -5,7 +5,56 @@ date: 2024-12-23 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
-<span class="date">/  {{ post.date | date: "%B %-d, %Y" }}</span>
+<span class="date">/  {{ page.date | date: "%B %-d, %Y" }}</span>
+
+---
+layout: post
+title: "Generalizing Regression: t-tests and OLS"
+date: 2024-12-23 09:50:00 +0000
+author: Jacob Dichter
+categories: [blog]
+---
+
+# Generalizing Regression: t-tests and OLS
+
+Welcome to my blog! In this post, we'll explore the relationship between t-tests and Ordinary Least Squares (OLS) regression. By the end, you'll understand how t-tests are a special case of OLS and how this insight can help you generalize regression models.
+
+---
+
+## Introduction
+
+Regression analysis is one of the most powerful tools in statistics, allowing us to model relationships between variables. But did you know that t-tests, a common method for comparing means, are actually a special case of OLS regression? Let’s dive in!
+
+---
+
+## Key Concepts
+
+1. **t-tests**: Used to compare the means of two groups.
+2. **OLS Regression**: A method for modeling the relationship between a dependent variable and one or more independent variables.
+
+---
+
+## The Connection
+
+When you perform a t-test, you're essentially running a regression model with a single binary predictor. Here’s how it works:
+
+- The binary predictor (e.g., group A vs. group B) is coded as 0 or 1.
+- The regression coefficient represents the difference in means between the two groups.
+- The t-statistic from the regression output is identical to the t-statistic from a t-test.
+
+---
+
+## Example
+
+Let’s say we want to compare the average test scores of two groups: Group A and Group B. We can use either a t-test or OLS regression to answer this question.
+
+### Using a t-test:
+```python
+from scipy.stats import ttest_ind
+t_stat, p_value = ttest_ind(group_a_scores, group_b_scores)
+
+# Old Post
+
 ### Is a t-Test Equivalent to Regression on a Group Dummy Variable?
 
 Yes, running a t-test comparing two groups is mathematically equivalent to performing a simple linear regression where the outcome variable is regressed on a single binary (dummy) variable indicating group membership. Here's why:
