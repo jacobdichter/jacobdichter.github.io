@@ -80,7 +80,6 @@ body, html {
   height: 100vh;
   overflow-y: scroll; /* Make content scrollable */
   scrollbar-width: none; /* Hide scrollbar (optional) */
-  background-color: blue;
 }
 
 .sidebar h1 a {
