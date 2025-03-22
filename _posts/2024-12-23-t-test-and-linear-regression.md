@@ -6,14 +6,7 @@ author: Jacob Dichter
 categories: [blog]
 ---
 
-<span class="date">/  {{ page.date | date: "%B %-d, %Y" }}</span>
-
-
-# Generalizing Regression: t-tests and OLS
-
-Welcome to my blog! In this post, we'll explore the relationship between t-tests and Ordinary Least Squares (OLS) regression. By the end, you'll understand how t-tests are a special case of OLS and how this insight can help you generalize regression models.
-
----
+<span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
 
 ## Introduction
 
