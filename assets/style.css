@@ -78,7 +78,7 @@ body, html {
   margin-left: 325px; /* Space for the fixed sidebar */
   padding-left: 100px;
   padding-right: 200px;
-  padding-top: 100px;
+  padding-top: 15px;
   height: 100vh;
   overflow-y: scroll; /* Make content scrollable */
   scrollbar-width: none; /* Hide scrollbar (optional) */
@@ -187,6 +187,7 @@ p.site-title {
   font-weight: 600;
   margin-top: 0px;
   margin-bottom: 7px;
+  padding-top: 15px;
 }
 
 p.view {
