@@ -76,16 +76,6 @@ p {
   color: #333;
 }
 
-/* Links */
-a {
-  color: #007acc; /* Blue for links */
-  text-decoration: none; /* Remove underline */
-}
-
-a:hover {
-  text-decoration: underline; /* Add underline on hover */
-}
-
 /* Lists */
 ul, ol {
   margin-bottom: 1.5em;
@@ -174,7 +164,7 @@ a {
 a:hover {
   text-decoration: underline;
   color: #874FFF;
-  font-weight: 200;
+  font-weight: 450;
 }
 
 ul {
