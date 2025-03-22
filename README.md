@@ -7,6 +7,13 @@ Developed a geospatial locality recommendation system utilizing cosine similarit
 Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```PCA```
 <br><br>
 
+<div style="overflow: auto;">
+  <p style="margin: 0;">
+    <img src="https://via.placeholder.com/150" alt="Placeholder Image" style="float: left; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+</div>
+<br>
 #### [Interactive Global Trade Insights Dashboard in Power BI](http://www.realclearpolitics.com)<br>
 ```Power BI``` ```SQL``` ```Dashboarding```<br>
 Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions.
