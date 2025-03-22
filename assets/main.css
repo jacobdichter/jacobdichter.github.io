@@ -39,8 +39,141 @@ main {
   margin: 0 auto;
 }
 
+/* INSERT CSS */
+
+/* General Body Styles */
+body {
+  font-family: 'Inter', sans-serif; /* Clean, modern font */
+  font-size: 16px; /* Base font size */
+  line-height: 1.6; /* Improved readability */
+  color: #333; /* Dark gray for text */
+  background-color: #fff; /* White background */
+  margin: 0;
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600; /* Semi-bold for headings */
+  color: #2c3e50; /* Dark blue-gray for headings */
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2.2em; } /* 35.2px */
+h2 { font-size: 1.8em; } /* 28.8px */
+h3 { font-size: 1.5em; } /* 24px */
+h4 { font-size: 1.3em; } /* 20.8px */
+h5 { font-size: 1.1em; } /* 17.6px */
+h6 { font-size: 1em; }   /* 16px */
+
+/* Paragraphs */
 p {
-  font-size: 12px;
+  font-size: 1em; /* 16px */
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+  color: #333;
+}
+
+/* Links */
+a {
+  color: #007acc; /* Blue for links */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
+/* Lists */
+ul, ol {
+  margin-bottom: 1.5em;
+  padding-left: 1.5em; /* Indent list items */
+}
+
+li {
+  margin-bottom: 0.75em; /* Space between list items */
+  line-height: 1.6;
+}
+
+/* Code Blocks */
+pre {
+  background-color: #f4f4f4; /* Light gray background */
+  padding: 15px;
+  border-radius: 5px;
+  overflow-x: auto; /* Horizontal scroll for long lines */
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em; /* Slightly smaller font for code */
+  line-height: 1.5;
+  margin-bottom: 1.5em;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+  background-color: #f4f4f4; /* Light gray background */
+  padding: 2px 4px;
+  border-radius: 3px;
+  color: #c7254e; /* Reddish color for inline code */
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #007acc; /* Blue left border */
+  padding-left: 15px;
+  margin: 1.5em 0;
+  color: #555; /* Dark gray for quote text */
+  font-style: italic;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5em;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd; /* Light gray border */
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4; /* Light gray background for headers */
+  font-weight: 600;
+}
+
+/* Images */
+img {
+  max-width: 100%; /* Responsive images */
+  height: auto;
+  border-radius: 5px; /* Slightly rounded corners */
+  margin-bottom: 1.5em;
+}
+
+/* Buttons */
+button {
+  background-color: #007acc; /* Blue background */
+  color: #fff; /* White text */
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005f99; /* Darker blue on hover */
+}
+
+/* Horizontal Rule */
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #ddd; /* Light gray line */
+  margin: 2em 0;
 }
 
 footer {
