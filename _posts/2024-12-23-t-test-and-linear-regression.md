@@ -6,7 +6,7 @@ author: Jacob Dichter
 categories: [blog]
 ---
 
-<span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
+<span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
 ## Introduction
 
