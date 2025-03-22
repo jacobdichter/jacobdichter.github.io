@@ -39,7 +39,7 @@ Let’s say we want to compare the average test scores of two groups: Group A an
 ```python
 from scipy.stats import ttest_ind
 t_stat, p_value = ttest_ind(group_a_scores, group_b_scores)
-
+```
 # Old Post
 
 ### Is a t-Test Equivalent to Regression on a Group Dummy Variable?
@@ -49,22 +49,22 @@ Yes, running a t-test comparing two groups is mathematically equivalent to perfo
 ---
 
 ### The t-Test
-A t-test for two independent groups compares the means of a dependent variable (\(Y\)) between two groups (e.g., Group A and Group B). The null hypothesis is that the means of the two groups are equal $$(\(H_0: \mu_A = \mu_B\))$$.
+A t-test for two independent groups compares the means of a dependent variable (\(Y\)) between two groups (e.g., Group A and Group B). The null hypothesis is that the means of the two groups are equal $$(H_0: \mu_A = \mu_B)$$.
 
 ---
 
 ### Simple Linear Regression
 In simple linear regression, you can model the dependent variable (\(Y\)) as:
 
-$$\[
+$$
 Y_i = \beta_0 + \beta_1 X_i + \epsilon_i
-\]$$
+$$
 
 where:
-- $$\(X_i\)$$ is a binary variable (e.g., 0 for Group A and 1 for Group B),
-- $$\(\beta_0\)$$ is the mean of \(Y\) for Group A,
-- $$\(\beta_1\)$$ is the difference in means between Group B and Group A (\(\mu_B - \mu_A\)),
-- $$\(\epsilon_i\)$$ is the error term.
+- $$X_i$$ is a binary variable (e.g., 0 for Group A and 1 for Group B),
+- $$\beta_0$$ is the mean of \(Y\) for Group A,
+- $$\beta_1$$ is the difference in means between Group B and Group A (\(\mu_B - \mu_A\)),
+- $$\epsilon_i$$ is the error term.
 
 ---
 
