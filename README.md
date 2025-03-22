@@ -1,6 +1,12 @@
 # Projects 
 
-#### Data Mining
+#### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
+Developed a geospatial locality recommendation system utilizing cosine similarity and k-means clustering in Python. Designed algorithm to analyze spatial data and user preferences, enhancing Connecticut town recommendations based on feature similarity.
+
+<img src="https://images.squarespace-cdn.com/content/v1/5d8b7b3eabff3c4f1954d802/1607545456838-94PRD1R6ML2KPP0HHI63/Rent.PNG" width=300> <br>
+Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```PCA```
+<br><br>
+
 #### [Interactive Global Trade Insights Dashboard in Power BI](http://www.realclearpolitics.com)<br>
 ```Power BI``` ```SQL``` ```Dashboarding```<br>
 Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions.
@@ -9,20 +15,13 @@ Built a dynamic global trade dashboard in Power BI using DAX expressions and Pow
 
 <br><br>
 
-#### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
-Developed a geospatial locality recommendation system utilizing cosine similarity and k-means clustering in Python. Designed algorithm to analyze spatial data and user preferences, enhancing Connecticut town recommendations based on feature similarity.
-
-<img src="https://images.squarespace-cdn.com/content/v1/5d8b7b3eabff3c4f1954d802/1607545456838-94PRD1R6ML2KPP0HHI63/Rent.PNG" width=300> <br>
-Skills: ```Python``` ```k-means clustering``` ```cosine similarity```
-<br><br>
-
 #### [Forecasting for the Litchfield Road Race Using Predictive Modeling](http://www.google.com/)<br>
 Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data.
 
 <img src="https://www.worldclimateservice.com/wp-content/uploads/2020/08/CRPSS_Skill.png" width=300><br>
 Skills: ```Python``` ```scikit-learn``` ```SQLite```
 
-<br><br><br>
+<br><br>
 
 Gaussian Mixture Model
 $$
