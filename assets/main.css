@@ -99,8 +99,8 @@ li {
 
 /* Code Blocks */
 pre {
-  background-color: #f4f4f4; /* Light gray background */
-  padding: 15px;
+/*   background-color: #f4f4f4; /* Light gray background */ */
+/*   padding: 15px; */
   overflow-x: auto; /* Horizontal scroll for long lines */
   font-family: monospace;
   font-size: 0.9em; /* Slightly smaller font for code */
