@@ -64,7 +64,7 @@ body, html {
 .sidebar {
   width: 300px; /* Fixed width for sidebar */
   padding: 0px;
-  background-color: #D6C6A1;
+  background-color: #f4f4f4;
   position: fixed; /* Fix the sidebar */
   height: 100vh; /* Full viewport height */
   overflow-y: auto; /* Allow sidebar to scroll if needed */
@@ -85,12 +85,12 @@ body, html {
 }
 
 .borderbar {
-  width: 190px; 
+  width: 175px; 
   height: 100vh;
   position: fixed;
   top: 0;
   right: 0;
-  background: linear-gradient(to right, #FFFFFF, #D6C6A1);
+  background: linear-gradient(to right, #FFFFFF, #CED4DA);
 }
 
 .sidebar h1 a {
@@ -118,7 +118,7 @@ body, html {
     align-items: center;
     justify-content: center; /* Space between image and links */
     padding: 0;
-    background-color: #D6C6A1;
+    background-color: #f4f4f4;
 }
 
 /* Image Styling */
