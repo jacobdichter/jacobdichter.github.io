@@ -3,7 +3,7 @@ layout: default
 title: Jacob Dichter
 ---
 
-## Listen to me you bool. you think that stock is going ot up? you BOOOL!
+# Projects
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
 <div style="overflow: auto;">
