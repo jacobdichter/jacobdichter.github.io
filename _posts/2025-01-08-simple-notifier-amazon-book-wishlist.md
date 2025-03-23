@@ -5,7 +5,7 @@ date: 2025-01-08 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
-
+<span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
 Creating a program to monitor a publicly accessible Amazon book wish list and notify you when a new book is added can be approached using a combination of scraping, scheduling, and notification tools. Here’s a structured approach:
 
