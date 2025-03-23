@@ -85,12 +85,13 @@ body, html {
 }
 
 .borderbar {
-  width: 250px; /* Adjust width as needed */
+  width: 200px; /* Adjust width as needed */
   background-color: #f4f4f4; /* Match sidebar color or choose a subtle contrast */
   position: fixed;
   right: 0;
   top: 0;
   height: 100vh;
+  margin-left: 50px;
 }
 
 
