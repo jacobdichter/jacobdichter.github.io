@@ -5,6 +5,8 @@ date: 2024-11-19 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
+<span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
+
 I will implement a simple step-by-step outline of a basic ETL project where we will load a CSV into Python, clean, then load the data into SQLite where it can be queried.
 
 ## Review the US. Census API Documentation
