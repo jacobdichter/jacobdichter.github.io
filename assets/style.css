@@ -98,6 +98,7 @@ body, html {
   background-size: 200px 200px; /* Adjust size of texture */
   background-repeat: repeat; /* Ensure it tiles properly */
   background-blend-mode: multiply; 
+}
 
 .sidebar h1 a {
   text-decoration: none;
