@@ -113,6 +113,7 @@ code {
   padding: 2px 4px;
   border-radius: 3px;
   color: #c7254e; /* Reddish color for inline code */
+  text-align: center;
 }
 
 /* Blockquotes */
