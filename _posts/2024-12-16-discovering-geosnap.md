@@ -5,6 +5,7 @@ date: 2024-12-16 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
 ---
+<span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
 This blog post will cover the discovery of the geosnap library for Python and the solutions it provides to many of the problems encountered durin the development of my M.S. project.
 
