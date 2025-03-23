@@ -62,7 +62,7 @@ body, html {
 }
 
 .sidebar {
-  width: 325px; /* Fixed width for sidebar */
+  width: 300px; /* Fixed width for sidebar */
   padding: 0px;
   background-color: #f4f4f4;
   position: fixed; /* Fix the sidebar */
@@ -75,7 +75,7 @@ body, html {
 }
 
 .content {
-  margin-left: 325px; /* Space for the fixed sidebar */
+  margin-left: 300px; /* Space for the fixed sidebar */
   padding-left: 50px;
   padding-right: 250px;
   padding-top: 15px;
