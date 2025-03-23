@@ -85,12 +85,12 @@ body, html {
 }
 
 .borderbar {
-  width: 175px; 
+  width: 215px; 
   height: 100vh;
   position: fixed;
   top: 0;
   right: 0;
-  background: linear-gradient(to right, #FFFFFF, #F4F4F4);
+  background: linear-gradient(to right, #FFFFFF, #E4E4E4);
 }
 
 .sidebar h1 a {
