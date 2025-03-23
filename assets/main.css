@@ -98,7 +98,7 @@ li {
 
 /* Code Blocks */
 pre {
-  display: inline-block;
+/*   display: inline-block; */
   overflow-x: auto; /* Horizontal scroll for long lines */
   font-family: monospace;
   font-size: 0.9em; 
