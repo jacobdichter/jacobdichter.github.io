@@ -3,6 +3,8 @@ layout: default
 title: Jacob Dichter
 ---
 
+###Hello I am pooper
+
 # Projects 
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
