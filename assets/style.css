@@ -90,7 +90,17 @@ body, html {
   position: fixed;
   top: 0;
   right: 0;
-  background: linear-gradient(to bottom, #F4F4F4, #E0E0E0);
+  background: linear-gradient(to bottom, #F4F4F4, #dec5c5);
+  animation: scrollGradient 5s linear infinite; /* Adjust the duration for scrolling speed */
+}
+
+@keyframes scrollGradient {
+  0% {
+    background-position: 0 0; /* Starting position */
+  }
+  100% {
+    background-position: 0 100%; /* Ending position */
+  }
 }
 
 .sidebar h1 a {
