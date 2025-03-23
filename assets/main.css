@@ -212,3 +212,7 @@ p .date {
 small {
   display: none;
 }
+
+.highlight {
+  text-align: center;
+}
