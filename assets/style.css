@@ -224,6 +224,10 @@ p.personal-flavor-text {
   padding-right: 30px;
 }
 
+p.flavor-secondline {
+  margin-top: 10px;
+}
+
 /*
 /* For inline code */
 p code {
