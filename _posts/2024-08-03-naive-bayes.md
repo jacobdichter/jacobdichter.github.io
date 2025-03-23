@@ -5,6 +5,7 @@ author: Jacob Dichter
 date: 2024-08-02 07:04:00 +0000
 categories: [blog]
 ---
+<span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
 The code below implements a Naive Bayes classifier for the Iris dataset by first loading and randomizing the dataset and then splitting it into training and test sets. It calculates the mean and variance for each flower class (setosa, versicolor, and virginica) and uses these to compute Gaussian probabilities for classification. The classifier predicts the species of each test instance and calculates the classification accuracy based on the proportion of correct predictions.
 
