@@ -85,22 +85,14 @@ body, html {
 }
 
 .borderbar {
-  width: 175px; 
+  width: 175px;
   height: 100vh;
   position: fixed;
   top: 0;
   right: 0;
-  background: linear-gradient(to right, #FFFFFF, #CED4DA);
-  animation: scrollGradient 5s linear infinite; /* Adjust the duration for scrolling speed */
-}
-
-@keyframes scrollGradient {
-  0% {
-    background-position: 0 0; /* Starting position */
-  }
-  100% {
-    background-position: 0 100%; /* Ending position */
-  }
+  background-color: #f4f4f4;
+  border-left: 3px solid;
+  border-image: linear-gradient(to bottom, #F4F4F4, #C1A068) 1; /* Gradient border */
 }
 
 .sidebar h1 a {
