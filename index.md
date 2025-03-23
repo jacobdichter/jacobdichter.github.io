@@ -3,9 +3,9 @@ layout: default
 title: Jacob Dichter
 ---
 
-###Hello I am pooper
-
 # Projects 
+
+### bunjikmo
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
 <div style="overflow: auto;">
