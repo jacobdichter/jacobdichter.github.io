@@ -3,9 +3,7 @@ layout: default
 title: Jacob Dichter
 ---
 
-# Projects 
-
-### bunjikmo
+# bunjikmo
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
 <div style="overflow: auto;">
