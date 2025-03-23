@@ -92,7 +92,7 @@ body, html {
   right: 0;
   background-color: #FAFAFA;
   border-left: 3px solid;
-  border-image: linear-gradient(to bottom, #F4F4F4, #CED4DA) 1; /* Gradient border */
+  border-image: linear-gradient(to bottom, #FDFDFD, #E4E8EC) 1; /* Gradient border */
 }
 
 .sidebar h1 a {
