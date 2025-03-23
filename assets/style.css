@@ -84,7 +84,7 @@ body, html {
   scrollbar-width: none; /* Hide scrollbar (optional) */
 }
 
-.borderbar {
+/* .borderbar {
   width: 150px;
   height: 100vh;
   position: fixed;
@@ -96,6 +96,22 @@ body, html {
   /* Add subtle SVG texture */
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cdefs%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='0.05'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3C/defs%3E%3Crect width='100%' height='100%' filter='url(%23noiseFilter)' opacity='0.15'/%3E%3C/svg%3E");
   background-size: cover;
+} */
+
+.borderbar {
+  width: 150px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #FAFAFA; /* Light solid background */
+  border-left: 3px solid;
+  border-image: linear-gradient(to bottom, #F1F4F7, #E4E8EC) 1;
+
+  /* ✅ Stronger SVG noise */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cdefs%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.3' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='0.3'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3C/defs%3E%3Crect width='100%' height='100%' filter='url(%23noiseFilter)' opacity='0.3'/%3E%3C/svg%3E");
+  background-size: cover;
+  background-blend-mode: multiply; /* Helps show the texture */
 }
 
 .sidebar h1 a {
