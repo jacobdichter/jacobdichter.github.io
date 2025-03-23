@@ -94,7 +94,7 @@ body, html {
   border-left: 3px solid;
   border-image: linear-gradient(to bottom, #F1F4F7, #E4E8EC) 1; /* Gradient border */
     /* Hosted subtle noise texture */
-  background-image: url("https://www.transparenttextures.com/patterns/white-carbon.png");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Square_-_black_simple.svg/2048px-Square_-_black_simple.svg.png");
   background-blend-mode: overlay;
   opacity: 0.9;
 }
