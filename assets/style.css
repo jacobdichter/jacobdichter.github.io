@@ -90,9 +90,9 @@ body, html {
   position: fixed;
   top: 0;
   right: 0;
-  background-color: #f4f4f4;
+  background-color: #FAFAFA;
   border-left: 3px solid;
-  border-image: linear-gradient(to bottom, #F4F4F4, #7F7F7F) 1; /* Gradient border */
+  border-image: linear-gradient(to bottom, #F4F4F4, #CED4DA) 1; /* Gradient border */
 }
 
 .sidebar h1 a {
