@@ -5,11 +5,6 @@ title: Jacob Dichter
 <div class="title-card">
   
 <b>I am interested in the patterns that shape economies, societies, and industries — how data reveals underlying structures and hidden relationships.</b>
-
-With experience in programming and statistical learning, I have worked with international commerce, sectoral, commodities, and credit default data to analyze market trends and systemic dynamics.  
-
-I approach data science as both a technical challenge and an intellectual pursuit—building models, designing pipelines, and extracting meaning from raw information. There is always another layer to uncover, another question to ask. The process is ongoing.  
-
 </div>
 
 # Projects
