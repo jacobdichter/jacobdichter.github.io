@@ -10,30 +10,34 @@ title: Jacob Dichter
     <img src="https://images.squarespace-cdn.com/content/v1/5d8b7b3eabff3c4f1954d802/1607545456838-94PRD1R6ML2KPP0HHI63/Rent.PNG" alt="CT Towns" width=300 style="float: left; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
 Developed a geospatial locality recommendation system leveraging advanced machine learning techniques, including cosine similarity and k-means clustering, to analyze spatial data and user preferences. The system was designed to enhance town recommendations across Connecticut by identifying feature similarities between localities, enabling users to discover towns that align with their socioeconomic and lifestyle preferences. This project was part of a broader initiative to model socioeconomic trends and improve decision-making for policymakers and residents.
 </p></div><br>
-Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```PCA```
+Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```APIs```
 <br><br>
 
+#### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0;">
     <img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </p>
-</div>
-<br>
-#### [Interactive Global Trade Insights Dashboard in Power BI](http://www.realclearpolitics.com)<br>
-```Power BI``` ```SQL``` ```Dashboarding```<br>
-Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions.
+  </p></div><br>
+  Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn```
+  <br><br>
+
+#### [U.S. State Exports Dashboard in Power BI](http://github.com/)<br>
+<div style="overflow: auto;">
+  <p style="margin: 0;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1hrMXDRmN7XRuWPKKlikHw.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
+    Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions.
+  </p></div><br>
+  Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```dynamic SQL```
 <br><br>
-<img src="https://media.licdn.com/dms/image/D4D12AQFT8r_SJAEU9A/article-cover_image-shrink_600_2000/0/1674317643138?e=2147483647&v=beta&t=Ak3YiO_4YuLRid3W90LWE-bghDGzm430vqMwhiilqAE" width=300>
 
-<br><br>
-
-#### [Forecasting for the Litchfield Road Race Using Predictive Modeling](http://www.google.com/)<br>
-Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data.
-
-<img src="https://www.worldclimateservice.com/wp-content/uploads/2020/08/CRPSS_Skill.png" width=300><br>
-Skills: ```Python``` ```scikit-learn``` ```SQLite```
-
+  #### [Forecasting Race Performance in LHRR 2025 Using XGBoost](http://github.com/)<br>
+<div style="overflow: auto;">
+  <p style="margin: 0;">
+    <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
+    Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data.
+  </p></div><br>
+  Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```sports analytics```
 <br><br>
 
 Gaussian Mixture Model
