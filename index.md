@@ -13,7 +13,7 @@ Developed a geospatial locality recommendation system leveraging advanced machin
 Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```APIs```
 <br><br>
 
-#### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](http://github.com/)<br>
+#### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
 <div style="overflow: auto;">
   <p style="margin: 0; text-align: justify;">
     <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
