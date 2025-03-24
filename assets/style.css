@@ -243,10 +243,10 @@ p.view {
 }
 
 p.personal-flavor-text {
-  font-size: 12.5px;
-  line-height: 1.35;
+  font-size: 14px;
+  line-height: 1.5;
   color: #3C3C3C;
-  text-align: justify;
+  text-align: left;
   padding-top: 20px;
   padding-left: 30px;
   padding-right: 30px;
