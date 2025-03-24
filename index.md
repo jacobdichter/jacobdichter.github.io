@@ -4,7 +4,7 @@ title: Jacob Dichter
 ---
 # Projects
 
-#### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
+#### [Modelizing Socioeconomic Ascent in Connecticut Census Tracts](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0;">
     <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" alt="CT MAUP Visualization" width=300 style="float: right; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
