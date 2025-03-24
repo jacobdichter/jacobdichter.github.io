@@ -27,7 +27,7 @@ Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random 
   </p>
 </div><br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
-<br><br><br>
+<div class="content-line"></div>
 
 #### [U.S. State Exports Dashboard in Power BI](https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
@@ -53,7 +53,7 @@ Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic
   </p>
 </div><br>
 Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics```
-<br><br><br>
+<div class="content-line"></div>
 
 #### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](https://jacobdichter.github.io/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
@@ -62,21 +62,11 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
        width="250"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  I developed an interactive neural network navigation menu using HTML, CSS, and JavaScript, focusing on real-time user interaction. Leveraging event handling and DOM manipulation, I implemented dynamic updates to the menu based on user inputs, enhancing responsiveness and usability. The solution was optimized for performance, ensuring smooth transitions and minimal latency during user interactions.
   </p>
 </div><br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
-<br><br><br>
-
-#### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](https://jacobdichter.github.io/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html)<br>
-<div style="overflow: auto;">
-  <p style="margin: 0; text-align: justify;">
-    <img src="{{ '/assets/red_network.png' | absolute_url }}" alt="Placeholder Image" width=250 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    I developed an interactive neural network navigation menu using HTML, CSS, and JavaScript, focusing on real-time user interaction. Leveraging event handling and DOM manipulation, I implemented dynamic updates to the menu based on user inputs, enhancing responsiveness and usability. The solution was optimized for performance, ensuring smooth transitions and minimal latency during user interactions.
-  </p></div>
-Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipulation```
-<br><br><br>
-
+<div class="content-line"></div>
 
 Gaussian Mixture Model
 $$
