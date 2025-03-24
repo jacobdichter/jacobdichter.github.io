@@ -17,6 +17,18 @@ title: Jacob Dichter
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
 <br><br>
 
+#### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
+<div style="display: flex; align-items: center; gap: 25px;">
+   <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" 
+       alt="PCA" 
+       width="250"
+       style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+   <p style="margin: 0; text-align: justify;">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  </p>
+</div><br>
+Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
+<br><br>
 
 
 #### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
