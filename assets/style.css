@@ -120,8 +120,8 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center; /* Space between image and links */
-    padding-top: 10px;
-    padding-bottom: 20px;
+    padding-top: 12.5px;
+    padding-bottom: 12.5px;
     background-color: #f4f4f4;
 }
 
@@ -219,9 +219,9 @@ p {
 p.site-title {
   color: #4C4C4C;
   font-size: 1.4rem;
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 0px;
-  margin-bottom: 4px;
+  margin-bottom: 5px;
   padding-top: 15px;
 }
 
@@ -238,14 +238,14 @@ p.view {
 .subtitle {
   color: #4C4C4C;
   font-weight: 700;
-  line-weight: 1.2;
+  line-weight: 1.1;
   margin-top: 0px;
   margin-bottom: 20px;
 }
 
 p.personal-flavor-text {
   font-size: 13.5px;
-  line-height: 1.4;
+  line-height: 1.45;
   color: #3C3C3C;
   text-align: justify;
   padding-left: 45px;
