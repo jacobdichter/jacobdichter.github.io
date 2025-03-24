@@ -123,9 +123,9 @@ body, html {
 .content-line {
   width: 100%;         /* The bar will span the full width of its container */
   height: 3px;        /* Set the height of the bar */
-  background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
+  background-color: #F5F5F5;  /* Set the color of the bar (e.g., blue) */
   margin-top: 30px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
   
 
