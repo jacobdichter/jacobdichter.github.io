@@ -7,7 +7,7 @@ title: Jacob Dichter
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0;">
-    <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" alt="CT MAUP Visualization" width=300 style="float: left; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
+    <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" alt="CT MAUP Visualization" width=300 style="float: right; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
 Developed a geospatial locality recommendation system leveraging advanced machine learning techniques, including cosine similarity and k-means clustering, to analyze spatial data and user preferences. The system was designed to enhance town recommendations across Connecticut by identifying feature similarities between localities, enabling users to discover towns that align with their socioeconomic and lifestyle preferences. This project was part of a broader initiative to model socioeconomic trends and improve decision-making for policymakers and residents.
 </p></div><br>
 Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```APIs```
