@@ -26,16 +26,16 @@ Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random 
 <div style="overflow: auto;">
   <p style="margin: 0;">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*1hrMXDRmN7XRuWPKKlikHw.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
-    Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions.
+    Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions. Populated SQL Server database with 2.1M-row master table across 100 tables with dynamic SQL queries.
   </p></div><br>
   Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```dynamic SQL```
 <br><br>
 
-  #### [Forecasting Race Performance in LHRR 2025 Using XGBoost](http://github.com/)<br>
+#### [Forecasting Race Performance in LHRR 2025 Using XGBoost](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0;">
     <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 0; max-width: 100%; height: auto;">
-    Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data.
+    Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data. The dataset included participants' race times, placements, and weather conditions such as temperature, humidity, and wind speed. Through data preprocessing, I applied feature selection and scaled the data to improve model accuracy, resulting in a 15% improvement in prediction precision. The model not only accurately forecasted race outcomes but also provided valuable insights into how specific weather variables influenced runner performance, with temperature showing the most significant impact on race times.
   </p></div><br>
   Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```sports analytics```
 <br><br>
