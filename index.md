@@ -4,7 +4,7 @@ title: Jacob Dichter
 ---
 <div class="title-card">
   
-**I explore the patterns that shape economies, societies, and industries—how data reveals underlying structures and hidden relationships.**  
+<b>I explore the patterns that shape economies, societies, and industries—how data reveals underlying structures and hidden relationships.</b>
 
 With experience in programming and statistical learning, I have worked with international commerce, economic sector analysis, commodities, and credit default data to analyze market trends and systemic dynamics.  
 
