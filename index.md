@@ -2,11 +2,6 @@
 layout: default
 title: Jacob Dichter
 ---
-<div class="title-card">
-  
-<b>I am interested in the patterns that shape economies, societies, and industries — how data reveals underlying structures and hidden relationships.</b>
-</div>
-
 # Projects
 
 #### [Personalized Locality Recommendation Using Cosine Similarity](http://github.com/)<br>
