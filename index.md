@@ -14,7 +14,7 @@ title: Jacob Dichter
   </p>
 </div><br>
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
-<br><br><br>
+<div class="content-line"></div>
 
 #### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
