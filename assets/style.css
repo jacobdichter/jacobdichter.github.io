@@ -116,7 +116,7 @@ body, html {
 .sidebarline {
   width: 85%;         /* The bar will span the full width of its container */
   height: 4px;        /* Set the height of the bar */
-  background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
+  background-color: #E6D6CC;  /* Set the color of the bar (e.g., blue) */
   margin-bottom: 0px;
   margin: 0 auto 7px; /* Center horizontally */
 
