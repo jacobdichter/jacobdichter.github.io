@@ -121,10 +121,11 @@ body, html {
 
 /* Content Div horizontal separator */
 .content-line {
-  width: 80%;         /* The bar will span the full width of its container */
-  height: 4px;        /* Set the height of the bar */
+  width: 100%;         /* The bar will span the full width of its container */
+  height: 3px;        /* Set the height of the bar */
   background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
-  margin-bottom: 0px;
+  margin-top: 10px;
+  margin-bottom: 20px;
   margin: 0 auto 7px; /* Center horizontally */
 }
   
