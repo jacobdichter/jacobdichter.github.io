@@ -219,16 +219,16 @@ p {
 p.site-title {
   color: #4C4C4C;
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 0px;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   padding-top: 15px;
 }
 
 .subtitle {
   color: #4C4C4C;
   font-size: 1.1em;
-  font-weight: 700;
+  font-weight: 600;
   line-weight: 0.9;
   margin-top: 0px;
   margin-bottom: 20px;
