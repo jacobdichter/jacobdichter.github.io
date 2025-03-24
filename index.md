@@ -2,8 +2,7 @@
 layout: default
 title: Jacob Dichter
 ---
-# Projects
-
+# Projects<br>
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
    <a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html">
@@ -29,17 +28,7 @@ Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random 
   </p>
 </div><br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
-<br><br>
-
-
-#### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
-<div style="overflow: auto;">
-  <p style="margin: 0; text-align: justify;">
-    <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" alt="Placeholder Image" width=250 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  </p></div><br>
-  Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn```
-  <br><br>
+<br><br><br>
 
 #### [U.S. State Exports Dashboard in Power BI](https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html)<br>
 <div style="overflow: auto;">
