@@ -26,7 +26,7 @@ body, html {
 }
 
 .sidebar {
-  width: 325px;
+  width: 350px;
   padding: 20px;
 /*   background-color: #f4f4f4; */
   background-color: purple;
@@ -62,7 +62,7 @@ body, html {
 }
 
 .sidebar {
-  width: 300px; /* Fixed width for sidebar */
+  width: 330px; /* Fixed width for sidebar */
   padding: 0px;
   background-color: #f4f4f4;
   position: fixed; /* Fix the sidebar */
@@ -75,7 +75,7 @@ body, html {
 }
 
 .content {
-  margin-left: 300px; /* Space for the fixed sidebar */
+  margin-left: 330px; /* Space for the fixed sidebar */
   padding-left: 75px;
   padding-right: 237.5px;
   padding-top: 15px;
@@ -120,8 +120,8 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center; /* Space between image and links */
-    padding-top: 12.5px;
-    padding-bottom: 12.5px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
     background-color: #f4f4f4;
 }
 
@@ -237,7 +237,7 @@ p.view {
 
 .subtitle {
   color: #4C4C4C;
-  font-weight: 700;
+  font-weight: 600;
   line-weight: 1.1;
   margin-top: 0px;
   margin-bottom: 20px;
@@ -247,7 +247,7 @@ p.personal-flavor-text {
   font-size: 13.5px;
   line-height: 1.45;
   color: #3C3C3C;
-  text-align: justify;
+  text-align: left;
   padding-left: 45px;
   padding-right: 45px;
   margin-bottom: 30px;
