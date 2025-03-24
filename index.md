@@ -6,8 +6,8 @@ title: Jacob Dichter
 
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](http://github.com/)<br>
 <div style="overflow: auto;">
-  <p style="margin: 0;">
-    <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" alt="CT MAUP Visualization" width=300 style="float: right; margin: 0 15px 15px 15px; max-width: 100%; height: auto;">
+  <p style="margin: 0; text-align: justify;">
+    <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" alt="CT MAUP Visualization" width=300 style="float: right; margin: 0 15px 15px 15px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 Developed a geospatial locality recommendation system leveraging advanced machine learning techniques, including cosine similarity and k-means clustering, to analyze spatial data and user preferences. The system was designed to enhance town recommendations across Connecticut by identifying feature similarities between localities, enabling users to discover towns that align with their socioeconomic and lifestyle preferences. This project was part of a broader initiative to model socioeconomic trends and improve decision-making for policymakers and residents.
 </p></div><br>
 Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```APIs```
