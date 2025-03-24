@@ -40,7 +40,7 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
   </p>
 </div><br>
 Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic SQL```
-<br><br><br>
+<div class="content-line"></div>
 
 #### [Forecasting Race Performance in LHRR 2025 Using XGBoost](http://github.com/)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
