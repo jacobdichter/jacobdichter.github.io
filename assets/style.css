@@ -120,7 +120,8 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center; /* Space between image and links */
-    padding: 0;
+    padding-top: 25px;
+    padding-bottom: 30px;
     background-color: #f4f4f4;
 }
 
