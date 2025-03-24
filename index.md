@@ -22,7 +22,7 @@ Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random 
   Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn```
   <br><br>
 
-#### [U.S. State Exports Dashboard in Power BI](http://github.com/)<br>
+#### [U.S. State Exports Dashboard in Power BI](https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html)<br>
 <div style="overflow: auto;">
   <p style="margin: 0; text-align: justify;">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*1hrMXDRmN7XRuWPKKlikHw.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
