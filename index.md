@@ -5,7 +5,7 @@ title: Jacob Dichter
 # Projects<br>
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
-   <a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html">
+   <a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html" style="display: inline-block;">
       <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
        alt="CT MAUP Visualization" 
        width="250"
