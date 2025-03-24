@@ -184,6 +184,7 @@ h4 a:hover,
 h5 a:hover,
 h6 a:hover {
   font-weight: 600;
+  text-decoration: none;
 }
 
 ul {
