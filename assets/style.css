@@ -52,7 +52,7 @@ body, html {
   height: 100vh; /* Full viewport height */
   overflow-y: scroll; /* Make content section scrollable */
   scrollbar-width: none;
-/*   background-color: blue; */
+  background-color: #FCFCFC;
 /*   flex-grow: 1; */
 } */
 
