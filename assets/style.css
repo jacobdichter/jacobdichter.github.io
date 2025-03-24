@@ -124,7 +124,7 @@ body, html {
   width: 100%;         /* The bar will span the full width of its container */
   height: 3px;        /* Set the height of the bar */
   background-color: #E4E4E4;  /* Set the color of the bar (e.g., blue) */
-  margin-top: 30px;
+  margin-top: 25px;
   margin-bottom: 35px;
 }
   
