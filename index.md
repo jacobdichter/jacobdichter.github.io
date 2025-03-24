@@ -40,6 +40,17 @@ Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random 
   Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```sports analytics```
 <br><br>
 
+#### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](http://github.com/)<br>
+<div style="overflow: auto;">
+  <p style="margin: 0; text-align: justify;">
+    <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data. The dataset included participants' race times, placements, and weather conditions such as temperature, humidity, and wind speed.
+  </p></div><br>
+  Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```sports analytics```
+<br><br>
+
+{{ '/assets/network_drawing_red.svg' | absolute_url }}
+
 Gaussian Mixture Model
 $$
 p(x) = \sum_{k=1}^K \pi_k \cdot \mathcal{N}(x \mid \mu_k, \Sigma_k)
