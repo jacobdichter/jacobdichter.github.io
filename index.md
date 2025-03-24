@@ -7,7 +7,7 @@ title: Jacob Dichter
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0; text-align: justify;">
-    <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" alt="CT MAUP Visualization" width=300 style="float: right; margin: 0 15px 15px 15px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" alt="CT MAUP Visualization" width=300 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
 Developed a geospatial locality recommendation system leveraging advanced machine learning techniques, including cosine similarity and k-means clustering, to analyze spatial data and user preferences. The system was designed to enhance town recommendations across Connecticut by identifying feature similarities between localities, enabling users to discover towns that align with their socioeconomic and lifestyle preferences. This project was part of a broader initiative to model socioeconomic trends and improve decision-making for policymakers and residents.
 </p></div><br>
 Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random forest``` ```APIs```
@@ -16,7 +16,7 @@ Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random 
 #### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0;">
-    <img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 15px; max-width: 100%; height: auto;">
+    <img src="https://numxl.com/wp-content/uploads/principal-component-analysis-pca-featured.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   </p></div><br>
   Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn```
@@ -25,7 +25,7 @@ Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random 
 #### [U.S. State Exports Dashboard in Power BI](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1hrMXDRmN7XRuWPKKlikHw.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 15px; max-width: 100%; height: auto;">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1hrMXDRmN7XRuWPKKlikHw.png" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions. Populated SQL Server database with 2.1M-row master table across 100 tables with dynamic SQL queries.
   </p></div><br>
   Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```dynamic SQL```
@@ -34,7 +34,7 @@ Skills: ```Python``` ```k-means clustering``` ```cosine similarity``` ```random 
 #### [Forecasting Race Performance in LHRR 2025 Using XGBoost](http://github.com/)<br>
 <div style="overflow: auto;">
   <p style="margin: 0;">
-    <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 15px; max-width: 100%; height: auto;">
+    <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" alt="Placeholder Image" width=300 style="float: right; margin: 0 15px 15px 30px; max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data. The dataset included participants' race times, placements, and weather conditions such as temperature, humidity, and wind speed. Through data preprocessing, I applied feature selection and scaled the data to improve model accuracy, resulting in a 15% improvement in prediction precision. The model not only accurately forecasted race outcomes but also provided valuable insights into how specific weather variables influenced runner performance, with temperature showing the most significant impact on race times.
   </p></div><br>
   Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```sports analytics```
