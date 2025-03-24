@@ -127,12 +127,12 @@ body, html {
 
 /* Image Styling */
 .image-container img {
-    height: 105px; /* Adjust size as needed */
+    height: 110px; /* Adjust size as needed */
     align-items: right;
 }
 
 #nav-image {
-    height: 105px; /* Adjust size as needed
+    height: 110px; /* Adjust size as needed
     margin-right: 0px; /* Space between image and links */
     transform: rotate(-90deg); /* Rotates image 90 degrees */
 }
@@ -154,7 +154,7 @@ body, html {
 
 .nav-links a {
     text-decoration: none;
-    color: #4C4C4C;
+    color: #808080;
     font-size: 18px;
 }
 
@@ -218,11 +218,20 @@ p {
 
 p.site-title {
   color: #4C4C4C;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 700;
   margin-top: 0px;
   margin-bottom: 5px;
   padding-top: 15px;
+}
+
+.subtitle {
+  color: #4C4C4C;
+  font-size: 1.3em;
+  font-weight: 700;
+  line-weight: 1.1;
+  margin-top: 0px;
+  margin-bottom: 20px;
 }
 
 p.view {
@@ -233,15 +242,6 @@ p.view {
   font-family: 'Roboto', sans-serif;
   white-space: pre;
   display: none;
-}
-
-.subtitle {
-  color: #4C4C4C;
-  font-size: 1.1em;
-  font-weight: 700;
-  line-weight: 1.1;
-  margin-top: 0px;
-  margin-bottom: 20px;
 }
 
 p.personal-flavor-text {
