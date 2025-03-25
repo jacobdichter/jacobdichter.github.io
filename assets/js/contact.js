@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(response => response.json())
         .then(data => {
             if (data.ok) {
-                status.textContent = "Message sent successfully!";
+                status.textContent = "Your message was sent successfully.";
                 status.style.color = "#19B654";
                 status.style.fontWeight = "600";
                 status.style.display = "block";
