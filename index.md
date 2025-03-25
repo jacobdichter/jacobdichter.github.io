@@ -65,7 +65,7 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
   I developed an interactive neural network navigation menu using HTML, CSS, and JavaScript, focusing on real-time user interaction. Leveraging event handling and DOM manipulation, I implemented dynamic updates to the menu based on user inputs, enhancing responsiveness and usability. The solution was optimized for performance, ensuring smooth transitions and minimal latency during user interactions.
   </p>
 </div><br>
-Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
+Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipulation```
 <div class="content-line"></div>
 
 Gaussian Mixture Model
