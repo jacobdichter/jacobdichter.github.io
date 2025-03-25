@@ -10,7 +10,7 @@ title: Jacob Dichter
        width="250"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">   
    <p style="margin: 0; text-align: justify;">
-    Developed a geospatial locality recommendation system leveraging advanced machine learning techniques, including cosine similarity and k-means clustering, to analyze spatial data and user preferences. The system was designed to enhance town recommendations across Connecticut by identifying feature similarities between localities, enabling users to discover towns that align with their socioeconomic and lifestyle preferences.
+    Developed a machine learning framework to predict socioeconomic development across Connecticut’s census tracts, comparing statistical methods like OLS, random forest, and gradient boosting. The project involved preprocessing socioeconomic indicators, training models, and evaluating their performance to identify the most accurate approach. By analyzing these predictive techniques, the research supports data-driven decision-making in urban planning, investment, and resource allocation for Connecticut’s towns and regions.
   </p>
 </div><br>
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
