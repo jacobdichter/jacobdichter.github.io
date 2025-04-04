@@ -77,21 +77,6 @@ $$
 p(x) = \sum_{k=1}^K \pi_k \cdot \mathcal{N}(x \mid \mu_k, \Sigma_k)
 $$<br>
 
-### Articles
-
-[Connecting SQL Server to a Power BI Visualization](http://www.google.com/)
-
-[How Adapative Momentum Optimizes Learning Rate for Neural Networks](http://www.google.com/)
-
-[Using SQL to Identify Customer Churn on C1A Dataset](http://github.com/)
-
-[Using SQL to Analyze Specific Market Subsector](http://github.com/)
-
-##### Techniques
-[Dynamic Pricing Optimization in Python](http://www.google.com/)
-
-[Daniel and Jacob: Conversation Analysis](https://jacobdichter.github.io/assets/notebooks/kaggleNB_d-j-text-analysis_copy.html)
-
 _________
 
 A few suggestions: 
