@@ -216,9 +216,10 @@ p .date {
 }
 
 .short-desc {
+  font-family: Georgia, serif;
   color: #707070;
   margin-top: 2px;
-  margin-left: 5px;
+  font-size: 0.8em;
 }
 
 small {
