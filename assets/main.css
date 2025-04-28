@@ -223,7 +223,8 @@ p .date {
 }
 
 .articles li {
-  padding: 0.1em 0;
+  padding: 0.2em 0;
+}
 
 .articles li a {
   font-size: 1em;
