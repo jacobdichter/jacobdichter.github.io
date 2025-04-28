@@ -4,6 +4,7 @@ title: "Using Principal Component Analysis to Produce a Composite Variable for S
 date: 2025-2-19 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
+description: "As part of my M.S. thesis, I used PCA to compress 3 variables into a single variable for use as my predictor variable. I discuss tradeoffs of PCA in the context of my specific problem case."
 ---
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
