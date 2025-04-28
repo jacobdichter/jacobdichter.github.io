@@ -216,7 +216,9 @@ p .date {
 }
 
 .short-desc {
-  color: #FFFFFF;
+  color: #666666;
+  margin-left: 5px;
+  
 
 }
 
