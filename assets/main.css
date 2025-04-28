@@ -222,6 +222,12 @@ p .date {
   font-size: 0.85em;
 }
 
+.articles li {
+  padding: 0.1em 0;
+
+.articles li a {
+  font-size: 1em;
+
 small {
   display: none;
 }
