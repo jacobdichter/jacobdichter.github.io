@@ -4,6 +4,7 @@ title: "Modeling Socioeconomic Ascent in Connecticut Census Tracts"
 date: 2025-03-13 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
+description: "Using public Census data, I applied data mining algorithms to model the socioeconomic correlations of economic growth on the 884 official Census tracts of Connecticut to generate 5-year forecasts for the year 2028."
 ---
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
