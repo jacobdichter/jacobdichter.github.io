@@ -215,6 +215,11 @@ p .date {
   font-size: 1em;
 }
 
+.short-desc {
+  color: #FFFFFF;
+
+}
+
 small {
   display: none;
 }
