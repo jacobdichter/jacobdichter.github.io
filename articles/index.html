@@ -9,7 +9,7 @@ title: Articles
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a><span class="date">/  {{ post.date | date: "%B %-d, %Y" }}</span>
-      <span class="short-desc"><p>{{ post.description }}</p></span>
+      <div class="short-desc">{{ post.description }}</div>
     </li>
   {% endfor %}
 </ul>
