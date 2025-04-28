@@ -216,10 +216,9 @@ p .date {
 }
 
 .short-desc {
-  color: #666666;
+  color: #707070;
+  margin-top: 2px;
   margin-left: 5px;
-  
-
 }
 
 small {
