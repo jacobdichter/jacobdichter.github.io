@@ -242,12 +242,12 @@ small {
 .home-buttontile {
   display: inline-block;
   color: #976D52;
-  font-weight: 700;
-  font-size: 1em;
+  font-weight: 600;
+  font-size: 1.1em;
   background-color: #F5E3D8;
   border-radius: 6px;
-  padding-left: 7px;
-  padding-right: 7px;
+  padding-left: 8px;
+  padding-right: 8px;
   padding-top: 1px;
   padding-bottom: 1px;
   margin-top: 5px;
