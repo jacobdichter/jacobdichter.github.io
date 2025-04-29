@@ -240,6 +240,7 @@ small {
 }
 
 .home-buttontile {
+  display: inline-block;
   color: #976D52;
   font-weight: 600;
   background-color: #F5E3D8;
