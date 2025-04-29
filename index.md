@@ -74,8 +74,29 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
 <div class="home-buttontile">Recent Articles</div>
 
 
-#### TEST CONTENT - IGNORE
-
+<span class="articles">
+<ul>
+  
+    <li>
+      <a href="/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html">Creating the Neural Network Menu</a><span class="date">/  March 24, 2025</span>
+      <div class="short-desc">Reviewing how I created the interactive navigation menu you see on the left sidebar of this site. I learned about DOM, even listeners, and basic CSS/JavaScript tradeoffs.</div>
+    </li>
+  
+    <li>
+      <a href="/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html">Modeling Socioeconomic Ascent in Connecticut Census Tracts</a><span class="date">/  March 13, 2025</span>
+      <div class="short-desc">Using public Census data, I applied data mining algorithms to model the socioeconomic correlations of economic growth on the 884 official Census tracts of Connecticut to generate 5-year forecasts for the year 2028.</div>
+    </li>
+  
+    <li>
+      <a href="/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html">Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis</a><span class="date">/  February 19, 2025</span>
+      <div class="short-desc">As part of my M.S. thesis, I used PCA to compress 3 variables into a single variable for use as my predictor variable. I discuss tradeoffs of PCA in the context of my specific problem case.</div>
+    </li>
+  
+    <li>
+      <a href="/blog/2025/01/08/simple-notifier-amazon-book-wishlist.html">A Simple Notification System for Amazon Book Wishlist</a><span class="date">/  January 8, 2025</span>
+      <div class="short-desc"></div>
+    </li>
+    
 Gaussian Mixture Model
 $$
 p(x) = \sum_{k=1}^K \pi_k \cdot \mathcal{N}(x \mid \mu_k, \Sigma_k)
