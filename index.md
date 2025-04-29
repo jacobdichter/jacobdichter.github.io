@@ -96,7 +96,8 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
       <a href="/blog/2025/01/08/simple-notifier-amazon-book-wishlist.html">A Simple Notification System for Amazon Book Wishlist</a><span class="date">/  January 8, 2025</span>
       <div class="short-desc"></div>
     </li>
-    
+</span>
+
 Gaussian Mixture Model
 $$
 p(x) = \sum_{k=1}^K \pi_k \cdot \mathcal{N}(x \mid \mu_k, \Sigma_k)
