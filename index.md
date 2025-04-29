@@ -4,10 +4,6 @@ title: Jacob Dichter
 ---
 <div class="home-buttontile">Featured Projects</div>
 
-<div class="project-card">
-  <div class="frost-layer"></div>
-  <div class="project-content">
-    
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
       <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
@@ -19,8 +15,7 @@ title: Jacob Dichter
   </p>
 </div><br>
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
-          </div>
-</div>
+
 <div class="content-line"></div>
 
 #### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
@@ -62,9 +57,6 @@ Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic
 Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics```
 <div class="content-line"></div>
 
-<div class="project-card">
-  <div class="frost-layer"></div>
-  <div class="project-content">
 #### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](https://jacobdichter.github.io/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="{{ '/assets/red_network.png' | absolute_url }}" 
@@ -76,8 +68,7 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
   </p>
 </div><br>
 Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipulation```
-      </div>
-</div>
+
 <div class="content-line"></div>
 
 <div class="home-buttontile">Recent Articles</div>
