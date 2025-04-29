@@ -7,6 +7,7 @@ title: Jacob Dichter
 <div class="project-card">
   <div class="frost-layer"></div>
   <div class="project-content">
+    
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
       <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
