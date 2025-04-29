@@ -248,6 +248,8 @@ small {
   border-radius: 6px;
   padding-left: 7px;
   padding-right: 7px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   margin-top: 5px;
   margin-bottom: 10px;
 }
