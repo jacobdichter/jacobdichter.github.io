@@ -2,7 +2,7 @@
 layout: default
 title: Jacob Dichter
 ---
-<div class="home-buttontile">Featured Articles</div>
+<div class="home-buttontile">Featured Projects</div>
 
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
@@ -71,6 +71,9 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
 
 ----
 
+<div class="home-buttontile">Recent Articles</div>
+
+
 #### TEST CONTENT - IGNORE
 
 Gaussian Mixture Model
@@ -110,6 +113,8 @@ data = pd.DataFrame({'Brand': ['Maruti', 'Hyundai', 'Tata',
                      'City': ['Gurgaon', 'Delhi', 'Mumbai', 'Delhi', 'Mumbai'],
                      'Mileage': [28, 27, 25, 32, 26]})
 ```
+
+<div class="home-buttontile">About Me</div>
 
 LaTeX testing:
 
