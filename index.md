@@ -132,8 +132,11 @@ data = pd.DataFrame({'Brand': ['Maruti', 'Hyundai', 'Tata',
                      'City': ['Gurgaon', 'Delhi', 'Mumbai', 'Delhi', 'Mumbai'],
                      'Mileage': [28, 27, 25, 32, 26]})
 ```
+<div class="content-line"></div>
 
 <div class="home-buttontile">About Me</div>
+Data-driven analyst and aspiring data scientist with expertise in Python, SQL, and machine learning, dedicated to transforming raw data into actionable insights. Leveraging a strong academic background in computer science and statistics, I build predictive models, dynamic dashboards, and scalable data pipelines to solve complex problems. Passionate about applying AI and advanced analytics to uncover patterns, optimize decision-making, and drive business value. Let’s connect and explore how data can power innovation.
+
 
 LaTeX testing:
 
