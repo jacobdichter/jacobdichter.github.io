@@ -251,3 +251,40 @@ small {
   margin-top: 5px;
   margin-bottom: 10px;
 }
+
+/* FROSTY WINDOW */
+
+.project-card {
+  position: relative;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  background: #f8f9fa;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.frost-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  z-index: 1;
+}
+
+.project-content {
+  position: relative;
+  z-index: 2;
+}
+
+.project-card:hover .frost-layer {
+  opacity: 0;
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+}
