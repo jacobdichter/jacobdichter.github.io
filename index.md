@@ -69,8 +69,6 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
 Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipulation```
 <div class="content-line"></div>
 
-----
-
 <div class="home-buttontile">Recent Articles</div>
 
 
