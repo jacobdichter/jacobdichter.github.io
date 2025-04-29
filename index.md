@@ -8,7 +8,7 @@ title: Jacob Dichter
 <div style="display: flex; align-items: center; gap: 25px;">
       <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
        alt="CT MAUP Visualization" 
-       width="250"
+       width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">   
    <p style="margin: 0; text-align: justify;">
     Developed a machine learning framework to predict socioeconomic development across Connecticut’s census tracts, comparing statistical methods like OLS, random forest, and gradient boosting. The project involved preprocessing socioeconomic indicators, training models, and evaluating their performance to identify the most accurate approach. By analyzing these predictive techniques, the research supports data-driven decision-making in urban planning, investment, and resource allocation for Connecticut’s towns and regions.
@@ -21,7 +21,7 @@ Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random 
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" 
        alt="PCA" 
-       width="250"
+       width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
 This project analyzes Socioeconomic Status (SES) change from 2018 to 2023 using Principal Component Analysis (PCA) to create a robust composite index that mitigates collinearity and endogeneity concerns. Rather than arbitrarily weighting socioeconomic indicators, we standardize the data and apply PCA to extract the first principal component (PC1), which captures the most variance and serves as our SES change metric. By leveraging eigenvalue decomposition and examining variable loadings, we ensure that PC1 provides an empirically grounded measure of SES shifts. Validation such as correlation and variance analysis helps strengthens the reliability of our approach and aligns with best practices in quantitative social science.
@@ -34,7 +34,7 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1hrMXDRmN7XRuWPKKlikHw.png" 
        alt="PCA" 
-       width="250"
+       width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
     Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions. Populated SQL Server database with 2.1M-row master table across 100 tables with dynamic SQL queries.
@@ -47,7 +47,7 @@ Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" 
        alt="PCA" 
-       width="250"
+       width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
     Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data. The dataset included participants' race times, placements, and weather conditions such as temperature, humidity, and wind speed.
@@ -60,7 +60,7 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="{{ '/assets/red_network.png' | absolute_url }}" 
        alt="PCA" 
-       width="250"
+       width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
   I developed an interactive neural network navigation menu using HTML, CSS, and JavaScript, focusing on real-time user interaction. Leveraging event handling and DOM manipulation, I implemented dynamic updates to the menu based on user inputs, enhancing responsiveness and usability. The solution was optimized for performance, ensuring smooth transitions and minimal latency during user interactions.
