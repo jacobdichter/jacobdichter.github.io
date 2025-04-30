@@ -67,3 +67,62 @@ The below chart shows the number of messages sent by Daniel and me over the deca
 <iframe src="/assets/dj_chart.html" width="700" height="500" frameborder="0"></iframe>
 </div>
 <br>
+
+Notes from old Home Page:
+
+Gaussian Mixture Model
+$$
+p(x) = \sum_{k=1}^K \pi_k \cdot \mathcal{N}(x \mid \mu_k, \Sigma_k)
+$$<br>
+
+_________
+
+A few suggestions: 
+- Simple links as above. Can be short write-ups *or* just links to Kaggle notebooks or hosted Jupyter notebooks. I would suggest something like Chris Khan's [hosted notebooks](https://chriskhanhtran.github.io/minimal-portfolio/projects/ames-house-price.html).
+
+
+A few more Markdown notes:
+
+Astericks can be *used* (1 *) for **emphasis** (2 **) and other formatting ~~choices~~ (2 ~~)
+
+Unordered lists can be indicated with * or - or +
+
+* I think
+- Minus
++ Plus
+
+We can also use `inline emphasis` with single backticks.
+
+Code blocks can be inserted with triple ``` and optionally the name of the language right after opening:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+
+data = pd.DataFrame({'Brand': ['Maruti', 'Hyundai', 'Tata',
+                    'Mahindra', 'Maruti'],
+                     'Year': [2012, 2014, 2011, 2015, 2012],
+                     'Kms Driven': [50000, 30000, 60000, 25000, 10000],
+                     'City': ['Gurgaon', 'Delhi', 'Mumbai', 'Delhi', 'Mumbai'],
+                     'Mileage': [28, 27, 25, 32, 26]})
+```
+<div class="content-line"></div>
+
+LaTeX testing:
+
+Block math formatting:
+$$
+E = mc^2
+$$<br>
+
+Linear regression
+$$
+y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \dots + \beta_p x_p + \epsilon
+$$<br>
+
+Normal distribution
+$$
+f(x \mid \mu, \sigma^2) = \frac{1}{\sqrt{2 \pi \sigma^2}} \exp\left(-\frac{(x - \mu)^2}{2 \sigma^2}\right)
+$$<br>
+
