@@ -6,7 +6,23 @@ title: Resume
 
 <h1>Resume</h1>
 
-<iframe src="https://docs.google.com/viewer?url=https://jacobdichter.github.io/assets/JacobDichter_Resume_2025_3.pdf&embedded=true" width="600" height="800" style="border: none;"></iframe>
+<iframe id="pdf-iframe" src="https://docs.google.com/viewer?url=https://jacobdichter.github.io/assets/JacobDichter_Resume_2025_3.pdf&embedded=true" width="600" height="800" style="border: none;"></iframe>
 <br>
 <!-- <iframe src="/assets/JacobDichter_Resume_2025_3.pdf" width="90%" height="90%" style="border: none;"></iframe> -->
 
+<script>
+  const iframe = document.getElementById('pdf-iframe');
+
+  iframe.onload = () => {
+    console.log("Iframe loaded.");
+    iframe.dataset.loaded = "true"; // mark as loaded
+  };
+
+  // Retry loading once after 2 seconds if not loaded
+  setTimeout(() => {
+    if (!iframe.dataset.loaded) {
+      console.log("Iframe not loaded, retrying...");
+      iframe.src = iframe.src; // reload
+    }
+  }, 2000);
+</script>
