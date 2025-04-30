@@ -8,6 +8,13 @@ After several years as a research analyst in the nonprofit sector, I made a leap
 
 I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve. That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and modern data dashboards.
 
+- 📊 **Real-World Data:** Analyzed five years of real estate sales data across 169 towns in Connecticut to uncover regional economic trends.
+- 🌐 **Geospatial Intelligence:** Built interactive maps using Python and GeoJSON to visualize how local features influence housing markets.
+- 🧠 **Machine Learning Enthusiast:** Applied random forests and clustering techniques to solve real-world classification and recommendation problems.
+- 🧮 **Statistical Foundations:** Modeled risk and uncertainty using regression and probabilistic methods from my academic work in finance and political science.
+- 🛠️ **Tools I Love:** Python, pandas, scikit-learn, SQL Server, Plotly Dash, Jupyter, and lightweight web tools like Jekyll.
+- 💡 **Driven by Curiosity:** I’m fascinated by how data reflects deeper social and economic structures—and how we can model them to inform decisions.
+
 <div class="content-line"></div>
 <div class="home-buttontile">Featured Projects</div>
 
