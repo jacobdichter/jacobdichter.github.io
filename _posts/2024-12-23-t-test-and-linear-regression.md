@@ -4,6 +4,7 @@ title: "Generalizing Regression: t-tests and OLS"
 date: 2024-12-23 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
+description: "Exploring the idea that t-tests for comparing group means are mathematically equivalent to performing OLS regression with a binary predictor, highlighting the flexibility and power of regression analysis."
 ---
 
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
