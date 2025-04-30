@@ -15,7 +15,7 @@ I wanted to do more than interpret trends — I wanted to build the tools behind
 - 🛠️ **Tools I Love:** Python, pandas, scikit-learn, SQL Server, Plotly Dash, Jupyter, and lightweight web tools like Jekyll.
 - 💡 **Driven by Curiosity:** I’m fascinated by how data reflects deeper social and economic structures—and how we can model them to inform decisions.
 
-<div class="content-line"></div>
+<div class="content-line-section"></div>
 <div class="home-buttontile">Featured Projects</div>
 
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
@@ -83,7 +83,7 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
 </div><br>
 Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipulation```
 
-<div class="content-line"></div>
+<div class="content-line-section"></div>
 
 <div class="home-buttontile">Recent Articles</div>
 
@@ -121,3 +121,4 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
       <div class="short-desc"></div>
     </li>
 </ul>
+<br>
