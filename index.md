@@ -97,7 +97,6 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
       <div class="short-desc"></div>
     </li>
 </ul>
-</span>
 
 Gaussian Mixture Model
 $$
