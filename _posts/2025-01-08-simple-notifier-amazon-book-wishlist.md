@@ -4,6 +4,7 @@ title: "A Simple Notification System for Amazon Book Wishlist"
 date: 2025-01-08 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
+description: "A Python-based notification system that monitors changes in the price or availability of books on your Amazon wishlist. Users receive email alerts when key changes occur, helping them stay updated on their desired books."
 ---
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
