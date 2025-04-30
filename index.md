@@ -4,9 +4,10 @@ title: Jacob Dichter
 ---
 
 <div class="home-buttontile">About Me</div>
-After several years as a research analyst in the nonprofit sector, I made a leap into data science. My experience sourcing data, analyzing trends, and writing market reports sharpened my analytical mindset and fueled a curiosity about how data drives decisionmaking.
+After several years as a research analyst in the nonprofit sector, I made a leap into data science. I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve.
 
-I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve. That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and modern data dashboards.
+That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency. My experience sourcing data, analyzing trends, and writing market reports sharpened my analytical mindset and fueled a curiosity about how data drives decisionmaking. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and modern data dashboards.
+
 
 - 📊 **Real-World Data:** Analyzed five years of real estate sales data across 169 towns in Connecticut to uncover regional economic trends.
 - 🌐 **Geospatial Intelligence:** Built interactive maps using Python and GeoJSON to visualize how local features influence housing markets.
