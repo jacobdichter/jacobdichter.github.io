@@ -4,10 +4,9 @@ title: Jacob Dichter
 ---
 
 <div class="home-buttontile">About Me</div>
-After several years as a research analyst in the nonprofit sector, I made a leap into data science. I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve.
+After several years as a research analyst in the nonprofit sector, I made a leap into data science. I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve. That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency.
 
-That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency. My experience sourcing data, analyzing trends, and writing market reports sharpened my analytical mindset and fueled a curiosity about how data drives decisionmaking. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and modern data dashboards.
-
+My experience sourcing data, analyzing trends, and writing market reports sharpened my analytical mindset and fueled a curiosity about how data drives decisionmaking. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and Power BI. A quick overview of the skills and projects that have defined my journey:
 
 - 📊 **Real-World Data:** Analyzed five years of real estate sales data across 169 towns in Connecticut to uncover regional economic trends.
 - 🌐 **Geospatial Intelligence:** Built interactive maps using Python and GeoJSON to visualize how local features influence housing markets.
@@ -15,6 +14,8 @@ That desire drove me to pursue a Master's degree in computer science with a focu
 - 🧮 **Statistical Foundations:** Modeled risk and uncertainty using regression and probabilistic methods from my academic work in finance and political science.
 - 🛠️ **Tools I Love:** Python, pandas, scikit-learn, SQL Server, Plotly Dash, Jupyter, and lightweight web tools like Jekyll.
 - 💡 **Driven by Curiosity:** I’m fascinated by how data reflects deeper social and economic structures—and how we can model them to inform decisions.
+
+Explore the site to dive deeper into my work and the impact I’m making with data!
 
 <div class="content-line-section"></div>
 <div class="home-buttontile">Featured Projects</div>
