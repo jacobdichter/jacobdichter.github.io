@@ -83,8 +83,6 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
 
 <div class="home-buttontile">Recent Articles</div>
 
-
-<span class="articles">
 <ul>
     <li>
       <a href="/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html">Creating the Neural Network Menu</a><span class="date">/  March 24, 2025</span>
