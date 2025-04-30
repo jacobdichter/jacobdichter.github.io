@@ -91,7 +91,6 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
 
 <span class="articles">
 <ul>
-  
     <li>
       <a href="/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html">Creating the Neural Network Menu</a><span class="date">/  March 24, 2025</span>
       <div class="short-desc">Reviewing how I created the interactive navigation menu you see on the left sidebar of this site. I learned about DOM, even listeners, and basic CSS/JavaScript tradeoffs.</div>
@@ -109,17 +108,17 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
   
     <li>
       <a href="/blog/2025/01/08/simple-notifier-amazon-book-wishlist.html">A Simple Notification System for Amazon Book Wishlist</a><span class="date">/  January 8, 2025</span>
-      <div class="short-desc"></div>
+      <div class="short-desc">A Python-based notification system that monitors changes in the price or availability of books on your Amazon wishlist. Users receive email alerts when key changes occur, helping them stay updated on their desired books.</div>
     </li>
-
+  
     <li>
       <a href="/blog/2024/12/27/deploy-simple-ml-model-streamlit.html">Quick Deployment of a Simple Machine Learning Model with Streamlit</a><span class="date">/  December 27, 2024</span>
-      <div class="short-desc"></div>
+      <div class="short-desc">How to deploy a simple machine learning model using Streamlit, turning a trained model into an interactive web app.</div>
     </li>
   
     <li>
       <a href="/blog/2024/12/23/t-test-and-linear-regression.html">Generalizing Regression: t-tests and OLS</a><span class="date">/  December 23, 2024</span>
-      <div class="short-desc"></div>
+      <div class="short-desc">Exploring the idea that t-tests for comparing group means are mathematically equivalent to performing OLS regression with a binary predictor, highlighting the flexibility and power of regression analysis.</div>
     </li>
 </ul>
 <br>
