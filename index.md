@@ -96,6 +96,7 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
       <a href="/blog/2025/01/08/simple-notifier-amazon-book-wishlist.html">A Simple Notification System for Amazon Book Wishlist</a><span class="date">/  January 8, 2025</span>
       <div class="short-desc"></div>
     </li>
+</ul>
 </span>
 
 Gaussian Mixture Model
