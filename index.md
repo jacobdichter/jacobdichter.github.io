@@ -3,14 +3,10 @@ layout: default
 title: Jacob Dichter
 ---
 
-<div class="home-buttontile">About Me</div><br>
-After several years as a research analyst in the nonprofit sector, I made a leap into data science. My experience sourcing data, analyzing trends, and writing market reports developed my analytical mindset and a curiosity about how data drives decisionmaking.
+<div class="home-buttontile">About Me</div>
+After several years as a research analyst in the nonprofit sector, I made a leap into data science. My experience sourcing data, analyzing trends, and writing market reports sharpened my analytical mindset and fueled a curiosity about how data drives decisionmaking.
 
-I wanted to do more than interpret trends—I wanted to build the tools behind them. That desire drove me to pursue a master’s degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency. I saw an opportunity to evolve.
-
-Recently, I completed a master’s degree in Computer Science with a concentration in Data Science, earning a 4.0 GPA. During that time, I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and modern data dashboards.
-
-I build predictive models, dynamic dashboards, and scalable data pipelines to solve complex problems. Passionate about applying AI and advanced analytics to uncover patterns, optimize decision-making, and drive business value. Let’s connect and explore how data can power innovation.
+I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve. That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and modern data dashboards.
 
 <div class="content-line"></div>
 <div class="home-buttontile">Featured Projects</div>
