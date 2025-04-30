@@ -130,10 +130,10 @@ body, html {
 
 .content-line-section {
   width: 100%;         
-  height: 5px;        
-  background-color: #976D52; 
+  height: 4px;        
+  background-color: #F5E3D8; 
   margin-top: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
 
