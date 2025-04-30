@@ -346,3 +346,8 @@ p .data-scientist {
 .contact-form button:hover {
     background: #007acc;
 }
+
+.aboutme-text {
+  padding-left: 10px;
+  padding-right: 10px;
+}
