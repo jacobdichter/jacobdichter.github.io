@@ -5,9 +5,9 @@ title: Jacob Dichter
 
 <div class="home-buttontile" style="margin-bottom: 20px;">About Me</div>
 <div class="aboutme-text">
-<p style="margin: 0; text-align: justify; font-size: 0.85em;">After several years as a research analyst in the nonprofit sector, I made a leap into data science. I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve. That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency.</p>
+<p style="margin: 0; text-align: justify; font-size: 0.85em;">After several years as a research analyst in the nonprofit sector, I made a leap into data science. I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve. That vision drove me to pursue a Master's degree in computer science with a focus in data science, where I transformed my analytical instincts into technical fluency.</p>
 
-<p style="margin-top: 10px; margin-bottom: 0px; text-align: justify; font-size: 0.85em;">My experience sourcing data, analyzing trends, and writing market reports sharpened my analytical mindset and fueled a curiosity about how data drives decisionmaking. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and Power BI. Explore the site to dive deeper into my work and the impact I’m making with data!</p>
+<p style="margin-top: 15px; margin-bottom: 0px; text-align: justify; font-size: 0.85em;">My experience sourcing data, analyzing trends, and writing market reports as a research analyst fueled a curiosity about how data science and infrastructure drives decisionmaking. I completed my degree, earning a 4.0 GPA. I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and Power BI.</p>
 </div>
 
 <div class="content-line-section"></div>
