@@ -297,6 +297,10 @@ small {
   transition: opacity 0.3s ease;
 }
 
+.overlay h3 {
+  color: white;
+}
+
 .project-tile:hover .overlay {
   opacity: 1;
 }
