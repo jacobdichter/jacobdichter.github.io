@@ -351,5 +351,6 @@ p .data-scientist {
   padding-top: 10px;
   padding-left: 25px;
   padding-right: 25px;
-  border-left: 4px solid #3498db;
+  padding-bottom: 10px;
+  border-left: 4px solid #F5E3D8;
 }
