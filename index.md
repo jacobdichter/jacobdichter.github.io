@@ -66,7 +66,7 @@ Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic
 Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics```
 <div class="content-line"></div>
 
-#### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](https://jacobdichter.github.io/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html)<br>
+<!-- #### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](https://jacobdichter.github.io/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="{{ '/assets/red_network.png' | absolute_url }}" 
        alt="PCA" 
@@ -77,6 +77,7 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
   </p>
 </div><br>
 Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipulation```
+-->
 
 <div class="content-line-section"></div>
 
