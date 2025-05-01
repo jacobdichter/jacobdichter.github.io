@@ -3,7 +3,7 @@ layout: default
 title: Jacob Dichter
 ---
 
-<div class="home-buttontile">About Me</div>
+<div class="home-buttontile" style="margin-bottom: 10px;">About Me</div>
 <div class="aboutme-text">
 <p style="margin: 0; text-align: justify;">After several years as a research analyst in the nonprofit sector, I made a leap into data science. I wanted to do more than interpret trends — I wanted to build the tools behind them. I saw an opportunity to evolve. That desire drove me to pursue a Master's degree in computer science with a focus on data science, where I transformed my analytical instincts into technical fluency.</p>
 
