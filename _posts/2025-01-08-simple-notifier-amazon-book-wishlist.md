@@ -37,8 +37,7 @@ Use a task scheduler like Celery (with periodic tasks) or AWS Lambda with EventB
 Here’s an example using Python:
 
 Step 1: Scraper
-python
-Copy code
+```python
 import requests
 from bs4 import BeautifulSoup
 
@@ -55,9 +54,10 @@ def scrape_amazon_wishlist(wishlist_url):
     else:
         print(f"Failed to fetch wishlist. Status code: {response.status_code}")
         return None
+```
+
 Step 2: Change Detector
-python
-Copy code
+```python
 import json
 
 def detect_changes(new_list, storage_file="wishlist.json"):
@@ -74,9 +74,10 @@ def detect_changes(new_list, storage_file="wishlist.json"):
         json.dump(new_list, file)
 
     return new_books
+```
+
 Step 3: Notifier
-python
-Copy code
+```python
 import smtplib
 from email.mime.text import MIMEText
 
@@ -94,12 +95,13 @@ def send_notification(new_books, recipient_email):
         server.starttls()
         server.login("your_email@example.com", "your_password")
         server.send_message(msg)
+```
+
 Step 4: Scheduler
 Using Cron:
 
 Create a script check_wishlist.py that combines the above functions:
-python
-Copy code
+```python
 wishlist_url = "https://www.amazon.com/hz/wishlist/ls/your_wishlist_id"
 recipient_email = "your_email@example.com"
 
@@ -107,10 +109,12 @@ books = scrape_amazon_wishlist(wishlist_url)
 if books:
     new_books = detect_changes(books)
     send_notification(new_books, recipient_email)
+```
+
 Add a cron job to run the script periodically:
-bash
-Copy code
+```bash
 */30 * * * * python3 /path/to/check_wishlist.py
+```
 Using Kafka:
 
 Produce an event whenever the wish list changes.
@@ -124,4 +128,3 @@ Cloud Deployment: Host the program on a serverless platform (e.g., AWS Lambda) f
 Use a cloud database like DynamoDB to store wish list data.
 Send notifications to multiple platforms (email, SMS, and push).
 Add a web interface to configure wish list URLs and notification settings.
-Let me know if you’d like a detailed explanation or code for any of these steps!
