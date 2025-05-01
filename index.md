@@ -80,7 +80,7 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
 
 <div class="content-line-section"></div>
 
-<div class="home-buttontile">Recent Articles</div>
+<div class="home-buttontile" style="margin-bottom: 20px;">Recent Articles</div>
 
 <ul>
     <li>
