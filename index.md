@@ -7,7 +7,7 @@ title: Jacob Dichter
 <div class="aboutme-text">
 <p style="margin: 0; text-align: justify; font-size: 0.85em;">After several years as a research analyst in the nonprofit sector, I made a leap into data science. I wanted to do more than interpret trends — I wanted to build the tools that uncover them. Seeing an opportunity to evolve, I pursued a Master's degree in computer science with a focus in data science where I transformed my analytical instincts into technical fluency.</p>
 
-<p style="margin-top: 15px; margin-bottom: 0px; text-align: justify; font-size: 0.85em;">I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and Power BI. My experience sourcing data, analyzing trends, and writing market reports fueled a curiosity about how data infrastructure shapes decision-making. Having completed my degree with a 4.0 GPA, I am now seeking full-time opportunities in data science. This site highlights projects and ideas that have shaped my journey so far. </p>
+<p style="margin-top: 15px; margin-bottom: 0px; text-align: justify; font-size: 0.85em;">I focused on statistical modeling, data mining, and machine learning, while also learning to build practical, interactive tools with Python, SQL, and Power BI. My experience sourcing data, analyzing trends, and writing market reports fueled a curiosity about how data infrastructure shapes decision-making. Having completed my degree with a 4.0 GPA, I am now seeking full-time opportunities to apply those skills. This site highlights projects and ideas that have shaped my journey so far. </p>
 </div>
 
 <div class="content-line-section"></div>
