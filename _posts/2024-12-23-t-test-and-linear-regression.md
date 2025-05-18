@@ -9,7 +9,7 @@ description: "Exploring the idea that t-tests for comparing group means are math
 
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
-Regression analysis is one of the most powerful tools in statistics, enabling us to model and understand relationships between variables. While it’s commonly used for predicting outcomes, you might be surprised to learn that t-tests, a widely used method for comparing the means of two groups, are actually a special case of Ordinary Least Squares (OLS) regression. This connection not only deepens our understanding of both techniques but also highlights the versatility of regression in statistical analysis. Let’s explore this fascinating relationship:
+Regression analysis is one of the most foundational tools in statistics, enabling us to model and understand relationships between variables. I was surprised to learn that t-tests, a staple technique for comparing group means in statistics, is actually a simple case of Ordinary Least Squares (OLS) regression. Specifically, a t-test can be thought of as a linear regression where the predictor variable is binary (representing the two groups) and its coefficient represents the difference in means between the two groups. 
 
 
 ---
