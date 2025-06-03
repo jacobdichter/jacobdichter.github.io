@@ -353,5 +353,5 @@ p .data-scientist {
 .aboutme-text {
   padding-left: 20px;
   padding-right: 20px;
-  border-left: 4px solid #F5E3D8;
+  border: 3px solid #F5E3D8;
 }
