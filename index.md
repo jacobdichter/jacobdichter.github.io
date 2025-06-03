@@ -11,11 +11,6 @@ title: Jacob Dichter
 </div>
 
 <div class="content-line-section"></div>
-
-<svg viewBox="0 0 120 20" width="80" height="20" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0,10 Q30,0 60,10 Q90,20 120,10" fill="none" stroke="#6b8e23" stroke-width="2"/>
-</svg><br>
-
 <div class="home-buttontile">💎 Featured Projects</div>
 
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
