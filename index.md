@@ -3,7 +3,7 @@ layout: default
 title: Jacob Dichter
 ---
 
-<div class="home-buttontile" style="margin-bottom: 20px;">About Me</div>
+<div class="home-buttontile" style="margin-bottom: 20px;">🌱 About Me</div>
 <div class="aboutme-text">
 <p style="margin: 0; text-align: justify; font-size: 0.85em;">After several years as a research analyst in the nonprofit sector, I wanted to do more than just report on trends — I wanted to build the tools drive them. I made a leap into data science. I developed the technical foundation to support and scale my analytical work through a Master’s degree in computer science.</p>
 
@@ -11,7 +11,7 @@ title: Jacob Dichter
 </div>
 
 <div class="content-line-section"></div>
-<div class="home-buttontile">Featured Projects</div>
+<div class="home-buttontile">✨ Featured Projects</div>
 
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
@@ -80,7 +80,7 @@ Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipu
 
 <div class="content-line-section"></div>
 
-<div class="home-buttontile" style="margin-bottom: 20px;">Recent Articles</div>
+<div class="home-buttontile" style="margin-bottom: 20px;">📚 Recent Articles</div>
 
 <ul>
     <li>
