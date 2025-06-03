@@ -8,9 +8,17 @@ categories: [blog]
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
 Test post.
-<div class="about-header">About Me  
-  <svg height="12" width="100%"><path d="M0,6 Q50,12 100,6" stroke="#5A9C4A" fill="none"/></svg>  
-</div>  
+<div class="vine-divider">
+  <svg width="100%" height="16px" viewBox="0 0 1200 16">
+    <path 
+      d="M0,8 C200,2 400,14 600,8 C800,2 1000,14 1200,8" 
+      stroke="#5A9C4A" 
+      fill="none" 
+      stroke-width="1.5"
+      stroke-linecap="round"
+    />
+  </svg>
+</div>
 <br>
 ```python
 import sys
