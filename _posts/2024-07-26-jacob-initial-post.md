@@ -8,7 +8,10 @@ categories: [blog]
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
 Test post.
-
+<div class="about-header">About Me  
+  <svg height="12" width="100%"><path d="M0,6 Q50,12 100,6" stroke="#5A9C4A" fill="none"/></svg>  
+</div>  
+<br>
 ```python
 import sys
 import numpy as np
