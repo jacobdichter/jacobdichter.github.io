@@ -3,7 +3,7 @@ layout: default
 title: Jacob Dichter
 ---
 
-<div class="home-buttontile" style="margin-bottom: 10px; padding-left: 20px;">About Me</div>
+<div class="home-buttontile" style="margin-bottom: 10px;">About Me</div>
 <div class="aboutme-text">
 <p style="margin: 0; text-align: justify; font-size: 1em;">After several years as a research analyst in the nonprofit sector, I wanted to do more than just report on trends — I wanted to build the tools that drive them. I made a leap into data science, and I developed the technical foundation to support and scale my analytical work through a Master’s degree in computer science.</p>
 
@@ -12,7 +12,7 @@ title: Jacob Dichter
 
 <div class="content-line-section"></div>
 
-<div class="home-buttontile" style="margin-bottom: 20px; padding-left: 20px">Featured Projects</div>
+<div class="home-buttontile" style="margin-bottom: 20px;">Featured Projects</div>
 
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html'" style="cursor: pointer;">
 #### Modeling Socioeconomic Ascent in Connecticut Census Tracts<br>
@@ -76,22 +76,9 @@ Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic
 Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics```
 </div>
 
-<!-- #### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](https://jacobdichter.github.io/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html)<br>
-<div style="display: flex; align-items: center; gap: 25px;">
-   <img src="{{ '/assets/red_network.png' | absolute_url }}" 
-       alt="PCA" 
-       width="225"
-       style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-   <p style="margin: 0; text-align: justify;">
-  I developed an interactive neural network navigation menu using HTML, CSS, and JavaScript, focusing on real-time user interaction. Leveraging event handling and DOM manipulation, I implemented dynamic updates to the menu based on user inputs, enhancing responsiveness and usability. The solution was optimized for performance, ensuring smooth transitions and minimal latency during user interactions.
-  </p>
-</div><br>
-Skills: ```HTML``` ```CSS``` ```JavaScript``` ```Event Handling``` ```DOM Manipulation```
--->
-
 <div class="content-line-section"></div>
 
-<div class="home-buttontile" style="margin-bottom: 20px; padding-left: 20px">Recent Articles</div>
+<div class="home-buttontile" style="margin-bottom: 20px;">Recent Articles</div>
 
 <ul>
     <li>
