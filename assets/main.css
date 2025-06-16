@@ -56,15 +56,14 @@ main {
   }
 
 .home-project-tile:hover {
-/*   transform: scale(1.005); */
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   opacity: 1;
   background: 
     linear-gradient(
-      rgba(255, 255, 255, 0.4), 
-      rgba(255, 255, 255, 0.05)
+      rgba(255, 249, 246, 0.6),  /* more opaque warm white at top */
+      rgba(255, 249, 246, 0.1)   /* very subtle at bottom */
     ),
-    #e0e0e0; /* your base background color */
+    #fff9f6; /* warm base background */
 }
 
 /* General Body Styles */
