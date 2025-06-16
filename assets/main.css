@@ -239,7 +239,7 @@ p .date {
   font-style: italic;
   color: #707070;
   margin-top: 2px;
-  font-size: 0.85em;
+  font-size: 0.9rem;
 }
 
 .articles li {
@@ -247,7 +247,7 @@ p .date {
 }
 
 .articles li a {
-  font-size: 1em;
+  font-size: 1.1rem;
   font-weight: 600;
 }
 
