@@ -63,14 +63,14 @@ Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic
 <div class="content-line"></div>
 
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html'" style="cursor: pointer;">
-#### Forecasting Race Performance in LHRR 2025 Using XGBoost<br>
+#### Predictive Modeling of Credit Default Using Advanced Data Mining Techniques<br>
 <div style="display: flex; align-items: center; gap: 25px;">
-   <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" 
-       alt="PCA" 
+   <img src="https://raw.githubusercontent.com/zkneupper/Default-Prediction-Capstone/master/reports/figures/roc_curve.png" 
+       alt="credit-prediction" 
        width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
-    Implemented an XGBoost predictive model in Python to forecast race outcomes and understand weather impact for the Litchfield Road Race. Utilized data preprocessing and feature engineering, including selection and scaling, to improve model performance and accuracy with historical race data. The dataset included participants' race times, placements, and weather conditions such as temperature, humidity, and wind speed.
+    This project implements a robust machine learning framework for credit default prediction, leveraging the UCL German Credit Dataset and benchmarking performance against the methodologies proposed in I-Cheng Yeh & Che-hui Lien’s 2009 paper ("The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients"). We extend their work by incorporating modern XGBoost optimization and conducting a rigorous comparative analysis of model performance.
   </p>
 </div><br>
 Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics```
