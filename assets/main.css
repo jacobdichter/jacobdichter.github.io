@@ -97,7 +97,7 @@ h2, h3, h4, h5, h6 {
 h1 { font-size: 2.2em; } /* 35.2px */
 h2 { font-size: 1.8em; } /* 28.8px */
 h3 { font-size: 1.5em; } /* 24px */
-h4 { font-size: 1.3em; color: #007acc; } /* 20.8px */
+h4 { font-size: 1.3em; color: #425b7a; } /* 20.8px */
 h5 { font-size: 1.1em; } /* 17.6px */
 h6 { font-size: 1em; }   /* 16px */
 
@@ -137,7 +137,7 @@ code {
   background-color: #f4f4f4; /* Light gray background */
   padding: 2px 4px;
   border-radius: 5px;
-  color: #1A5ACC;
+  color: #425b7a;
   text-align: left;
 }
 
