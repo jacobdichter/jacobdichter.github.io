@@ -47,24 +47,24 @@ main {
 /* Home Page */
 
 .home-project-tile {
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+  padding: 1rem;
+  transition: background 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
+  opacity: 0.9;
+  }
+
+.home-project-tile:hover {
+/*   transform: scale(1.005); */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  opacity: 1;
   background: 
     linear-gradient(
       rgba(255, 255, 255, 0.4), 
       rgba(255, 255, 255, 0.05)
     ),
     #e0e0e0; /* your base background color */
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  border: 1px solid #ccc;
-  padding: 1rem;
-  transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
-  opacity: 0.9;
-  }
-
-.home-project-tile:hover {
-  transform: scale(1.005);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  opacity: 1;
 }
 
 /* General Body Styles */
