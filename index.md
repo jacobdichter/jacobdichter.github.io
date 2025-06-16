@@ -13,7 +13,7 @@ title: Jacob Dichter
 <div class="content-line-section"></div>
 
 <div class="home-buttontile">📊 Featured Projects</div>
-<a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html" style="display: block; text-decoration: none; color: inherit;">
+<a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html" markdown="1" style="display: block; text-decoration: none; color: inherit;">
 <div class="home-project-tile" markdown="1">
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
