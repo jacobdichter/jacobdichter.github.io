@@ -103,7 +103,7 @@ h6 { font-size: 1em; }   /* 16px */
 
 /* Paragraphs */
 p {
-  font-size: 0.9em; /* 1em = 16px */
+  font-size: 1em; /* 1em = 16px */
   line-height: 1.4;
   margin-bottom: 1.5em;
   color: #5a5a5a;
