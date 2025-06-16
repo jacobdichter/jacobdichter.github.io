@@ -13,7 +13,7 @@ title: Jacob Dichter
 <div class="content-line-section"></div>
 
 <div class="home-buttontile">📊 Featured Projects</div>
-<!-- <a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html" markdown="1" style="display: block; text-decoration: none; color: inherit;"> -->
+
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html'" style="cursor: pointer;">
 #### Modeling Socioeconomic Ascent in Connecticut Census Tracts<br>
 <div style="display: flex; align-items: center; gap: 25px;">
@@ -27,12 +27,11 @@ title: Jacob Dichter
 </div><br>
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
 </div>
-<!-- </a> -->
 
 <div class="content-line"></div>
 
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html'" style="cursor: pointer;">
-#### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
+#### Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis<br>
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" 
        alt="PCA" 
@@ -46,9 +45,11 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
 </div>
 <div class="content-line"></div>
 
-#### [U.S. State Exports Dashboard in Power BI](https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html)<br>
+
+<div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html'" style="cursor: pointer;">
+#### U.S. State Exports Dashboard in Power BI<br>
 <div style="display: flex; align-items: center; gap: 25px;">
-   <img src="https://miro.medium.com/v2/resize:fit:1400/1*1hrMXDRmN7XRuWPKKlikHw.png" 
+   <img src="{{ '/assets/exportsjpeg.jpg' | absolute_url }}" 
        alt="PCA" 
        width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -57,9 +58,12 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
   </p>
 </div><br>
 Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic SQL```
+</div>
+
 <div class="content-line"></div>
 
-#### [Forecasting Race Performance in LHRR 2025 Using XGBoost](http://github.com/)<br>
+<div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html'" style="cursor: pointer;">
+#### Forecasting Race Performance in LHRR 2025 Using XGBoost<br>
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="https://images.idgesg.net/images/article/2022/12/xboost-influxdb-05-100935143-large.jpg?auto=webp&quality=85,70&auto=webp&quality=85,70" 
        alt="PCA" 
@@ -70,6 +74,7 @@ Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic
   </p>
 </div><br>
 Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics```
+</div>
 
 <!-- #### [Creating the Neural Network Menu with HTML, CSS, and JavaScript](https://jacobdichter.github.io/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
