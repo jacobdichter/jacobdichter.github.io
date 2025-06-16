@@ -47,8 +47,9 @@ main {
 /* Home Page */
 
 .home-project-tile {
-  background-color: blue;
-}
+  padding: 20px;
+  markdown: 1;
+  }
 
 /* General Body Styles */
 body {
