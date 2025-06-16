@@ -13,8 +13,8 @@ title: Jacob Dichter
 <div class="content-line-section"></div>
 <div class="home-buttontile">📊 Featured Projects</div>
 
+<a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html" class="home-project-tile">
 <div class="home-project-tile" markdown="1">
-<a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html">
 #### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
       <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
@@ -26,8 +26,8 @@ title: Jacob Dichter
   </p>
 </div><br>
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
-</a>
 </div>
+</a>
 
 <div class="content-line"></div>
 
