@@ -31,7 +31,7 @@ Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random 
 
 <div class="content-line"></div>
 
-<div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html' style="cursor: pointer;">
+<div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html'" style="cursor: pointer;">
 #### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" 
