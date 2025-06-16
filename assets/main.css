@@ -47,13 +47,23 @@ main {
 /* Home Page */
 
 .home-project-tile {
-  padding: 20px;
-  border-radius: 12px;
-  opacity: 0.8;
+  background: linear-gradient(
+    to top,
+    #e0e0e0 0%,
+    #ffffff 40%,
+    #f0f0f0 100%
+  );
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  opacity: 0.9;
   }
 
 .home-project-tile:hover {
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   opacity: 1;
 }
 
