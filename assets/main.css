@@ -49,11 +49,12 @@ main {
 .home-project-tile {
   padding: 20px;
   border-radius: 12px;
-
+  opacity: 0.8;
   }
 
 .home-project-tile:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  opacity: 1;
 }
 
 /* General Body Styles */
