@@ -44,7 +44,11 @@ main {
   margin: 0 auto;
 }
 
-/* INSERT CSS */
+/* Home Page */
+
+.home-project-tile {
+  background-color: blue;
+}
 
 /* General Body Styles */
 body {
@@ -304,4 +308,3 @@ small {
 .project-tile:hover .overlay {
   opacity: 1;
 }
-
