@@ -15,7 +15,7 @@ title: Jacob Dichter
 <div class="home-buttontile">📊 Featured Projects</div>
 <!-- <a href="https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html" markdown="1" style="display: block; text-decoration: none; color: inherit;"> -->
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html'" style="cursor: pointer;">
-#### [Modeling Socioeconomic Ascent in Connecticut Census Tracts](https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html)<br>
+#### Modeling Socioeconomic Ascent in Connecticut Census Tracts<br>
 <div style="display: flex; align-items: center; gap: 25px;">
       <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
        alt="CT MAUP Visualization" 
@@ -31,6 +31,7 @@ Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random 
 
 <div class="content-line"></div>
 
+<div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html' style="cursor: pointer;">
 #### [Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis](https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html)<br>
 <div style="display: flex; align-items: center; gap: 25px;">
    <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" 
@@ -42,6 +43,7 @@ This project analyzes Socioeconomic Status (SES) change from 2018 to 2023 using 
   </p>
 </div><br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
+</div>
 <div class="content-line"></div>
 
 #### [U.S. State Exports Dashboard in Power BI](https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html)<br>
