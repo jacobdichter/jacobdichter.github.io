@@ -38,7 +38,7 @@ Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random 
        width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
-This project analyzes Socioeconomic Status (SES) change from 2018 to 2023 using Principal Component Analysis (PCA) to create a robust composite index that mitigates collinearity and endogeneity concerns. Rather than arbitrarily weighting socioeconomic indicators, we standardize the data and apply PCA to extract the first principal component (PC1), which captures the most variance and serves as our SES change metric. By leveraging eigenvalue decomposition and examining variable loadings, we ensure that PC1 provides an empirically grounded measure of SES shifts. Validation such as correlation and variance analysis helps strengthens the reliability of our approach and aligns with best practices in quantitative social science.
+I transform raw socioeconomic data from the U.S. Census into an elegant composite metric using PCA. By extracting maximum variance through eigenvalue decomposition, we bypass arbitrary weighting and derive a statistically robust SES metric. Validation such as correlation and variance analysis helps strengthens the reliability of our approach and aligns with best practices in quantitative social science.
   </p>
 </div><br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
