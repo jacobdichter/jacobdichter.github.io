@@ -225,7 +225,7 @@ ul li {
   font-style: italic;
   color: #A0A0A0;
   margin-left: 10px;
-  font-size: 0.85em;
+  font-size: 0.9em;
   font-family: 'Roboto', sans-serif;
   white-space: pre;
 }
@@ -240,7 +240,7 @@ p .date {
   color: #707070;
   margin-top: 2px;
   margin-bottom: 6px;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 .articles li {
