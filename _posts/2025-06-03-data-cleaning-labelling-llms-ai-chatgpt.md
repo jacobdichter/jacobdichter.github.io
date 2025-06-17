@@ -4,6 +4,7 @@ title: "Cleaning and Labelling Data with LLMs"
 date: 2025-06-03 09:50:00 +0000
 author: Jacob Dichter
 categories: [blog]
+description: "My method of using GPT-4 to clean 1,229 sometimes awkward, abbreviated HS-4 commodity descriptions into clear, natural language descriptions."
 ---
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
