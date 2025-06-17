@@ -5,7 +5,7 @@ title: Jacob Dichter
 
 <div class="home-buttontile">About Me</div>
 <div class="aboutme-text">
-<p style="margin: 0; text-align: justify; font-size: 1em;">After several years as a research analyst in the nonprofit sector, I wanted to do more than just report on trends — I wanted to build the tools that drive them. I made a leap into data science, and I developed the technical foundation to support and scale my analytical work through a Master’s degree in computer science.</p>
+<p style="margin: 0; text-align: justify; font-size: 1em;">After several years as a research analyst in the nonprofit sector, I wanted to do more than just report on trends — I wanted to build the tools that drive them. I made a leap into data science to close the gap between analysis and real-world impact. I developed the technical foundation to support and scale my work through a Master’s degree in computer science.</p>
 
 <p style="margin-top: 15px; margin-bottom: 0px; text-align: justify; font-size: 1em;">As I learned, I built a portfolio that reflects both my social science background and my growth as a technical contributor. I focused on statistical modeling, data mining, and machine learning while building interactive tools with Python, SQL, and Power BI. Having completed my degree with distinction, I am seeking full-time opportunities to apply those skills. This site highlights projects and ideas that have shaped my journey so far. </p>
 </div>
