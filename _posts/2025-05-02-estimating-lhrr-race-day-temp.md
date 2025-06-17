@@ -4,6 +4,7 @@ title: "Estimating LHRR Race Day Temperature"
 author: Jacob Dichter
 date: 2025-05-02 07:04:00 +0000
 categories: [blog]
+description: Estimate the probability distribution of temperatures on a specific calendar day (June 9th) in a specific town (Litchfield, CT) at a specific time (1:00pm)
 ---
 <span class="date" style="padding-top: 0px; margin-top: 0px;">{{ page.date | date: "%B %-d, %Y" }}</span>
 
