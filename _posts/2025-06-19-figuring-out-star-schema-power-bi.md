@@ -106,6 +106,7 @@ Each dimension has a 1:many relationship to the fact table.
 Now that you have a normalized structure, write clean DAX measures:
 
 Total Exports
+```sql
 DAX
 Copy
 Edit
@@ -124,6 +125,7 @@ Edit
 YoY Growth :=
 VAR prevYear = CALCULATE([Total Exports], Dim_Date[year] = SELECTEDVALUE(Dim_Date[year]) - 1)
 RETURN DIVIDE([Total Exports] - prevYear, prevYear)
+```
 ✅ Step 5: KPI Tiles (Optional Cleanup)
 Now that you're not tied to Exports_2024, recreate your KPI measures off the new fact:
 
