@@ -18,8 +18,6 @@ Thanks for laying it out clearly. Here’s a straight path forward based on what
 
 🔧 Your Current Schema (Flattened Fact Table)
 ```scss
-Copy
-Edit
 Exports_2024
 ├── cty_name
 ├── hs2_code
@@ -33,23 +31,22 @@ Exports_2024
 ```
 You also have:
 
-HS Code Crosswalk (for display names)
-
-Country/State Abbreviation Crosswalk
+- HS Code Crosswalk (for display names)
+- Country/State Abbreviation Crosswalk
 
 🧭 Goal
 Add 2023, 2022 export data
 
 Add derived metrics:
 
-%_state_exports (share of total state exports for that good)
+- %_state_exports (share of total state exports for that good)
 
-%_growth (YoY change)
+- %_growth (YoY change)
 
 Move toward a proper star schema for scale and clarity
 
-🛠 Step-by-Step Guide
-✅ Step 1: Consolidate Historical Data
+### 🛠 Step-by-Step Guide
+## ✅ Step 1: Consolidate Historical Data
 Create a unified fact table:
 
 Fact_Exports
@@ -65,7 +62,7 @@ Remove any textual fluff — we’ll add display names via dimensions
 
 One row = one export record by year, state, country, HS code
 
-✅ Step 2: Create Dimension Tables
+## ✅ Step 2: Create Dimension Tables
 Dim_Date
 ```sql
 Copy
@@ -86,7 +83,7 @@ Use your country/state abbreviation table here
 
 If one row per entity doesn’t work, split it into Dim_State and Dim_Country
 
-✅ Step 3: Build Relationships
+## ✅ Step 3: Build Relationships
 Your star schema will now look like this:
 ```
 markdown
@@ -102,39 +99,36 @@ Dim_Product  |   Dim_Geography
 Each dimension has a 1:many relationship to the fact table.
 ```
 
-✅ Step 4: Add Measures
+## ✅ Step 4: Add Measures
 Now that you have a normalized structure, write clean DAX measures:
 
 Total Exports
 ```sql
-DAX
-Copy
-Edit
 Total Exports := SUM(Fact_Exports[export_value])
 % of State Exports
-DAX
-Copy
-Edit
+```
+```sql
 % State Exports :=
 VAR totalState = CALCULATE([Total Exports], ALLEXCEPT(Dim_Geography, Dim_Geography[state_abbr]), Dim_Date)
 RETURN DIVIDE([Total Exports], totalState)
+```
+
 YoY Growth
-DAX
-Copy
-Edit
+```sql
 YoY Growth :=
 VAR prevYear = CALCULATE([Total Exports], Dim_Date[year] = SELECTEDVALUE(Dim_Date[year]) - 1)
 RETURN DIVIDE([Total Exports] - prevYear, prevYear)
 ```
-✅ Step 5: KPI Tiles (Optional Cleanup)
+
+## ✅ Step 5: KPI Tiles (Optional Cleanup)
 Now that you're not tied to Exports_2024, recreate your KPI measures off the new fact:
 
-DAX
-Copy
-Edit
+```sql
 Top Market :=
 TOPN(1, VALUES(Dim_Geography[cty_full]), [Total Exports], DESC)
-🧠 Final Advice
+```
+
+### 🧠 Final Advice
 You’re halfway there. Just need to:
 
 Merge data by stacking years (Power Query → Append Queries)
