@@ -25,11 +25,9 @@ title: Jacob Dichter
     Developed a machine learning framework to predict socioeconomic development across Connecticut’s census tracts, comparing statistical methods like OLS, random forest, and gradient boosting. The project involved preprocessing socioeconomic indicators, training models, and evaluating their performance to identify the most accurate approach. By analyzing these predictive techniques, the research supports data-driven decision-making in urban planning, investment, and resource allocation for Connecticut’s towns and regions.
   </p>
 </div><br>
-Skills: ```scikit-learn``` ```pandas``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```<br>
 Technologies: <i class="devicon-python-plain colored"></i> Python 
-<i class="devicon-postgresql-plain colored"></i> PostgreSQL
-
-
+<i class="devicon-postgresql-plain colored"></i> PostgreSQL<br>
+Skills: ```scikit-learn``` ```pandas``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
 </div>
 
 <div class="content-line"></div>
