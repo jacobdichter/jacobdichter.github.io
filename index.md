@@ -25,9 +25,9 @@ title: Jacob Dichter
     Developed a machine learning framework to predict socioeconomic development across Connecticut’s census tracts, comparing statistical methods like OLS, random forest, and gradient boosting. The project involved preprocessing socioeconomic indicators, training models, and evaluating their performance to identify the most accurate approach. By analyzing these predictive techniques, the research supports data-driven decision-making in urban planning, investment, and resource allocation for Connecticut’s towns and regions.
   </p>
 </div><br>
-Technologies: <i class="devicon-python-plain colored"></i> Python 
-<i class="devicon-postgresql-plain colored"></i> PostgreSQL<br>
-Skills: ```scikit-learn``` ```pandas``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
+Technologies: <i class="devicon-python-plain colored"></i>&nbsp;Python&nbsp;&nbsp;
+<i class="devicon-postgresql-plain colored"></i>&nbsp;PostgreSQL<br>
+Skills: ```scikit-learn``` ```pandas``` ```geopandas``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
 </div>
 
 <div class="content-line"></div>
@@ -40,7 +40,7 @@ Skills: ```scikit-learn``` ```pandas``` ```K-Means Clustering``` ```Cosine Simil
        width="225"
        style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
    <p style="margin: 0; text-align: justify;">
-I transform raw socioeconomic data from the U.S. Census into an elegant composite metric using PCA. By extracting maximum variance through eigenvalue decomposition, we bypass arbitrary weighting and derive a statistically robust SES metric. Validation such as correlation and variance analysis helps strengthens the reliability of our approach and aligns with best practices in quantitative social science.
+I transformed raw socioeconomic data from the U.S. Census into an elegant composite metric using PCA. By extracting maximum variance through eigenvalue decomposition, we bypass arbitrary weighting and derive a statistically robust SES metric. Validation such as correlation and variance analysis helps strengthens the reliability of our approach and aligns with best practices in quantitative social science.
   </p>
 </div><br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
@@ -64,7 +64,7 @@ Technologies: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_
 <i class="devicon-azure-plain colored"></i>&nbsp;Azure
 
 
-Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic SQL```
+Skills: ```data modeling``` ```DAX```` ```dynamic SQL``` ```star schema```
 </div>
 
 <div class="content-line"></div>
