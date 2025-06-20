@@ -25,9 +25,9 @@ title: Jacob Dichter
     Developed a machine learning framework to predict socioeconomic development across Connecticut’s census tracts, comparing statistical methods like OLS, random forest, and gradient boosting. The project involved preprocessing socioeconomic indicators, training models, and evaluating their performance to identify the most accurate approach. By analyzing these predictive techniques, the research supports data-driven decision-making in urban planning, investment, and resource allocation for Connecticut’s towns and regions.
   </p>
 </div><br>
-Technologies: <i class="devicon-python-plain colored"></i>&nbsp;Python&nbsp;&nbsp;
+Technologies:  <i class="devicon-python-plain colored"></i>&nbsp;Python&nbsp;&nbsp;
 <i class="devicon-postgresql-plain colored"></i>&nbsp;PostgreSQL<br>
-Skills: ```scikit-learn``` ```pandas``` ```geopandas``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```
+Skills:  ```scikit-learn```  ```pandas```  ```geopandas``` ```K-Means Clustering```  ```Random Forest```  ```APIs```
 </div>
 
 <div class="content-line"></div>
@@ -59,12 +59,12 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
     Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions. Populated SQL Server database with 2.1M-row master table across 100 tables with dynamic SQL queries.
   </p>
 </div><br>
-Technologies: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Power BI&nbsp;&nbsp;
+Technologies:  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Power BI&nbsp;&nbsp;
 <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="SQL" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">SQL Server&nbsp;&nbsp;
 <i class="devicon-azure-plain colored"></i>&nbsp;Azure
 
 
-Skills: ```data modeling``` ```DAX```` ```dynamic SQL``` ```star schema```
+Skills:  ```Data Modeling```  ```DAX```  ```Dynamic SQL```  ```Star Schema```
 </div>
 
 <div class="content-line"></div>
