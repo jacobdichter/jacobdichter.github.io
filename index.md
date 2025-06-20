@@ -60,8 +60,8 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
   </p>
 </div><br>
 Technologies: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Power BI&nbsp;&nbsp;
- <i class="devicon-azuresqldatabase-plain"></i>&nbsp;SQL Server&nbsp;&nbsp;
- <i class="devicon-azure-plain colored"></i>&nbsp;Azure
+<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="SQL" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">SQL Server&nbsp;&nbsp;
+<i class="devicon-azure-plain colored"></i>&nbsp;Azure
 
 
 Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic SQL```
