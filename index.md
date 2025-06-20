@@ -28,6 +28,9 @@ title: Jacob Dichter
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```<br>
 Technologies: <i class="devicon-python-plain colored"></i> Python
 <i class="devicon-postgresql-plain colored"></i> PostgreSQL
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">
+Power BI
+
 
 </div>
 
