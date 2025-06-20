@@ -26,10 +26,8 @@ title: Jacob Dichter
   </p>
 </div><br>
 Skills: ```Python``` ```K-Means Clustering``` ```Cosine Similarity``` ```Random Forest``` ```APIs```<br>
-Technologies: <i class="devicon-python-plain colored"></i> Python
+Technologies: <i class="devicon-python-plain colored"></i> Python (<i class="devicon-scikitlearn-plain colored"></i> scikit-learn, <i class="devicon-numpy-plain colored"></i> numpy, <i class="devicon-pandas-plain colored"></i> pandas)
 <i class="devicon-postgresql-plain colored"></i> PostgreSQL
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">
-Power BI
 
 
 </div>
@@ -63,6 +61,12 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
     Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions. Populated SQL Server database with 2.1M-row master table across 100 tables with dynamic SQL queries.
   </p>
 </div><br>
+Technologies: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">
+Power BI
+<i class="devicon-microsoftsqlserver-plain"></i> SQL Server
+<i class="devicon-azure-plain"></i> Azure
+
+
 Skills: ```Power BI``` ```DAX``` ```Data Modeling``` ```SQL Server``` ```Dynamic SQL```
 </div>
 
