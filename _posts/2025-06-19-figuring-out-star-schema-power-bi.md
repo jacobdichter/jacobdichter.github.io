@@ -85,10 +85,7 @@ If one row per entity doesn’t work, split it into Dim_State and Dim_Country
 
 ## ✅ Step 3: Build Relationships
 Your star schema will now look like this:
-```
-markdown
-Copy
-Edit
+```markdown
         Dim_Date
            |
            |
