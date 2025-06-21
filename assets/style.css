@@ -14,48 +14,6 @@ body, html {
   box-sizing: inherit;
 }
 
-/* .container {
-  /* flex-direction: row; /* Horizontal layout for sidebar and content */ */
-  min-height: 100vh;
-  /*overflow: hidden;*/
-  /* Remove any potential margin/padding */
-  margin: 0;
-  padding: 0;
-  overflow-y: scroll; /* Make container section scrollable */
-  position: relative;
-}
-
-.sidebar {
-  width: 350px;
-  padding: 20px;
-/*   background-color: #f4f4f4; */
-  background-color: purple;
-  position: fixed;
-  height: 100vh; /* Change to vh units to match container */
-  overflow-y: auto;
-  /* Ensure sidebar is flush with viewport */
-  left: 0;
-  top: 0;
-  text-align: center;
-}
-
-.content {
-/*   margin-left: 325px; /* Space for sidebar */ */
-/*   padding-left: 325px; */
-/*   margin-right: 100px; */
-/*   width: calc(100% - 500px); */
-  position: absolute; 
-  top: 0; /* Aligns content at the top */
-  left: 325px; /* Align content at the left, starting from 400px */
-  right: 100px; /* Align content 100px from the right side */
-  padding: 0px;
-  height: 100vh; /* Full viewport height */
-  overflow-y: scroll; /* Make content section scrollable */
-  scrollbar-width: none;
-  background-color: #FCFCFC;
-/*   flex-grow: 1; */
-} */
-
 .container {
   display: flex;
   min-height: 100vh;
