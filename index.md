@@ -84,7 +84,7 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
 
 <div class="content-line-section"></div>
 
-<div class="home-buttontile">Recent Articles</div>
+<div class="home-buttontile" markdown="1">Recent Articles</div>
 <span class="articles">
 <ul>
     <li>
