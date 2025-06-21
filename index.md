@@ -28,6 +28,7 @@ title: Jacob Dichter
 <p class="p-tech">Technologies:  <i class="devicon-python-plain colored"></i>&nbsp;Python&nbsp;&nbsp;
 <i class="devicon-postgresql-plain colored"></i>&nbsp;PostgreSQL</p><br>
 Skills:  ```scikit-learn```  ```pandas```  ```geopandas``` ```K-Means Clustering```  ```Random Forest```  ```APIs```
+Data Source: ```U.S. Census Bureau``` ```American Community Survey```
 
 </div>
 
@@ -64,6 +65,7 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
 <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="SQL" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">SQL Server&nbsp;&nbsp;
 <i class="devicon-azure-plain colored"></i>&nbsp;Azure</p><br>
 Skills:  ```Data Modeling```  ```DAX```  ```Dynamic SQL```  ```Star Schema```
+Data Source: ```U.S. Department of Commerce```
 
 </div>
 
