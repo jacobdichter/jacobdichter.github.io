@@ -85,7 +85,7 @@ Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics
 <div class="content-line-section"></div>
 
 <div class="home-buttontile">Recent Articles</div>
-<span class="articles" markdown="1">
+<span class="articles">
 <ul>
     <li>
       <a href="/blog/2025/03/24/creating-neural-network-menu-css-html-javascript.html">Creating the Neural Network Menu</a><span class="date">/  March 24, 2025</span>
