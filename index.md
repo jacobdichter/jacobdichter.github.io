@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Jacob Dichter
@@ -15,16 +16,16 @@ title: Jacob Dichter
 <div class="home-buttontile">Featured Projects</div>
 
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/03/13/modeling-socioeconomic-ascent-connecticut-tracts.html'" style="cursor: pointer;">
-      #### Modeling Socioeconomic Ascent in Connecticut Census Tracts<br>
-            <div style="display: flex; align-items: center; gap: 25px;">
-                  <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
-                   alt="CT MAUP Visualization" 
-                   width="225"
-                   style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px                               rgba(0,0,0,0.05);">   
-               <p style="margin: 0; text-align: justify;">
-Developed a machine learning framework to predict socioeconomic development across Connecticut’s census tracts, comparing statistical methods like OLS, random forest, and gradient boosting. The project involved preprocessing socioeconomic indicators, training models, and evaluating their performance to identify the most accurate approach. By analyzing these predictive techniques, the research supports data-driven decision-making in urban planning, investment, and resource allocation for Connecticut’s towns and regions.
-              </p>
-            </div><br>
+#### Modeling Socioeconomic Ascent in Connecticut Census Tracts<br>
+<div style="display: flex; align-items: center; gap: 25px;">
+      <img src="{{ '/assets/ct_image_maup.png' | absolute_url }}" 
+       alt="CT MAUP Visualization" 
+       width="225"
+       style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">   
+   <p style="margin: 0; text-align: justify;">
+    Developed a machine learning framework to predict socioeconomic development across Connecticut’s census tracts, comparing statistical methods like OLS, random forest, and gradient boosting. The project involved preprocessing socioeconomic indicators, training models, and evaluating their performance to identify the most accurate approach. By analyzing these predictive techniques, the research supports data-driven decision-making in urban planning, investment, and resource allocation for Connecticut’s towns and regions.
+  </p>
+</div><br>
 Technologies:  <i class="devicon-python-plain colored"></i>&nbsp;Python&nbsp;&nbsp;
 <i class="devicon-postgresql-plain colored"></i>&nbsp;PostgreSQL<br>
 Skills:  ```scikit-learn```  ```pandas```  ```geopandas``` ```K-Means Clustering```  ```Random Forest```  ```APIs```
@@ -33,13 +34,13 @@ Skills:  ```scikit-learn```  ```pandas```  ```geopandas``` ```K-Means Clustering
 <div class="content-line"></div>
 
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html'" style="cursor: pointer;">
-      #### Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis<br>
-            <div style="display: flex; align-items: center; gap: 25px;">
-               <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" 
-                   alt="PCA" 
-                   width="225"
-                   style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px                               rgba(0,0,0,0.05);">
-               <p style="margin: 0; text-align: justify;">
+#### Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis<br>
+<div style="display: flex; align-items: center; gap: 25px;">
+   <img src="https://datascienceplus.com/wp-content/uploads/2019/09/secondlasat.png" 
+       alt="PCA" 
+       width="225"
+       style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+   <p style="margin: 0; text-align: justify;">
 I transformed raw socioeconomic data from the U.S. Census into an elegant composite metric using PCA. By extracting maximum variance through eigenvalue decomposition, we bypass arbitrary weighting and derive a statistically robust SES metric. Validation such as correlation and variance analysis helps strengthens the reliability of our approach and aligns with best practices in quantitative social science.
   </p>
 </div><br>
@@ -49,13 +50,13 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
 
 
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2024/10/08/us-state-exports-dashboard-power-bi.html'" style="cursor: pointer;">
-      #### U.S. State Exports Dashboard in Power BI<br>
-            <div style="display: flex; align-items: center; gap: 25px;">
-               <img src="{{ '/assets/exportsjpeg.jpg' | absolute_url }}" 
-                   alt="PCA" 
-                   width="225"
-                   style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-               <p style="margin: 0; text-align: justify;">
+#### U.S. State Exports Dashboard in Power BI<br>
+<div style="display: flex; align-items: center; gap: 25px;">
+   <img src="{{ '/assets/exportsjpeg.jpg' | absolute_url }}" 
+       alt="PCA" 
+       width="225"
+       style="max-width: 100%; height: auto; border: 1px solid #E8E2DF; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+   <p style="margin: 0; text-align: justify;">
     Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions. Populated SQL Server database with 2.1M-row master table across 100 tables with dynamic SQL queries.
   </p>
 </div><br>
