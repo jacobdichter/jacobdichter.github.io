@@ -79,7 +79,9 @@ Skills:  ```Data Modeling```  ```DAX```  ```Dynamic SQL```  ```Star Schema```
     This project implements a robust machine learning framework for credit default prediction, leveraging the UCL German Credit Dataset and benchmarking performance against the methodologies proposed in I-Cheng Yeh & Che-hui Lien’s 2009 paper ("The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients"). We extend their work by incorporating modern XGBoost optimization and conducting a rigorous comparative analysis of model performance.
   </p>
 </div><br>
-Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Sports Analytics```
+Technologies: <img src="https://icon2.cleanpng.com/20180525/wls/avqkc2h5g.webp" alt="Spark" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Apache Spark&nbsp;&nbsp;<br>
+
+Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Analytics```
 </div>
 
 <div class="content-line-section"></div>
