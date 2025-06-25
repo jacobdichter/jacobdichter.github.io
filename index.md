@@ -31,7 +31,6 @@ Skills:  ```scikit-learn```  ```pandas```  ```geopandas``` ```K-Means Clustering
 </div>
 
 <div class="content-line"></div>
-
 <div class="home-project-tile" markdown="1" onclick="window.location.href='https://jacobdichter.github.io/blog/2025/02/19/using-pca-composite-socioeconomic-variable.html'" style="cursor: pointer;">
 #### Using Principal Component Analysis to Produce a Composite Variable for Socioeconomic Analysis<br>
 <div style="display: flex; align-items: center; gap: 25px;">
@@ -43,6 +42,8 @@ Skills:  ```scikit-learn```  ```pandas```  ```geopandas``` ```K-Means Clustering
 I transformed raw socioeconomic data from the U.S. Census into an elegant composite metric using PCA. By extracting maximum variance through eigenvalue decomposition, we bypass arbitrary weighting and derive a statistically robust SES metric. Validation such as correlation and variance analysis helps strengthens the reliability of our approach and aligns with best practices in quantitative social science.
   </p>
 </div><br>
+Technologies: <img src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png
+" alt="Google BigQuery" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Google BigQuery&nbsp;<br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
 </div>
 <div class="content-line"></div>
