@@ -43,7 +43,7 @@ I transformed raw socioeconomic data from the U.S. Census into an elegant compos
   </p>
 </div><br>
 Technologies: <img src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png
-" alt="Google BigQuery" width="16.01" height="16.11" style="vertical-align:text-top; margin-right:4px;">Google BigQuery&nbsp;<br>
+" alt="Google BigQuery" width="16.01" height="16.11" style="margin-right:4px;">Google BigQuery&nbsp;<br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
 </div>
 <div class="content-line"></div>
