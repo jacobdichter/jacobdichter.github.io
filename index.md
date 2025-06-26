@@ -43,7 +43,7 @@ I transformed raw socioeconomic data from the U.S. Census into an elegant compos
   </p>
 </div><br>
 Technologies: <img src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png
-" alt="Google BigQuery" width="16.01" height="16.11" style="margin-right:4px;">Google BigQuery&nbsp;<br>
+" alt="Google BigQuery" width="16.01" height="16.11" style="transform: translateY(2px); margin-right:4px;">Google BigQuery&nbsp;<br>
 Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensionality Reduction```
 </div>
 <div class="content-line"></div>
@@ -60,8 +60,8 @@ Skills: ```Python``` ```PCA``` ```eigenvectors``` ```scikit-learn``` ```Dimensio
     Built a dynamic global trade dashboard in Power BI using DAX expressions and Power Query for advanced data modeling and visualization. Integrated multiple data sources to create interactive reports highlighting trade patterns and key metrics across regions. Populated SQL Server database with 2.1M-row master table across 100 tables with dynamic SQL queries.
   </p>
 </div><br>
-Technologies:  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Power BI&nbsp;&nbsp;
-<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="SQL" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">SQL Server&nbsp;&nbsp;
+Technologies:  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="16.01" height="16.11" style="transform: translateY(2px); margin-right:4px;">Power BI&nbsp;&nbsp;
+<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="SQL" width="16.01" height="16.11" style="transform: translateY(2px); margin-right:4px;">SQL Server&nbsp;&nbsp;
 <i class="devicon-azure-plain colored"></i>&nbsp;Azure<br>
 Skills:  ```Data Modeling```  ```DAX```  ```Dynamic SQL```  ```Star Schema```
 
@@ -80,9 +80,9 @@ Skills:  ```Data Modeling```  ```DAX```  ```Dynamic SQL```  ```Star Schema```
     This project implements a robust machine learning framework for credit default prediction, leveraging the UCL German Credit Dataset and benchmarking performance against the methodologies proposed in I-Cheng Yeh & Che-hui Lien’s 2009 paper ("The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients"). We extend their work by incorporating modern XGBoost optimization and conducting a rigorous comparative analysis of model performance.
   </p>
 </div><br>
-Technologies: <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Spark" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Apache Spark&nbsp;&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTqhOfgwGpS_2qbYqML2sLaH44N-0P92elA&s" alt="VBA" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">VBA&nbsp;&nbsp;
-<img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small_2x/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Excel&nbsp;&nbsp;<br>
+Technologies: <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Spark" width="16.01" height="16.11" style="transform: translateY(2px); margin-right:4px;">Apache Spark&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvTqhOfgwGpS_2qbYqML2sLaH44N-0P92elA&s" alt="VBA" width="16.01" height="16.11" style="transform: translateY(2px); margin-right:4px;">VBA&nbsp;&nbsp;
+<img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small_2x/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="16.01" height="16.11" style="transform: translateY(2px); margin-right:4px;">Excel&nbsp;&nbsp;<br>
 Skills: ```Excel macros``` ```Process automation``` ```Predictive Modeling``` ```Analytics```
 </div>
 
