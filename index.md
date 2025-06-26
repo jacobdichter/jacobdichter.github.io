@@ -81,9 +81,9 @@ Skills:  ```Data Modeling```  ```DAX```  ```Dynamic SQL```  ```Star Schema```
   </p>
 </div><br>
 Technologies: <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Spark" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Apache Spark&nbsp;&nbsp;
-<img src="{{ /assets/Microsoft_Visual_Basic_for_Applications_logo1.png | absolute_url }}" alt="VBA" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">MS VBA&nbsp;<br>
-
-Skills: ```Python``` ```XGBoost``` ```Predictive Modeling``` ```Analytics```
+<img src="{{ '/assets/Microsoft_Visual_Basic_for_Applications_logo1.png' | absolute_url }}" alt="VBA" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">MS VBA&nbsp;nbsp;
+<img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small_2x/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="16.01" height="16.11" style="vertical-align:middle; margin-right:4px;">Excel&nbsp;&nbsp;<br>
+Skills: ```Excel macros``` ```Process automation``` ```Predictive Modeling``` ```Analytics```
 </div>
 
 <div class="content-line-section"></div>
